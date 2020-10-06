@@ -1,0 +1,5175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+
+  <sets>
+    <set>
+      <name>BG_5</name>
+      <longname>Berserk_heroes_5_set</longname>
+      <settype>Берсерк.Герои</settype>
+      <releasedate>2015-04-20</releasedate>
+    </set>
+  </sets>
+
+  <cards>
+
+  <!-- Степные карты 5 сета -->
+
+    <card>
+      <name>Адан</name>
+      <text>Рывок. Найм:Адан получает +1 к удару за каждое другое ваше существо.</text>
+      <set rarity="common" num="1" picurl="https://berserk.ru/image/data/Берсерк/stepi-5-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>4</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Адепт пламени</name>
+      <text>Найм: Вы можете заплатить 1 молитву, при этом выстрел на 2.</text>
+      <set rarity="common" num="2" picurl="https://berserk.ru/image/data/Берсерк/stepi-52-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>1</manacost>
+        <type>Существо - Тоа-дан</type>
+        <pt>1/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Аколит Дзара</name>
+      <text>3 молитвы: Ранить персонажа на 3.</text>
+      <set rarity="rare" num="3" picurl="https://berserk.ru/image/data/Берсерк/stepi-53-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>4</manacost>
+        <type>Существо - Тоа-дан</type>
+        <pt>3/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Берсерк Братства</name>
+      <text>Найм: Сбросьте все карты.</text>
+      <set rarity="rare" num="4" picurl="https://berserk.ru/image/data/Берсерк/stepi-54-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Существо - Братство</type>
+        <pt>5/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бешеный орк</name>
+      <text>Рывок. Найм: Получите 2 жетона молитвы.</text>
+      <set rarity="common" num="5" picurl="https://berserk.ru/image/data/Берсерк/stepi-55-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Существо - Орк</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Боевая ярость</name>
+      <text>Существо получает +2 к удару. Возьмите карту.</text>
+      <set rarity="common" num="6" picurl="https://berserk.ru/image/data/Берсерк/stepi-56-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Буйный воитель</name>
+      <text>Найм: Вы можете разыграть существо стоимостью 2 или менее бесплатно до конца хода, это существо получает Рывок.</text>
+      <set rarity="uncommon" num="7" picurl="https://berserk.ru/image/data/stepi-57-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>5</manacost>
+        <type>Существо - Орк</type>
+        <pt>3/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Волки пустоши</name>
+      <text>Орда. Когда наносит раны ударом герою, Поиск– Волки Пустоши.</text>
+      <set rarity="uncommon" num="8" picurl="https://berserk.ru/image/data/Берсерк/stepi-58-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Существо - Зверь</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Воспламенение</name>
+      <text>Ранить персонажа на 6. Воспламенение стоит на 1 монету меньше за каждое ваше существо в игре.</text>
+      <set rarity="uncommon" num="9" picurl="https://berserk.ru/image/data/Берсерк/stepi-59-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>8</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Второе дыхание</name>
+      <text>Закройте каждое существо стоимостью 4 или более. Откройте каждое существо стоимостью 3 или менее, эти существа могут снова атаковать.</text>
+      <set rarity="ultrarare" num="10" picurl="https://berserk.ru/image/data/Берсерк/stepi-510-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>4</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Гремлины</name>
+      <text>Орда. Когда наносят раны герою, Гремлины получает +1 к удару.</text>
+      <set rarity="common" num="11" picurl="https://berserk.ru/image/data/Берсерк/stepi-511-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>1</manacost>
+        <type>Существо - Гремлин</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Двойной ожог</name>
+      <text>Ранить существо на 3; если герой противника маг или жрец, ранить этого героя его на 3.</text>
+      <set rarity="uncommon" num="12" picurl="https://berserk.ru/image/data/Берсерк/stepi-512-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Дуэлянт</name>
+      <text>Защита от заклинаний. Первый удар.</text>
+      <set rarity="common" num="13" picurl="https://berserk.ru/image/data/Берсерк/stepi-513-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Жрец змея</name>
+      <text>1 молитва: Жрец змея получает +1 к удару.</text>
+      <set rarity="common" num="14" picurl="https://berserk.ru/image/data/Берсерк/stepi-514-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Тоа-Дан</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Заводной ящер</name>
+      <text>Может атаковать или выступать защитником только если другое ваше существо атаковало или выступало защитником в этот ход.</text>
+      <set rarity="common" num="15" picurl="https://berserk.ru/image/data/Берсерк/stepi-515-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Существо - Зверь</type>
+        <pt>4/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Засуха</name>
+      <text>Когда вашего героя атаковало существо противника, вы можете уничтожить Засуху, при этом положите это существо под низ колоды владельца.</text>
+      <set rarity="uncommon" num="16" picurl="https://berserk.ru/image/data/Берсерк/stepi-516-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Событие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Игнис</name>
+      <text>Игнис стоит на 3 монеты дешевле, если вы разыгрывали заклинание в этот ход.</text>
+      <set rarity="common" num="17" picurl="https://berserk.ru/image/data/Берсерк/stepi-517-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>5</manacost>
+        <type>Существо - Зверь</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Из искры - пламя</name>
+      <text>Выберите одно из: - Ранить персонажа на 3. - Заплатите 4 монеты, при этом ранить каждого персонажа на 3.</text>
+      <set rarity="rare" num="18" picurl="https://berserk.ru/image/data/Берсерк/stepi-518-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Кандийский чародей</name>
+      <text>Заклинания наносят герою противника на 1 урон больше.</text>
+      <set rarity="uncommon" num="19" picurl="https://berserk.ru/image/data/Берсерк/stepi-519-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Тоа-Дан</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Капеллан</name>
+      <text>Рывок. Найм: Заплатите до 4 жетонов молитв, Капеллан получает +2 к удару за каждый заплаченный .</text>
+      <set rarity="common" num="20" picurl="https://berserk.ru/image/data/Берсерк/stepi-520-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>0/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Клинок Илле</name>
+      <text>4 монеты и поровот: До конца хода ваш герой получает: «Каждое ваше существо имеет +1 к удару за каждое другое ваше существо, которое атаковало в этот ход».</text>
+      <set rarity="uncommon" num="21" picurl="https://berserk.ru/image/data/Берсерк/stepi-521-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Оружие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Командующий Эрих</name>
+      <text>Попорот: Если у вас 8 или более существ, каждое ваше существо получает +3 к удару и Рывок до конца хода.</text>
+      <set rarity="ultrarare" num="22" picurl="https://berserk.ru/image/data/Берсерк/stepi-522-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost></manacost>
+        <type>Герой-воин</type>
+        <pt>28</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Копьеметатели</name>
+      <text>Найм: Выстрел на 2, если герой получал раны от ударов в этот ход.</text>
+      <set rarity="uncommon" num="23" picurl="https://berserk.ru/image/data/Берсерк/stepi-523-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Крылан</name>
+      <text>Направленный удар. Защита от атак. Не может выступать защитником.</text>
+      <set rarity="uncommon" num="24" picurl="https://berserk.ru/image/data/Берсерк/stepi-524-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>1</manacost>
+        <type>Существо - Зверь</type>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>Ц
+    </card>
+
+    <card>
+      <name>Кулхан</name>
+      <text>Направленный удар. Скрытность, если ваш герой – разбойник.</text>
+      <set rarity="common" num="25" picurl="https://berserk.ru/image/data/Берсерк/stepi-525-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Наемник</type>
+        <pt>3/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Купец</name>
+      <text>3 монеты: Положите другое ваше существо из игры в руку.</text>
+      <set rarity="common" num="26" picurl="https://berserk.ru/image/data/Берсерк/stepi-526-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Наемник</type>
+        <pt>1/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кшар</name>
+      <text>Получает на 2 раны меньше от горных карт.</text>
+      <set rarity="common" num="27" picurl="https://berserk.ru/image/data/Берсерк/stepi-527-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Наемник</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Линнет</name>
+      <text>Поворот: Получите 1 жетон молитвы. Если Линнет должна получить раны, вы можете вместо этого заплатить 1, при этом предотвратить одну из этих ран.</text>
+      <set rarity="common" num="28" picurl="https://berserk.ru/image/data/Берсерк/stepi-528-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost></manacost>
+        <type>Герой-жрец</type>
+        <pt>24</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Мастер клинка</name>
+      <text>Направленный удар по существам с Уязвимостью.</text>
+      <set rarity="common" num="29" picurl="https://berserk.ru/image/data/Берсерк/stepi-529-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost></manacost>
+        <type>Существо - Аккениец</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Мериса</name>
+      <text>Каждый раз, когда ваше существо наносит раны ударом герою противника, существо противника получает Уязвимость.2 монеты и поворот: Закройте существо с Уязвимостью.</text>
+      <set rarity="rare" num="30" picurl="https://berserk.ru/image/data/Берсерк/stepi-530-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost></manacost>
+        <type>Герой-разбойник</type>
+        <pt>24</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Меткий орк</name>
+      <text>Найм: Выстрел на 2 по каждому существу с Уязвимостью; после этого все существа противника получают Уязвимость.</text>
+      <set rarity="rare" num="31" picurl="https://berserk.ru/image/data/Берсерк/stepi-531-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>6</manacost>
+        <type>Существо - Орк</type>
+        <pt>5/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Молодой орк</name>
+      <text></text>
+      <set rarity="common" num="32" picurl="https://berserk.ru/image/data/Берсерк/stepi-532-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>1</manacost>
+        <type>Существо - Орк</type>
+        <pt>3/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Накалмлять</name>
+      <text>Заплатите 5 или менее молитв; нанесите столько же ран каждому Герою.</text>
+      <set rarity="common" num="33" picurl="https://berserk.ru/image/data/Берсерк/stepi-533-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Нгор</name>
+      <text>Найм: 2 или менее существ получают уязвимость.</text>
+      <set rarity="common" num="34" picurl="https://berserk.ru/image/data/Берсерк/stepi-534-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>5</manacost>
+        <type>Существо - Зверь</type>
+        <pt>4/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Обряд защиты</name>
+      <text>Получите 2 жетона молитвы. Предотвратите 2 раны, которые будут нанесены вашим существам до вашего следующего хода.</text>
+      <set rarity="common" num="35" picurl="https://berserk.ru/image/data/Берсерк/stepi-535-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Охотники за реликвиями</name>
+      <text>Скрытность. Когда Охотники за реликвиями раскрываются, если в вашей руке карт меньше чем у противника, возьмите 2 карты.</text>
+      <set rarity="rare" num="36" picurl="https://berserk.ru/image/data/Берсерк/stepi-536-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Братство</type>
+        <pt>3/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Плетение огня</name>
+      <text>Ранить персонажа на 4.</text>
+      <set rarity="common" num="37" picurl="https://berserk.ru/image/data/Берсерк/stepi-537-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Посвященный Дзара</name>
+      <text>Каждый раз, когда вы получаете жетон молитвы, каждое ваше существо получает +1 к удару до конца хода.</text>
+      <set rarity="ultrarare" num="38" picurl="https://berserk.ru/image/data/Берсерк/stepi-538-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>5</manacost>
+        <type>Существо - Тоа-Дан</type>
+        <pt>6/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Призывательница Дзара</name>
+      <text>Найм: Посмотрите три верхних карты вашей колоды, покажите существо; вы можете заплатить жетон молитвы, равные его стоимости и вызвать это существо, при этом оно получает Рывок. Остальные карты замешайте в колоду.</text>
+      <set rarity="rare" num="39" picurl="https://berserk.ru/image/data/Берсерк/stepi-539-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Тоа-Дан</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Протекция</name>
+      <text>Существа выбранной стоимости не наносят ран до конца хода противника.</text>
+      <set rarity="uncommon" num="40" picurl="https://berserk.ru/image/data/Берсерк/stepi-540-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Пылающая стрела</name>
+      <text>Ранить существо на 2. Получите 1 жетон молитвы.</text>
+      <set rarity="common" num="41" picurl="https://berserk.ru/image/data/Берсерк/stepi-541-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Солнечный грифон</name>
+      <text>Скрытность. Не может раскрыться в начале хода. Когда ваше сущесво наносит раны ударом герою противника, вы можете раскрыть Солнечного грифона.</text>
+      <set rarity="rare" num="42" picurl="https://berserk.ru/image/data/Берсерк/stepi-542-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Существо - Зверь</type>
+        <pt>6/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Степной волколак</name>
+      <text>Когда Степной волколак наносит раны ударом герою, откройте Степного волколака, он может снова атаковать.</text>
+      <set rarity="uncommon" num="43" picurl="https://berserk.ru/image/data/Берсерк/stepi-543-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>4</manacost>
+        <type>Существо - Зверь</type>
+        <pt>5/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Стилет</name>
+      <text>:3 монеты и поворот: Выберите одно из: – Существо получает Уязвимость. – Ранить существо с Уязвимостью на 1.</text>
+      <set rarity="rare" num="44" picurl="https://berserk.ru/image/data/Берсерк/stepi-544-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>1</manacost>
+        <type>Карта поддержки - Оружие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Тамия</name>
+      <text>Персонажи не могут быть излечены.</text>
+      <set rarity="uncommon" num="45" picurl="https://berserk.ru/image/data/Берсерк/stepi-545-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>4</manacost>
+        <type>Существо - Тоа-Дан</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Уязвимость</name>
+      <text>Существо получает Уязвимость. Возьмите карту.</text>
+      <set rarity="common" num="46" picurl="https://berserk.ru/image/data/Берсерк/stepi-546-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Шар бури</name>
+      <text>Поиск – степная карта.</text>
+      <set rarity="rare" num="47" picurl="https://berserk.ru/image/data/Берсерк/stepi-547-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Сфера</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Яйцо дракона</name>
+      <text>В конце хода ранить героя противника на 1 за каждый ваш жетон молитвы, потраченный в этот ход. 1 жетон молитвы: Откройте вашего героя, он может применить особенности в этот ход ещё раз.</text>
+      <set rarity="ultrarare" num="48" picurl="https://berserk.ru/image/data/Берсерк/stepi-548-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Амулет</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <!-- Горные карты 5 сета -->
+
+    <card>
+      <name>Ай-суру</name>
+      <text>Каждый раз, когда вы разыгрываете заклинание, получите 1 жетон молитвы.</text>
+      <set rarity="common" num="49" picurl="https://berserk.ru/image/data/Берсерк/gorii-5-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Алмазный алтарь</name>
+      <text>Каждый раз когда вы играете заклинание, получите 1 жетон молитвы. 5 молитв: Положите заклинание с кладбища в руку.</text>
+      <set rarity="ultrarare" num="50" picurl="https://berserk.ru/image/data/Берсерк/gorii-52-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Местность</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Баграх</name>
+      <text>1 жетон молитвы: Посмотрите верхнюю карту любой колоды.</text>
+      <set rarity="common" num="51" picurl="https://berserk.ru/image/data/Берсерк/gorii-53-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>5</manacost>
+        <type>Существо - Зверь</type>
+        <pt>5/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Балеог</name>
+      <text>Пока Балеог открыт, он имеет Броню 1. 2 монеты и поворот: Ранить на 2 существо, которое наносило раны Балеогу в прошлый ход.</text>
+      <set rarity="ultrarare" num="52" picurl="https://berserk.ru/image/data/Берсерк/gorii-54-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost></manacost>
+        <type>Герой-воин</type>
+        <pt>26</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Бешенство</name>
+      <text>Cущество получает Бешенство.</text>
+      <set rarity="common" num="53" picurl="https://berserk.ru/image/data/Берсерк/gorii-55-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Бугур</name>
+      <text>Получает на 2 раны меньше от болотных карт.</text>
+      <set rarity="common" num="54" picurl="https://berserk.ru/image/data/Берсерк/gorii-56-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Буревестник</name>
+      <text>Буревестник получает +1 к удару, когда вы получаете жетон молитвы.</text>
+      <set rarity="common" num="55" picurl="https://berserk.ru/image/data/Берсерк/gorii-57-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>1</manacost>
+        <type>Существо - Линунг</type>
+        <pt>1/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вараэль</name>
+      <text>Скрытность. Не может раскрыться в начале хода. Когда ваше заклинание уничтожает существо противника, раскройте Вараэля.</text>
+      <set rarity="uncommon" num="56" picurl="https://berserk.ru/image/data/Берсерк/gorii-58-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Ангел</type>
+        <pt>5/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Варг</name>
+      <text>Найм: Вы можете показать заклинание из руки, при этом Варг получает +1 к удару и +1 к жизням.</text>
+      <set rarity="common" num="57" picurl="https://berserk.ru/image/data/Берсерк/gorii-59-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Зверь</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ватажник</name>
+      <text>Найм: Получите 2 жетона молитвы.</text>
+      <set rarity="common" num="58" picurl="https://berserk.ru/image/data/Берсерк/gorii-510-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вельтар</name>
+      <text>2 жетона молитвы: Ранить существо на 2.</text>
+      <set rarity="uncommon" num="59" picurl="https://berserk.ru/image/data/Берсерк/gorii-511-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Линунг</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Визит к броннику</name>
+      <text>Существо получает Броню 1. Возьмите карту.</text>
+      <set rarity="common" num="60" picurl="https://berserk.ru/image/data/Берсерк/gorii-512-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Вождь снорлингов</name>
+      <text>Когда вы получаете жетон молитвы, закройте 1 монету противника, она не открывается в его следующий ход.</text>
+      <set rarity="uncommon" num="61" picurl="https://berserk.ru/image/data/Берсерк/gorii-513-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>5</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>3/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вукула</name>
+      <text>Найм: Противник теряет 1 монету. Когда вы разыгрываете заклинание, вы можете заплатить 3 монеты, при этом положите Вукулу с кладбища в руку.</text>
+      <set rarity="rare" num="62" picurl="https://berserk.ru/image/data/Берсерк/gorii-514-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>5</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>5/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Гарпия</name>
+      <text>Скрытность. В конце хода вы можете скрыть Гарпию, если вы разыграли заклинание в этот ход.</text>
+      <set rarity="common" num="63" picurl="https://berserk.ru/image/data/Берсерк/gorii-515-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>1</manacost>
+        <type>Существо - Гарпия</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Гном</name>
+      <text></text>
+      <set rarity="common" num="64" picurl="https://berserk.ru/image/data/Берсерк/gorii-516-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Существо - Гном</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Гном-исследователь</name>
+      <text>Найм: Ваше следующее заклинание стоит на 2 монеты дешевле.</text>
+      <set rarity="common" num="65" picurl="https://berserk.ru/image/data/Берсерк/gorii-517-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Гном</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Гном-рейдер</name>
+      <text>Рывок. Когда Гном-рейдер наносит раны герою, можете сбросить все карты, при этом возьмите 4 карты.</text>
+      <set rarity="rare" num="66" picurl="https://berserk.ru/image/data/Берсерк/gorii-518-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Гном</type>
+        <pt>3/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Доспех вождя</name>
+      <text>Ваш герой имеет Броню Х, где Х — количество ваших открытых существ.</text>
+      <set rarity="rare" num="67" picurl="https://berserk.ru/image/data/Берсерк/gorii-519-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Карта поддержки - Броня</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Дух горы</name>
+      <text>Рывок. Первый удар. В начале вашего хода заплатите 2 жетона молитвы, иначе уничтожьте Духа горы.</text>
+      <set rarity="rare" num="68" picurl="https://berserk.ru/image/data/Берсерк/gorii-520-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Дракон</type>
+        <pt>4/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Заморозка</name>
+      <text>Закройте существо, оно не открывается в следующий ход противника. Возьмите карту.</text>
+      <set rarity="common" num="69" picurl="https://berserk.ru/image/data/Берсерк/gorii-521-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Из клинка - арсенал</name>
+      <text>Выберите одно из: - Существо получает Броню 2. - Заплатите 3 монеты, при этом каждое ваше существо получают Броню 2.</text>
+      <set rarity="rare" num="70" picurl="https://berserk.ru/image/data/Берсерк/gorii-522-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Иккол</name>
+      <text>Каждый раз когда вы разыгрываете заклинание, можете ранить героя противника на 1.</text>
+      <set rarity="common" num="71" picurl="https://berserk.ru/image/data/Берсерк/gorii-523-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Существо - Линунг</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Исварс</name>
+      <text>Найм: Посмотрите две верхние карты колоды; положите одну из них в руку, а другую под низ колоды.</text>
+      <set rarity="common" num="72" picurl="https://berserk.ru/image/data/Берсерк/gorii-524-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Линунг</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кольцо мага</name>
+      <text>1 монета: Посмотрите три верхние карты вашей колоды, положите их обратно в любом порядке. Поворот: Уничтожьте Кольцо мага: Возьмите карту.</text>
+      <set rarity="rare" num="73" picurl="https://berserk.ru/image/data/Берсерк/gorii-525-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Амулет</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Ледяной голем</name>
+      <text>Найм: Закройте существо противника, оно не открывается в следующий ход.</text>
+      <set rarity="common" num="74" picurl="https://berserk.ru/image/data/Берсерк/gorii-526-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>4</manacost>
+        <type>Существо - Голем</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Манн</name>
+      <text>Поворот: Получите 1 жетон молитвы. 2 молитвы: Ранить персонажа на 1.</text>
+      <set rarity="common" num="75" picurl="https://berserk.ru/image/data/Берсерк/gorii-527-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost></manacost>
+        <type>Герой-жрец</type>
+        <pt>25</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Молотобоец</name>
+      <text>Найм: Откройте вашего героя, он может применить особенности в этот ход еще раз.</text>
+      <set rarity="common" num="76" picurl="https://berserk.ru/image/data/Берсерк/gorii-528-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>4</manacost>
+        <type>Существо - Наемник</type>
+        <pt>3/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ниара</name>
+      <text>Поворот: Получите 1 жетон молитвы. 2 молитвы: Ранить персонажа на 1.</text>
+      <set rarity="rare" num="77" picurl="https://berserk.ru/image/data/Берсерк/gorii-529-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost></manacost>
+        <type>Герой-маг</type>
+        <pt>25</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Нигде не скрыться!</name>
+      <text>Раскройте всех существ. Ранить каждое существо на 3.</text>
+      <set rarity="uncommon" num="78" picurl="https://berserk.ru/image/data/Берсерк/gorii-530-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>5</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Обряд грома</name>
+      <text>Получите 2 жетона молитвы. Ранить существо на Х, где Х – количество ваших жетонов молитвы.</text>
+      <set rarity="common" num="79" picurl="https://berserk.ru/image/data/Берсерк/gorii-531-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Оледенение</name>
+      <text>Существа противника не открываются в его следующий ход.</text>
+      <set rarity="common" num="80" picurl="https://berserk.ru/image/data/Берсерк/gorii-532-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>4</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Оседлавший лавину</name>
+      <text>Найм: Закройте существо; оно не открывается, пока Оседлавший лавину в игре.</text>
+      <set rarity="rare" num="81" picurl="https://berserk.ru/image/data/Берсерк/gorii-533-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>4</manacost>
+        <type>Существо - Линунг</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Подготовить волшбу</name>
+      <text>Поиск – заклинание стоимостью 3 монеты, заклинание стоимостью 2 монеты, заклинание стоимостью 1 монета.</text>
+      <set rarity="rare" num="82" picurl="https://berserk.ru/image/data/Берсерк/gorii-534-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>5</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Предвидение</name>
+      <text>Посмотрите две верхние карты вашей колоды; положите одну из них в руку, положите вторую на верх или под низ колоды.</text>
+      <set rarity="common" num="83" picurl="https://berserk.ru/image/data/Берсерк/gorii-535-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Разорение</name>
+      <text>В конце вашего хода, если у противника нет открытых монет, уничтожьте Разорение, при этом все монеты противника не открываются в его следующий ход.</text>
+      <set rarity="uncommon" num="84" picurl="https://berserk.ru/image/data/Берсерк/gorii-536-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Событие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Редья</name>
+      <text>1 монета: Cущество получает Бешенство. Уничтожьте Редью: Уничтожьте всех существ, которые атаковали в прошлый ход противника.</text>
+      <set rarity="ultrarare" num="85" picurl="https://berserk.ru/image/data/Берсерк/gorii-537-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Наемник</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Рожденная бурей</name>
+      <text>Найм: Противник может потерять 1 монету, при этом уничтожить Рожденную бурей.</text>
+      <set rarity="ultrarare" num="86" picurl="https://berserk.ru/image/data/Берсерк/gorii-538-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Существо - Линунг</type>
+        <pt>5/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Рунная чародейка</name>
+      <text>Рунная чародейка может быть в колоде любого героя-мага. Найм: Положите заклинание с кладбища в руку.</text>
+      <set rarity="uncommon" num="87" picurl="https://berserk.ru/image/data/Берсерк/gorii-539-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Линунг</type>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Скальд</name>
+      <text>Рывок. Поворот: Получите 1 жетон молитвы.</text>
+      <set rarity="uncommon" num="88" picurl="https://berserk.ru/image/data/Берсерк/gorii-540-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>1</manacost>
+        <type>Существо - Наемник</type>
+        <pt>0/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Сквозь бурю</name>
+      <text>Получите 2 жетона молитвы. Закройте 2 монеты противника, они не открываются в свой следующий ход.</text>
+      <set rarity="uncommon" num="89" picurl="https://berserk.ru/image/data/Берсерк/gorii-541-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Сокрушающий удар</name>
+      <text>Уничтожьте экипировку; если ваш герой – воин, вы можете уничтожить еще одну.</text>
+      <set rarity="uncommon" num="90" picurl="https://berserk.ru/image/data/Берсерк/gorii-542-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Трескучий мороз</name>
+      <text>Ранить существо на 1; если оно погибло, Поиск – Трескучий мороз.</text>
+      <set rarity="uncommon" num="91" picurl="https://berserk.ru/image/data/Берсерк/gorii-543-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>0</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Хранитель бури</name>
+      <text>Найм: Заплатите Х жетонов молитвы (не менее 1), при этом Поиск – заклинание стоимостью Х или менее.</text>
+      <set rarity="uncommon" num="92" picurl="https://berserk.ru/image/data/Берсерк/gorii-544-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Линунг</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Шар молний</name>
+      <text>Поиск – горная карта.</text>
+      <set rarity="rare" num="93" picurl="https://berserk.ru/image/data/Берсерк/gorii-545-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Сфера</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Шаровая молния</name>
+      <text>Получите 2 жетона молитвы. Ранить существо на 4.</text>
+      <set rarity="uncommon" num="94" picurl="https://berserk.ru/image/data/Берсерк/gorii-546-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Эйвинд</name>
+      <text>Эйвинд может быть в колоде любого героя-воина. Найм: Эйвинд получает +1 к удару и +1 к жизням, если у вас есть оружие.</text>
+      <set rarity="common" num="95" picurl="https://berserk.ru/image/data/Берсерк/gorii-547-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>4</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Электрификация</name>
+      <text>Орда. Ранить существо на 2 (+1 к урону за каждую другую карту "Электрификация" на вашем кладбище).</text>
+      <set rarity="common" num="96" picurl="https://berserk.ru/image/data/Берсерк/gorii-548-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <!-- Лесные карты 5 сета -->
+
+    <card>
+      <name>Антар</name>
+      <text></text>
+      <set rarity="common" num="97" picurl="https://berserk.ru/image/data/Берсерк/lesa-5-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Эльф</type>
+        <pt>2/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бер</name>
+      <text></text>
+      <set rarity="common" num="98" picurl="https://berserk.ru/image/data/Берсерк/lesa-52-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>6</manacost>
+        <type>Существо - Зверь</type>
+        <pt>6/8</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Берегиня</name>
+      <text>Скрытность. Если Берегиня скрыта и другая карта использует излечение, вы можете раскрыть Берегиню и излечить персонажа на 4.</text>
+      <set rarity="uncommon" num="99" picurl="https://berserk.ru/image/data/Берсерк/lesa-53-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>1/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Богл</name>
+      <text>Орда. Атаки по Боглу сводятся к 1.</text>
+      <set rarity="common" num="100" picurl="https://berserk.ru/image/data/Берсерк/lesa-54-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>1</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>1/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вердант</name>
+      <text>1 жетон молитвы: Вердант получает +2 к удару.</text>
+      <set rarity="common" num="101" picurl="https://berserk.ru/image/data/Берсерк/lesa-55-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ветвич</name>
+      <text>Каждый раз когда вы получаете жетон молитвы, излечите каждого вашего персонажа на 1.</text>
+      <set rarity="ultrarare" num="102" picurl="https://berserk.ru/image/data/Берсерк/lesa-56-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>5</manacost>
+        <type>Существо - Дракон</type>
+        <pt>4/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вожак сатиров</name>
+      <text>Опыт в атаке. Опыт в защите. Защита от заклинаний. 1 монета: Вожак сатиров теряет особенности, при этом получает +4 к удару.</text>
+      <set rarity="ultrarare" num="103" picurl="https://berserk.ru/image/data/Берсерк/lesa-57-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>6</manacost>
+        <type>Существо - Дитя Кронга</type>
+        <pt>5/9</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вьюрр</name>
+      <text>Получает на 2 раны меньше от степных карт.</text>
+      <set rarity="common" num="104" picurl="https://berserk.ru/image/data/Берсерк/lesa-58-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Зверь</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Глемсель</name>
+      <text>2 монеты: Существо теряет особенности до конца хода противника. Поворот: Существо без особенностей получает +1 к удару.</text>
+      <set rarity="ultrarare" num="105" picurl="https://berserk.ru/image/data/Берсерк/lesa-59-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost></manacost>
+        <type>Герой-маг</type>
+        <pt>27</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Дионея</name>
+      <text>Не может атаковать. Не может выступать защитником. При гибели другого вашего существа, возьмите карту.</text>
+      <set rarity="rare" num="106" picurl="https://berserk.ru/image/data/Берсерк/lesa-510-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Энт</type>
+        <pt>0/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Дубина</name>
+      <text>Ваш герой имеет: «Поворот: Существо наносит удар по вашему герою; ранить это существо на 3».</text>
+      <set rarity="rare" num="107" picurl="https://berserk.ru/image/data/Берсерк/lesa-511-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Карта поддержки - Оружие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Душистый хмель</name>
+      <text>Существо теряет особенности.</text>
+      <set rarity="common" num="108" picurl="https://berserk.ru/image/data/Берсерк/lesa-512-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>0</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Единство</name>
+      <text>Ваше существо до конца хода получает «Гибель: Поиск – существо».</text>
+      <set rarity="uncommon" num="109" picurl="https://berserk.ru/image/data/Берсерк/lesa-513-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Золото лепреконов</name>
+      <text>Каждый игрок получает 1 монету.</text>
+      <set rarity="common" num="110" picurl="https://berserk.ru/image/data/Берсерк/lesa-514-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Зумб</name>
+      <text>3 монеты: Ваше существо без ран сражается с существом противника. Поворот: Излечить существо на 2, если оно сражалось в этот ход.</text>
+      <set rarity="rare" num="111" picurl="https://berserk.ru/image/data/Берсерк/lesa-515-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost></manacost>
+        <type>Герой-воин</type>
+        <pt>27</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Из ростка - жизнь</name>
+      <text>Выберите одно из: - Полностью излечить ваше существо. - Заплатите 4 монеты, при этом полностью излечить каждое ваше существо.</text>
+      <set rarity="rare" num="112" picurl="https://berserk.ru/image/data/Берсерк/lesa-516-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Илу</name>
+      <text>3 жетона молитвы: Излечить Илу полностью.</text>
+      <set rarity="uncommon" num="113" picurl="https://berserk.ru/image/data/Берсерк/lesa-517-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Существо - Наемник</type>
+        <pt>4/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Лепрекон</name>
+      <text>Скрытность. Поворот: Получите 1 монету до конца хода.</text>
+      <set rarity="uncommon" num="114" picurl="https://berserk.ru/image/data/Берсерк/lesa-518-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>0/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ловушка леприконов</name>
+      <text>После действия героя противника вы можете уничтожить Ловушку лепреконов, при этом получите 2 монеты.</text>
+      <set rarity="uncommon" num="115" picurl="https://berserk.ru/image/data/Берсерк/lesa-519-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>1</manacost>
+        <type>Карта поддержки - Событие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Ловчий</name>
+      <text>Каждый раз когда, ваше существозаставили сразиться, откройте это существо.</text>
+      <set rarity="uncommon" num="116" picurl="https://berserk.ru/image/data/Берсерк/lesa-520-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Маг забвения</name>
+      <text>Найм: Выберите любое количество существ; каждое из них теряет особенности.</text>
+      <set rarity="rare" num="117" picurl="https://berserk.ru/image/data/Берсерк/lesa-521-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Наемник</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Марголок</name>
+      <text>Найм: Получите 2 жетона молитвы.</text>
+      <set rarity="common" num="118" picurl="https://berserk.ru/image/data/Берсерк/lesa-522-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Меркита</name>
+      <text>Скрытность. Поворот: Выстрел на 1. Если Меркита уничтожила существо, она скрывается.</text>
+      <set rarity="rare" num="119" picurl="https://berserk.ru/image/data/Берсерк/lesa-523-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Эльф</type>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Небесная стража</name>
+      <text>Найм: Противник раскрывает свое существо по своему выбору; Небесная стражасражается с этим существом.</text>
+      <set rarity="uncommon" num="120" picurl="https://berserk.ru/image/data/Берсерк/lesa-524-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>4/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Обряд цветения</name>
+      <text>Получите 2 жетона молитвы. Получите 1 монету.</text>
+      <set rarity="common" num="121" picurl="https://berserk.ru/image/data/Берсерк/lesa-525-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Онод</name>
+      <text>Найм: Закройте Онода. При атаке ударом Онод не открывается в свой следующий ход.</text>
+      <set rarity="uncommon" num="122" picurl="https://berserk.ru/image/data/Берсерк/lesa-526-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>7</manacost>
+        <type>Существо - Энт</type>
+        <pt>7/14</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Плодородие</name>
+      <text>Потеряйте Х монет, при этом получите X жетонов молитвы.</text>
+      <set rarity="common" num="123" picurl="https://berserk.ru/image/data/Берсерк/lesa-527-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>0</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Подготовка лучников</name>
+      <text>Выберите одно из: - Существо получает « Поворот: Выстрел на 2». - Каждое существо противника теряют защиту от выстрелов.</text>
+      <set rarity="uncommon" num="124" picurl="https://berserk.ru/image/data/Берсерк/lesa-528-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Подлунник</name>
+      <text>Найм: Излечить персонажа на 5.</text>
+      <set rarity="common" num="125" picurl="https://berserk.ru/image/data/Берсерк/lesa-529-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>5</manacost>
+        <type>Существо - Зверь</type>
+        <pt>5/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Подмога</name>
+      <text>Заплатите количество жетонов молитвы, равное стоимости существа в игре, при этом вызовите существо с таким же названием.</text>
+      <set rarity="rare" num="126" picurl="https://berserk.ru/image/data/Берсерк/lesa-530-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Разведка</name>
+      <text>Показывайте свою колоду по одной карте, начиная с верха, пока не покажете двух существ или пока не кончится колода; возьмите показанных существ в руку, остальные карты замешайте в колоду.</text>
+      <set rarity="uncommon" num="127" picurl="https://berserk.ru/image/data/Берсерк/lesa-531-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Ришалис</name>
+      <text>Cкрытность. Когда Ришалис раскрывается, выстрел на 1.</text>
+      <set rarity="common" num="128" picurl="https://berserk.ru/image/data/Берсерк/lesa-532-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>1</manacost>
+        <type>Существо - Эльф</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Рог единорога</name>
+      <text>Когда ваш герой получает раны, покажите верхнюю карту вашей колоды; если это существо, положите его в руку.</text>
+      <set rarity="uncommon" num="129" picurl="https://berserk.ru/image/data/Берсерк/lesa-533-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Карта поддержки - Амулет</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Рогаль</name>
+      <text>Найм: Сразиться с существом противника.</text>
+      <set rarity="common" num="130" picurl="https://berserk.ru/image/data/Берсерк/lesa-534-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Существо - Дитя Кронга</type>
+        <pt>3/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Рузарх</name>
+      <text>Найм: Выберите любое количество существ; cразиться с каждым из них в выбранном вами порядке.</text>
+      <set rarity="rare" num="131" picurl="https://berserk.ru/image/data/Берсерк/lesa-535-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>8</manacost>
+        <type>Существо - Зверь</type>
+        <pt>5/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Снежный циклоп</name>
+      <text>Найм: Уничтожить событие или местность.</text>
+      <set rarity="common" num="132" picurl="https://berserk.ru/image/data/Берсерк/lesa-536-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>5</manacost>
+        <type>Существо - Великан</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Снурли</name>
+      <text>Когда другое ваше существо входит в игру, вы можете излечить персонажа на 1.</text>
+      <set rarity="common" num="133" picurl="https://berserk.ru/image/data/Берсерк/lesa-537-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>1/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Странствующий друид</name>
+      <text>Найм: Возьмите карту.</text>
+      <set rarity="common" num="134" picurl="https://berserk.ru/image/data/Берсерк/lesa-538-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Стычка</name>
+      <text>Ваше существо до конца хода получает «Гибель: Возьмите карту»; это существо и существо противника сражаются.</text>
+      <set rarity="common" num="135" picurl="https://berserk.ru/image/data/Берсерк/lesa-539-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Сумка лепрекона</name>
+      <text>Х молитв: Получите Х монет до конца хода.</text>
+      <set rarity="ultrarare" num="136" picurl="https://berserk.ru/image/data/Берсерк/lesa-540-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Карта поддержки - Амулет</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Фея леса</name>
+      <text>Поворот: Излечить персонажа на 1; получите 1 монету до конца хода.</text>
+      <set rarity="uncommon" num="137" picurl="https://berserk.ru/image/data/Берсерк/lesa-541-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Фея</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Фиал исцеления</name>
+      <text>Излечить суммарно до 3 ран с любых ваших персонажей.</text>
+      <set rarity="common" num="138" picurl="https://berserk.ru/image/data/Берсерк/lesa-542-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Хирви</name>
+      <text>Поворот: Получите 1 жетон молитвы. 7 жетонов молитвы и поворот: Поиск - существо.</text>
+      <set rarity="common" num="139" picurl="https://berserk.ru/image/data/Берсерк/lesa-543-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost></manacost>
+        <type>Герой-жрец</type>
+        <pt>28</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Хмарник</name>
+      <text>1 монета: Излечить героя на 2.</text>
+      <set rarity="common" num="140" picurl="https://berserk.ru/image/data/Берсерк/lesa-544-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>3/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Читающая небо</name>
+      <text>1 жетон молитвы: Следующее ваше существо стоит на 1 дешевле.</text>
+      <set rarity="rare" num="141" picurl="https://berserk.ru/image/data/Берсерк/lesa-545-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Эльф</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Эльф-всадник</name>
+      <text>Поворот: Выстрел на 2.</text>
+      <set rarity="common" num="142" picurl="https://berserk.ru/image/data/Берсерк/lesa-546-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Эльф</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Эльф-лазутчик</name>
+      <text>Первый удар. Скрытность.</text>
+      <set rarity="common" num="143" picurl="https://berserk.ru/image/data/Берсерк/lesa-547-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Эльф</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Эхин</name>
+      <text>2 жетона молитвы: Покажите верхнюю карту своей колоды; если это существо, возьмите его в руку.</text>
+      <set rarity="rare" num="144" picurl="https://berserk.ru/image/data/Берсерк/lesa-548-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>5</manacost>
+        <type>Существо - Дитя Кронга</type>
+        <pt>4/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <!-- Болотные карты 5 сета -->
+
+    <card>
+      <name>Акванит-громила</name>
+      <text>Когда Акванит-громила становится целью заклинания, уничтожьте Акванита-громилу.</text>
+      <set rarity="uncommon" num="145" picurl="https://berserk.ru/image/data/Берсерк/swamp-5-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Акванит</type>
+        <pt>6/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Аниаг</name>
+      <text>Защита от выстрелов. Найм: Получите 2 жетона молитвы.</text>
+      <set rarity="uncommon" num="146" picurl="https://berserk.ru/image/data/Берсерк/swamp-52-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>5</manacost>
+        <type>Существо - Подземник</type>
+        <pt>5/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Архелон</name>
+      <text>При атаке по закрытому существу, откройте Архелона; он может атаковать снова.</text>
+      <set rarity="uncommon" num="147" picurl="https://berserk.ru/image/data/Берсерк/swamp-53-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>6</manacost>
+        <type>Существо - Зверь</type>
+        <pt>6/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ассасинация вайлов</name>
+      <text>Ранить закрытое существо по силе его удара.</text>
+      <set rarity="common" num="148" picurl="https://berserk.ru/image/data/Берсерк/swamp-54-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Аярд</name>
+      <text>Найм: Закройте Аярда. 1 жетон молитвы: Откройте Аярда. Аярд открывается только своими способностями.</text>
+      <set rarity="uncommon" num="149" picurl="https://berserk.ru/image/data/Берсерк/swamp-55-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>1</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Божественное просветление</name>
+      <text>Заплатите Х жетонов молитвы; возьмите Х карт.</text>
+      <set rarity="rare" num="150" picurl="https://berserk.ru/image/data/Берсерк/swamp-56-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>Х</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Бокор</name>
+      <text>Найм: Вы можете отравить существо на 1. Гибель: Вы можете отравить существо на 1.</text>
+      <set rarity="uncommon" num="151" picurl="https://berserk.ru/image/data/Берсерк/swamp-57-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бриус</name>
+      <text>Скрытность. +1 к удару по закрытым персонажам.</text>
+      <set rarity="common" num="152" picurl="https://berserk.ru/image/data/Берсерк/swamp-58-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Подземник</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бугай</name>
+      <text>Регенерация 2. Если ваш герой должен получить раны, вместо этого Бугай получает столько же ран.</text>
+      <set rarity="rare" num="153" picurl="https://berserk.ru/image/data/Берсерк/swamp-59-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>5</manacost>
+        <type>Существо - Тролль</type>
+        <pt>2/8</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бумбол</name>
+      <text>Регенерация 2.</text>
+      <set rarity="common" num="154" picurl="https://berserk.ru/image/data/Берсерк/swamp-510-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Тролль</type>
+        <pt>1/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Владыка боли</name>
+      <text>Не может атаковать. Не может выступать защитником. 2 жетона молитвы: Владыка боли теряет особенности до конца хода противника.</text>
+      <set rarity="uncommon" num="155" picurl="https://berserk.ru/image/data/Берсерк/swamp-511-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Подземник</type>
+        <pt>6/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вождь топей</name>
+      <text>Защита от выстрелов. 1 жетон молитвы: Закрыть существо.</text>
+      <set rarity="rare" num="156" picurl="https://berserk.ru/image/data/Берсерк/swamp-512-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Тролль</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Возмездие Архааля</name>
+      <text>Скрытность. Направленный удар.</text>
+      <set rarity="common" num="157" picurl="https://berserk.ru/image/data/Берсерк/swamp-513-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вопляк</name>
+      <text>Когда Вопляк выступает защитником получите 1 жетон молитвы. 2 жетона молитвы: Возьмите карту, затем сбросьте карту.</text>
+      <set rarity="uncommon" num="158" picurl="https://berserk.ru/image/data/Берсерк/swamp-514-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Тролль</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Восстановление</name>
+      <text>Персонаж получает Регенерацию 1.</text>
+      <set rarity="uncommon" num="159" picurl="https://berserk.ru/image/data/Берсерк/swamp-515-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Горуг</name>
+      <text>Поворот: Получите 1 жетон молитвы. 5 жетонов молитвы: Возьмите карту.</text>
+      <set rarity="rare" num="160" picurl="https://berserk.ru/image/data/Берсерк/swamp-516-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost></manacost>
+        <type>Герой-жрец</type>
+        <pt>26</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Дублер</name>
+      <text>Найм: жизни и удар Дублера становятся равны жизням и удару выбранного существа в игре; положите это существо в руку владельца.</text>
+      <set rarity="rare" num="161" picurl="https://berserk.ru/image/data/Берсерк/swamp-517-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>5</manacost>
+        <type>Существо - Пустой</type>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Задурманить голову</name>
+      <text>Возьмите под контроль закрытое существо. 7 женотов молитвы: Положите Задурманить голову с кладбища в руку.</text>
+      <set rarity="rare" num="162" picurl="https://berserk.ru/image/data/Берсерк/swamp-518-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>6</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Из дымки - туман</name>
+      <text>Выберите одно из двух: - Положите существо в руку. - Заплатите 5 монет, при этом положите каждое существо в руку владельца.</text>
+      <set rarity="rare" num="163" picurl="https://berserk.ru/image/data/Берсерк/swamp-519-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Изгоняющий скверну</name>
+      <text>Скрытность. Когда Изгоняющий скверну раскрывается, закройте существо. При атаке по закрытому существу, отравить его на 1.</text>
+      <set rarity="uncommon" num="164" picurl="https://berserk.ru/image/data/Берсерк/swamp-520-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>4/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Исполнение желаний</name>
+      <text>Если вы должны взять карты, вместо этого вы можете получить 2жетона молитвы, вместо каждой карты. 5 жетонов молитв: Поиск – любая карта.</text>
+      <set rarity="ultrarare" num="165" picurl="https://berserk.ru/image/data/Берсерк/swamp-521-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Событие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Колыбельная подземья</name>
+      <text>Закройте существо. Получите 1 жетон молитвы.</text>
+      <set rarity="common" num="166" picurl="https://berserk.ru/image/data/Берсерк/swamp-522-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Ловец молний</name>
+      <text>Каждый раз, когда вы получаете жетон молитвы, излечите Ловца Молний на 1.</text>
+      <set rarity="common" num="167" picurl="https://berserk.ru/image/data/Берсерк/swamp-523-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Существо - Зверь</type>
+        <pt>1/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Лутунни</name>
+      <text>Жетон молитвы: Посмотрите руку игрока.</text>
+      <set rarity="common" num="168" picurl="https://berserk.ru/image/data/Берсерк/swamp-524-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Существо - Эльф</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Мерег</name>
+      <text>Каждый раз, когда существо противника умирает от отравления, возродите его под вашим контролем с 1 жизнью.</text>
+      <set rarity="common" num="169" picurl="https://berserk.ru/image/data/Берсерк/swamp-525-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost></manacost>
+        <type>Герой-маг</type>
+        <pt>23</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Миролюбие</name>
+      <text>Существо получает –2 к удару. Возьмите карту.</text>
+      <set rarity="uncommon" num="170" picurl="https://berserk.ru/image/data/Берсерк/swamp-526-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Моа</name>
+      <text>Получает на 2 раны меньше от лесных карт.</text>
+      <set rarity="common" num="171" picurl="https://berserk.ru/image/data/Берсерк/swamp-527-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Существо - Зверь</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Наброситься</name>
+      <text>Закройте существо противника. Ваше существо получает Направленный удар по закрытым существам до конца хода.</text>
+      <set rarity="common" num="172" picurl="https://berserk.ru/image/data/Берсерк/swamp-528-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Невтида</name>
+      <text>Когда закрытое существо противника погибает возьмите карту. Сбросьте две карты: Закройте существо.</text>
+      <set rarity="ultrarare" num="173" picurl="https://berserk.ru/image/data/Берсерк/swamp-529-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost></manacost>
+        <type>Герой-разбойник</type>
+        <pt>25</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Обращение</name>
+      <text>Заплатите Х жетон молитвы; возьмите под контроль существо стоимостью Х монет.</text>
+      <set rarity="uncommon" num="174" picurl="https://berserk.ru/image/data/Берсерк/swamp-530-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Одинокий призрак</name>
+      <text>Скрытность. Когда Одинокий призрак раскрывается, вы можете показать любое число заклинаний со своей руки; Одинокий призрак получает получает +1 к удару за каждое показанное заклинание.</text>
+      <set rarity="uncommon" num="175" picurl="https://berserk.ru/image/data/Берсерк/swamp-531-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>1</manacost>
+        <type>Существо - Дух</type>
+        <pt>1/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ослепление</name>
+      <text>Существа противника получают –2 к атакам до начала вашего следующего хода.</text>
+      <set rarity="common" num="176" picurl="https://berserk.ru/image/data/Берсерк/swamp-532-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Отравленный кинжал</name>
+      <text>1 жетон молитвы: Отравить существо на 1. Каждый раз когда существо погибает от отравления, получите 1 жетон молитвы.</text>
+      <set rarity="rare" num="177" picurl="https://berserk.ru/image/data/Берсерк/swamp-533-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Карта поддержки - Оружие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Отчаянный рывок</name>
+      <text>Отчаянный рывок может быть в колоде любого героя-разбойника. Получите дополнительный ход; в конце этого дополнительного хода вы проигрываете.</text>
+      <set rarity="ultrarare" num="178" picurl="https://berserk.ru/image/data/Берсерк/swamp-534-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Оши-хоно</name>
+      <text>Не может атаковать. Не может выступать защитником. Поврот: Закройте существо.</text>
+      <set rarity="rare" num="179" picurl="https://berserk.ru/image/data/Берсерк/swamp-535-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>1</manacost>
+        <type>Существо - Артефакт</type>
+        <pt>0/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Перст Архааля</name>
+      <text>Перст Архааля может быть в колоде любого героя-жреца. Найм: Получите 1 жетон молитвы. Гибель: Получите 1 жетон молитвы.</text>
+      <set rarity="common" num="180" picurl="https://berserk.ru/image/data/Берсерк/swamp-536-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>"Радушный" прием</name>
+      <text>Отравить существо на 1. Возьмите карту.</text>
+      <set rarity="common" num="181" picurl="https://berserk.ru/image/data/Берсерк/swamp-537-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Развеять</name>
+      <text>Положите существо или карту поддержки в руку владельца.</text>
+      <set rarity="common" num="182" picurl="https://berserk.ru/image/data/Берсерк/swamp-538-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Спокойные воды</name>
+      <text>Когда противник разыгрывает вторую карту за ход, уничтожьте Спокойные воды, при этом возьмите три карты.</text>
+      <set rarity="uncommon" num="183" picurl="https://berserk.ru/image/data/Берсерк/swamp-539-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Событие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Спрятать в мешок</name>
+      <text>Положите существо в руку владельца. Возьмите карту.</text>
+      <set rarity="common" num="184" picurl="https://berserk.ru/image/data/Берсерк/swamp-540-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Тайновязь</name>
+      <text>Орда. Возьмите карту. Возьмите карту за каждую другую карту "Тайновязь" на вашем кладбище.</text>
+      <set rarity="common" num="185" picurl="https://berserk.ru/image/data/Берсерк/swamp-541-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Таугарт</name>
+      <text>Когда Таугарт получает раны, получите 1 жетон молитвы.</text>
+      <set rarity="common" num="186" picurl="https://berserk.ru/image/data/Берсерк/swamp-542-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>1/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Увалень</name>
+      <text>Регенерация 1. В начале хода противника каждое ваше существо с Регенерацией и без ран получает +1 к жизням.</text>
+      <set rarity="ultrarare" num="187" picurl="https://berserk.ru/image/data/Берсерк/swamp-543-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Тролль</type>
+        <pt>3/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ужас болот</name>
+      <text></text>
+      <set rarity="common" num="188" picurl="https://berserk.ru/image/data/Берсерк/swamp-544-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Зверь</type>
+        <pt>2/8</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Феерический обряд</name>
+      <text>Получите 2 жетона молитвы. Возьмите 2 карты.</text>
+      <set rarity="common" num="189" picurl="https://berserk.ru/image/data/Берсерк/swamp-545-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Хунган</name>
+      <text>Защита от заклинаний.</text>
+      <set rarity="common" num="190" picurl="https://berserk.ru/image/data/Берсерк/swamp-546-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Тролль</type>
+        <pt>3/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Шаман гоблинов</name>
+      <text>Когда противник получает жетон молитвы, получите жетон молитвы.</text>
+      <set rarity="uncommon" num="191" picurl="https://berserk.ru/image/data/Берсерк/swamp-547-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Существо - Подземник</type>
+        <pt>2/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Шар тины</name>
+      <text>Поиск – болотная карта.</text>
+      <set rarity="rare" num="192" picurl="https://berserk.ru/image/data/Берсерк/swamp-548-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Сфера</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <!-- Темные карты 5 сета -->
+
+    <card>
+      <name>Адский пес</name>
+      <text>При гибели существа скройтеАдского пса.</text>
+      <set rarity="common" num="193" picurl="https://berserk.ru/image/data/Берсерк/dark-5-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Существо - Зверь</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бросок головой</name>
+      <text>Уничтожьте ваше существо с ударом Х, при этом ранить существо на Х.</text>
+      <set rarity="common" num="194" picurl="https://berserk.ru/image/data/Берсерк/dark-52-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Вампир-прислужник</name>
+      <text>Найм: Получите 2 жетона молитвы. Гибель: Получите 2 жетона молитвы.</text>
+      <set rarity="common" num="195" picurl="https://berserk.ru/image/data/Берсерк/dark-53-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Существо - Слуа</type>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ведьма Пустоши</name>
+      <text>Найм: Противник сбрасывает карту, если ваш герой – жрец, вы можете разыграть эту карту до конца хода.</text>
+      <set rarity="rare" num="196" picurl="https://berserk.ru/image/data/Берсерк/dark-54-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Сумрак</type>
+        <pt>4/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Венайра</name>
+      <text>Скрытность. Не может раскрыться в начале хода. При гибели вашего существа, вы можете раскрытьВенайру; ее жизни становятся равны начальным жизням погибшего существа.</text>
+      <set rarity="rare" num="197" picurl="https://berserk.ru/image/data/Берсерк/dark-55-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>1</manacost>
+        <type>Существо - Ковен</type>
+        <pt>3/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Венат</name>
+      <text>Когда ваше существо скрывается, скройте Вената.</text>
+      <set rarity="uncommon" num="198" picurl="https://berserk.ru/image/data/Берсерк/dark-56-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Существо - Нежить</type>
+        <pt>3/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вербовка павших</name>
+      <text>Положите существо в руку с кладбища; если это Нежить, возьмите карту.</text>
+      <set rarity="common" num="199" picurl="https://berserk.ru/image/data/Берсерк/dark-57-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Висс</name>
+      <text>Найм: Возьмите существо с кладбища в руку.</text>
+      <set rarity="common" num="200" picurl="https://berserk.ru/image/data/Берсерк/dark-58-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>4</manacost>
+        <type>Существо - Ковен</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Воины Морла</name>
+      <text>Скрытность. Воины Морла стоят на 1 монету дешевле за каждое ваше скрытое существо.</text>
+      <set rarity="rare" num="201" picurl="https://berserk.ru/image/data/Берсерк/dark-59-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>8</manacost>
+        <type>Существо - Сумрак</type>
+        <pt>8/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Врата обреченных</name>
+      <text>Каждый раз, когда ваше существо погибает, игрок кладет верхнюю карту колоды на кладбище. Уничтожьте ваше существо: Получите 2 жетона молитвы.</text>
+      <set rarity="ultrarare" num="202" picurl="https://berserk.ru/image/data/Берсерк/dark-510-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Местность</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Вторая жизнь</name>
+      <text>Заплатите Х монет, при этом возродите существо стоимостью Х, скройте это существо в конце хода.</text>
+      <set rarity="uncommon" num="203" picurl="https://berserk.ru/image/data/Берсерк/dark-511-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Выпить жизнь</name>
+      <text>Орда. Ранить персонажа на 1 и излечить вашего героя на 1 за каждую Выпить жизнь на вашем кладбище.</text>
+      <set rarity="common" num="204" picurl="https://berserk.ru/image/data/Берсерк/dark-512-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Гингасса</name>
+      <text>Найм: Ранить героя противника на 3, излечить вашего героя на 3.</text>
+      <set rarity="common" num="205" picurl="https://berserk.ru/image/data/Берсерк/dark-513-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>4</manacost>
+        <type>Существо - Наемник</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Демон бессилия</name>
+      <text>4 жетона молитвы: Противник сбрасывает карту.</text>
+      <set rarity="common" num="206" picurl="https://berserk.ru/image/data/Берсерк/dark-514-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>5</manacost>
+        <type>Существо - Демон</type>
+        <pt>6/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Демон гнева</name>
+      <text>Найм: Унитожьте каждое существо, у которого осталось 2 или менее жизни.</text>
+      <set rarity="uncommon" num="207" picurl="https://berserk.ru/image/data/Берсерк/dark-515-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>5</manacost>
+        <type>Существо - Демон</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Демонотиватор</name>
+      <text>Поворот: Ваше существо получает Направленный удар; в конце вашего хода уничтожьте это существо.</text>
+      <set rarity="rare" num="208" picurl="https://berserk.ru/image/data/Берсерк/dark-516-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>1</manacost>
+        <type>Карта поддержки - Оружие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Дзингор</name>
+      <text>Скрытность. 2 жетона молитвы: Скройте Дзингора.</text>
+      <set rarity="common" num="209" picurl="https://berserk.ru/image/data/Берсерк/dark-517-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Демон</type>
+        <pt>5/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Древний чемпион</name>
+      <text>Найм: Удар Древнего Чемпиона становится равен удару выбранного существа в игре; удар этого существа становится равен 1.</text>
+      <set rarity="rare" num="210" picurl="https://berserk.ru/image/data/Берсерк/dark-518-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>4</manacost>
+        <type>Существо - Слуа</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Дух неудачи</name>
+      <text>Жетон молитвы: Положите верхнюю карту любой колоды на кладбище владельца.</text>
+      <set rarity="common" num="211" picurl="https://berserk.ru/image/data/Берсерк/dark-519-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>1</manacost>
+        <type>Существо - Дух</type>
+        <pt>0/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Из смерти - ничто</name>
+      <text>Выберите одно из: - Уничтожьте существо. - Заплатите 3 монеты, при этом унитожьте каждое существо.</text>
+      <set rarity="rare" num="212" picurl="https://berserk.ru/image/data/Берсерк/dark-520-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>5</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Изгнанный дух</name>
+      <text>Скрытность.</text>
+      <set rarity="common" num="213" picurl="https://berserk.ru/image/data/Берсерк/dark-521-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Существо - Дух</type>
+        <pt>4/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Инициация слуа</name>
+      <text>Сбросьте все карты. Поиск – 2 любые карты.</text>
+      <set rarity="ultrarare" num="214" picurl="https://berserk.ru/image/data/Берсерк/dark-522-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>4</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Иссушение</name>
+      <text>Уничтожьте ваше существо. Возьмите 2 карты.</text>
+      <set rarity="common" num="215" picurl="https://berserk.ru/image/data/Берсерк/dark-523-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Йоро</name>
+      <text>Скрытность. Уникальность. Когда наносит раны ударом герою, этот герой не может действовать в свой следующий ход. Гибель: Вы можете замешать Йоро в колоду вместо кладбища.</text>
+      <set rarity="rare" num="216" picurl="https://berserk.ru/image/data/Берсерк/dark-524-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>1</manacost>
+        <type>Существо - Зверь</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кальвина</name>
+      <text>: Получите 1 жетон молитвы. 40 жетонов молитвы: Ранить персонажа на 40.</text>
+      <set rarity="ultrarare" num="217" picurl="https://berserk.ru/image/data/Берсерк/dark-525-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost></manacost>
+        <type>Герой - жрец</type>
+        <pt>28</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Каниферрон</name>
+      <text>Найм: Уничтожьте ваше существо и существо противника.</text>
+      <set rarity="uncommon" num="218" picurl="https://berserk.ru/image/data/Берсерк/dark-526-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>6</manacost>
+        <type>Существо - Демон</type>
+        <pt>6/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кара</name>
+      <text>Уничтожить существо стоимостью 3 или менее. Возьмите карту.</text>
+      <set rarity="common" num="219" picurl="https://berserk.ru/image/data/Берсерк/dark-527-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Костяная булава</name>
+      <text>Ваш герой имеет: «Поворот: Уничтожьте ваше существо: Получите количество жетонов молитвы, равное стоимости этого существа».</text>
+      <set rarity="uncommon" num="220" picurl="https://berserk.ru/image/data/Берсерк/dark-528-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Оружие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Костяной голем</name>
+      <text>Не может атаковать и выступать защитником пока на вашем кладбище менее 3 существ.</text>
+      <set rarity="common" num="221" picurl="https://berserk.ru/image/data/Берсерк/dark-529-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Существо - Голем</type>
+        <pt>5/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Костяной танцор</name>
+      <text>Поворот: Ранить Костяного Танцора на 2, при этом получите 2 жетона молитвы.</text>
+      <set rarity="common" num="222" picurl="https://berserk.ru/image/data/Берсерк/dark-530-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Существо - Наемник</type>
+        <pt>0/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кровавый псарь</name>
+      <text></text>
+      <set rarity="common" num="223" picurl="https://berserk.ru/image/data/Берсерк/dark-531-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Слуа</type>
+        <pt>6/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Лефран</name>
+      <text>В начале вашего хода, если Лефран на кладбище, ранить героя противника на 1 и излечить вашего героя на 1.</text>
+      <set rarity="ultrarare" num="224" picurl="https://berserk.ru/image/data/Берсерк/dark-532-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Ковен</type>
+        <pt>0/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ловчая тьмы</name>
+      <text>Защита от заклинаний. Скрытность. Когда другое существо раскрывается, это существо получает +1 к удару.</text>
+      <set rarity="rare" num="225" picurl="https://berserk.ru/image/data/Берсерк/dark-533-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Ковен</type>
+        <pt>4/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Маскировка</name>
+      <text>Скройте существо. Возьмите карту.</text>
+      <set rarity="common" num="226" picurl="https://berserk.ru/image/data/Берсерк/dark-534-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Моррвильский кровосос</name>
+      <text>Первый удар. Когда уничтожает существо, полностью излечите Моррвильского кровососа.</text>
+      <set rarity="rare" num="227" picurl="https://berserk.ru/image/data/Берсерк/dark-535-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>4</manacost>
+        <type>Существо - Слуа</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Найрита</name>
+      <text>Каждый раз, когда игрок разыгрывает карту, ранить героя этого игрока на 1. Поворот: Следующие 3 карты вы можете разыграть на 1  дешевле в этот ход; вы не можете разыгрывать карты в свой следующий ход.</text>
+      <set rarity="common" num="228" picurl="https://berserk.ru/image/data/Берсерк/dark-536-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost></manacost>
+        <type>Герой-маг</type>
+        <pt>27</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Обряд наказания</name>
+      <text>Ранить вашего героя на 5, при этом получите 5 жетонов молитвы.</text>
+      <set rarity="common" num="229" picurl="https://berserk.ru/image/data/Берсерк/dark-537-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Падальщик</name>
+      <text>Найм: Замешайте существо с кладбища в колоду, удар Падальщика становится равен удару этого существа.</text>
+      <set rarity="uncommon" num="230" picurl="https://berserk.ru/image/data/Берсерк/dark-538-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Существо - Нежить</type>
+        <pt>0/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Палач</name>
+      <text>Найм: Каждый игрок уничтожает свое существо по своему выбору.</text>
+      <set rarity="uncommon" num="231" picurl="https://berserk.ru/image/data/Берсерк/dark-539-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Наемник</type>
+        <pt>3/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Пляска теней</name>
+      <text>Каждый раз, когда ваше существо раскрывается, ранить героя противника на 1, при этом излечить вашего героя на 1.</text>
+      <set rarity="uncommon" num="232" picurl="https://berserk.ru/image/data/Берсерк/dark-540-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Карта поддержки - Событие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Пожиратель душ</name>
+      <text>Найм: Вы можете потерять 1 монету, иначе ранить Пожирателя душ на 4.</text>
+      <set rarity="common" num="233" picurl="https://berserk.ru/image/data/Берсерк/dark-541-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>4</manacost>
+        <type>Существо - Ковен</type>
+        <pt>4/8</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Притаившаяся погибель</name>
+      <text>Уничтожьте каждое существо, стоимость которого меньше или равна количеству ваших скрытых существ.</text>
+      <set rarity="uncommon" num="234" picurl="https://berserk.ru/image/data/Берсерк/dark-542-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>5</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Проклятье</name>
+      <text>Получите 1 жетон молитвы. Противник сбрасывает карту.</text>
+      <set rarity="common" num="235" picurl="https://berserk.ru/image/data/Берсерк/dark-543-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Снять стражу</name>
+      <text>Когда противник разыгрывает нейтральную карту, уничтожьте Снять стражу, при этом отмените эту карту.</text>
+      <set rarity="uncommon" num="236" picurl="https://berserk.ru/image/data/Берсерк/dark-544-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Событие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Утянуть в бездну</name>
+      <text>Уничтожьте существо. Игрок кладет три верхние карты колоды на кладбище.</text>
+      <set rarity="uncommon" num="237" picurl="https://berserk.ru/image/data/Берсерк/dark-545-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>5</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Фомор</name>
+      <text>Каждый раз когда погибает существо, Фомор получает +1 к удару и +1 к жизням.</text>
+      <set rarity="uncommon" num="238" picurl="https://berserk.ru/image/data/Берсерк/dark-546-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>1</manacost>
+        <type>Существо - Демон</type>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Шакс</name>
+      <text>При гибели другого вашего существа получите 1 жетон молитвы.</text>
+      <set rarity="common" num="239" picurl="https://berserk.ru/image/data/Берсерк/dark-547-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>1</manacost>
+        <type>Существо - Демон</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Элмор</name>
+      <text>Первое существо со Скрытностью, которое вы разыгрываете за ход, стоит на 1 монету дешевле.2 монеты: Поиск – Йоро.</text>
+      <set rarity="rare" num="240" picurl="https://berserk.ru/image/data/Берсерк/dark-548-copy.png">BG_5</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost></manacost>
+        <type>Герой-разбойник</type>
+        <pt>26</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <!-- Нейтральные карты 5 сета -->
+
+    <card>
+      <name>Адепт пустоты</name>
+      <text>Найм: Выберите существо. Гибель: Уничтожьте существо, выбранное при Найме.</text>
+      <set rarity="ultrarare" num="241" picurl="https://berserk.ru/image/data/Берсерк/neutral-5-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Пустой</type>
+        <pt>4/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Альмагост</name>
+      <text>Каждый раз, когда существо раскрывается, ранить это существо на 1.</text>
+      <set rarity="common" num="242" picurl="https://berserk.ru/image/data/Берсерк/neutral-52-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Дракон</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ангел возмездия</name>
+      <text>Найм: Противник получает 2 жетона молитвы. В начале вашего хода противник может заплатить 1 жетон молитвы, иначе ранить его героя на 3.</text>
+      <set rarity="rare" num="243" picurl="https://berserk.ru/image/data/Берсерк/neutral-53-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Ангел</type>
+        <pt>5/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ангел милосердия</name>
+      <text>Найм: Противник получает 2 жетона молитвы. В начале вашего хода противник может заплатить 1 жетон молитвы, иначе возьмите карту.</text>
+      <set rarity="rare" num="244" picurl="https://berserk.ru/image/data/Берсерк/neutral-54-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Ангел</type>
+        <pt>3/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ангел равновесия</name>
+      <text>В начале хода противника он может заплатить 2 жетона молитвы, при этом взять Ангела равновесия под свой контроль.</text>
+      <set rarity="rare" num="245" picurl="https://berserk.ru/image/data/Берсерк/neutral-55-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Ангел</type>
+        <pt>6/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Арлекин</name>
+      <text>Найм:Скройте существо.</text>
+      <set rarity="common" num="246" picurl="https://berserk.ru/image/data/Берсерк/neutral-56-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Наемник</type>
+        <pt>4/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ассасин храма</name>
+      <text>Первый удар. Скрытность.</text>
+      <set rarity="uncommon" num="247" picurl="https://berserk.ru/image/data/Берсерк/neutral-57-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Койар</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ашалла</name>
+      <text>Гибель: Если у вас в руке есть другая Ашалла, вы можете положить ее в игру.</text>
+      <set rarity="uncommon" num="248" picurl="https://berserk.ru/image/data/Берсерк/neutral-58-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Дух</type>
+        <pt>5/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Багрянник</name>
+      <text></text>
+      <set rarity="common" num="249" picurl="https://berserk.ru/image/data/Берсерк/neutral-59-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>6</manacost>
+        <type>Существо - Тролль</type>
+        <pt>6/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Барака</name>
+      <text>Защита от выстрелов. Если заклинание противника заставляет вас сбросить Бараку из руки, вы можете положить его в игру вместо этого.</text>
+      <set rarity="uncommon" num="250" picurl="https://berserk.ru/image/data/Берсерк/neutral-510-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Нежить</type>
+        <pt>4/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Барбант</name>
+      <text>Опыт в атаке.</text>
+      <set rarity="common" num="251" picurl="https://berserk.ru/image/data/Берсерк/neutral-511-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Боевой носорог</name>
+      <text>При ударе по существу, ранить героя на 3.</text>
+      <set rarity="common" num="252" picurl="https://berserk.ru/image/data/Берсерк/neutral-512-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>6</manacost>
+        <type>Существо - Зверь</type>
+        <pt>5/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Боевые мотивы</name>
+      <text>Выберите одно из: - Существо со стихией получает –1 к удару. - Нейтральное существо получает +1 к удару.</text>
+      <set rarity="common" num="253" picurl="https://berserk.ru/image/data/Берсерк/neutral-513-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Борг</name>
+      <text>Найм: Борг получает +3 к жизням или +3 к удару.</text>
+      <set rarity="common" num="254" picurl="https://berserk.ru/image/data/Берсерк/neutral-514-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>7</manacost>
+        <type>Существо - Великан</type>
+        <pt>5/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бретер</name>
+      <text>Скрытность.</text>
+      <set rarity="common" num="255" picurl="https://berserk.ru/image/data/Берсерк/neutral-515-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>1</manacost>
+        <type>Существо - Пират</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Броненосец</name>
+      <text>Направленный удар, если у противника есть событие или местность.</text>
+      <set rarity="common" num="256" picurl="https://berserk.ru/image/data/Берсерк/neutral-516-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Зверь</type>
+        <pt>5/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Буйвол</name>
+      <text>Опыт в защите. Когда ваш герой получает раны, Буйвол может снова выступать защитником.</text>
+      <set rarity="uncommon" num="257" picurl="https://berserk.ru/image/data/Берсерк/neutral-517-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>6</manacost>
+        <type>Существо - Зверь</type>
+        <pt>5/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бывалый гоблин</name>
+      <text>Найм: До конца хода существо получает +1 к удару и получает на 1 рану меньше.</text>
+      <set rarity="common" num="258" picurl="https://berserk.ru/image/data/Берсерк/neutral-518-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Подземник</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Властелин хаоса</name>
+      <text>Найм: Закройте Властелина хаоса. 4 жетона молитвы: Откройте Властелина хаоса. Властелин хаоса открывается только своими особенностями.</text>
+      <set rarity="common" num="259" picurl="https://berserk.ru/image/data/Берсерк/neutral-519-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>7</manacost>
+        <type>Существо - Демон</type>
+        <pt>10/10</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вожак прайда</name>
+      <text>Каждый раз, когда в игру входит ваше существо с ударом 1 или менее, вы можете заплатить 1, при этом возьмите карту.</text>
+      <set rarity="rare" num="260" picurl="https://berserk.ru/image/data/neutral-520-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Тигролюд</type>
+        <pt>2/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Воин Тоа-дана</name>
+      <text>Каждый раз, когда противник получает жетон молитвы, Воин Тоа-Дана получает +1 к удару и +1 к жизням.</text>
+      <set rarity="uncommon" num="261" picurl="https://berserk.ru/image/data/Берсерк/neutral-521-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Тоа-Дан</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вор</name>
+      <text>Когда наносит раны ударом герою, возьмите карту.</text>
+      <set rarity="common" num="262" picurl="https://berserk.ru/image/data/Берсерк/neutral-522-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Наемник</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Галливестпин</name>
+      <text>Если вы должны получить жетоны молитвы, вместо этого получите на 1 жетон молитвы больше.</text>
+      <set rarity="uncommon" num="263" picurl="https://berserk.ru/image/data/Берсерк/neutral-523-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Гаррота</name>
+      <text>Найм: Раскройте любое количество ваших существ; каждое существо, раскрытое таким образом, получает +1 к удару до конца хода.</text>
+      <set rarity="uncommon" num="264" picurl="https://berserk.ru/image/data/Берсерк/neutral-524-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Койар</type>
+        <pt>2/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Гатарнус</name>
+      <text>Поворот: Получите 1 жетон молитвы.</text>
+      <set rarity="common" num="265" picurl="https://berserk.ru/image/data/Берсерк/neutral-525-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>0</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>0/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Гвеор</name>
+      <text>Гвеор стоит на 1 монету дешевле, если вы ходили вторым.</text>
+      <set rarity="common" num="266" picurl="https://berserk.ru/image/data/Берсерк/neutral-526-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Зверь</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Гладиатор</name>
+      <text>Найм: Если у вас нет карт в руке, возьмите две карты.</text>
+      <set rarity="uncommon" num="267" picurl="https://berserk.ru/image/data/Берсерк/neutral-527-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>7</manacost>
+        <type>Существо - Наемник</type>
+        <pt>7/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Голем-дозорный</name>
+      <text>Когда Голем-дозорный атакует или выступает защитником, он получает –1 к удару.</text>
+      <set rarity="common" num="268" picurl="https://berserk.ru/image/data/Берсерк/neutral-528-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>1</manacost>
+        <type>Существо - Голем</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Горт</name>
+      <text>Гибель: Поиск – экипировка.</text>
+      <set rarity="rare" num="269" picurl="https://berserk.ru/image/data/Берсерк/neutral-529-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Орк</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Дархан</name>
+      <text>Не может атаковать или выступать защитником, если у вас нет другого существа с ударом 7 или более.</text>
+      <set rarity="common" num="270" picurl="https://berserk.ru/image/data/Берсерк/neutral-530-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>6</manacost>
+        <type>Существо - Орк</type>
+        <pt>7/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Демон-привратник</name>
+      <text>Найм: Пропустите ваш следующий ход.</text>
+      <set rarity="ultrarare" num="271" picurl="https://berserk.ru/image/data/Берсерк/neutral-531-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>6</manacost>
+        <type>Существо - Демон</type>
+        <pt>8/12</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Дозор Святолесья</name>
+      <text>Каждый раз, когда вы берете карту, излечить персонажа на 1.</text>
+      <set rarity="rare" num="272" picurl="https://berserk.ru/image/data/Берсерк/neutral-532-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>2/8</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Драйдер</name>
+      <text>В начале вашего хода, если Драйдер на кладбище, вы можете заплатить 2 монеты и положить его под низ колоды, при этом взять карту.</text>
+      <set rarity="uncommon" num="273" picurl="https://berserk.ru/image/data/Берсерк/neutral-533-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Рой</type>
+        <pt>5/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Дриада</name>
+      <text>Каждый раз, когда Дриада получает Х ран, она получает +Х к удару.</text>
+      <set rarity="uncommon" num="274" picurl="https://berserk.ru/image/data/Берсерк/neutral-534-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>0/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Дрянное пойло</name>
+      <text>Ранить персонажа на 1. В начале хода, если Дрянное пойло на кладбище, вы можете потерять 1 монету, при этом положить его в руку.</text>
+      <set rarity="uncommon" num="275" picurl="https://berserk.ru/image/data/Берсерк/neutral-535-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Живущий в тумане</name>
+      <text>Скрытность. Когда противник берет вторую карту за ход, вскройте Живущего в тумане, при этом противник сбрасывает карту.</text>
+      <set rarity="uncommon" num="276" picurl="https://berserk.ru/image/data/Берсерк/neutral-536-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Дух</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Жрица Дзаза</name>
+      <text>1 молитва и поворот: Ранить персонажа на 1.</text>
+      <set rarity="common" num="277" picurl="https://berserk.ru/image/data/Берсерк/neutral-537-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Тоа-Дан</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Заступник</name>
+      <text>Уникальность. Найм: Выберите другое существо. Выбранное при Найме существо не получает ран, пока Заступник в игре.</text>
+      <set rarity="ultrarare" num="278" picurl="https://berserk.ru/image/data/Берсерк/neutral-538-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>6</manacost>
+        <type>Существо - Наемник</type>
+        <pt>2/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Зверь Рунда</name>
+      <text></text>
+      <set rarity="common" num="279" picurl="https://berserk.ru/image/data/Берсерк/neutral-539-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Зверь</type>
+        <pt>7/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Золотой голем</name>
+      <text>Найм: получите 4 монеты до конца хода.</text>
+      <set rarity="common" num="280" picurl="https://berserk.ru/image/data/Берсерк/neutral-540-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>10</manacost>
+        <type>Существо - Голем</type>
+        <pt>10/10</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Из тени - на свет</name>
+      <text>Выберите одно из: - Игрок раскрывает свое существо по своему выбору. - Заплатите 3 монеты, при этом раскройте каждое существо.</text>
+      <set rarity="rare" num="281" picurl="https://berserk.ru/image/data/Берсерк/neutral-541-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Карта сокровищ</name>
+      <text>Поиск – нейтральная карта.</text>
+      <set rarity="rare" num="282" picurl="https://berserk.ru/image/data/Берсерк/neutral-542-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Костер инквизиции</name>
+      <text>Замешайте каждую карту с любого кладбища в колоду владельца.</text>
+      <set rarity="uncommon" num="283" picurl="https://berserk.ru/image/data/Берсерк/neutral-543-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Костоглод</name>
+      <text>Найм: Уничтожьте Костоглода, если вы не разыгрывали других существ в этот ход.</text>
+      <set rarity="common" num="284" picurl="https://berserk.ru/image/data/Берсерк/neutral-544-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Наемник</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Крондак</name>
+      <text>Не может атаковать. Не может выступать защитником. В начале вашего хода получите 1 жетон молитвы.</text>
+      <set rarity="common" num="285" picurl="https://berserk.ru/image/data/Берсерк/neutral-545-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>1</manacost>
+        <type>Существо - Инквизитор</type>
+        <pt>0/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Крыс Лихолесья</name>
+      <text>Найм: Уничтожьте экипировку; если это оружие, Крыс Лихолесья получает +2 к удару.</text>
+      <set rarity="common" num="286" picurl="https://berserk.ru/image/data/Берсерк/neutral-546-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Зверь</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Крыс Темноводья</name>
+      <text>Найм: Уничтожьте экипировку; если это броня, Крыс Темноводья получает +2 к жизням.</text>
+      <set rarity="common" num="287" picurl="https://berserk.ru/image/data/Берсерк/neutral-547-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Зверь</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ландскнехт</name>
+      <text>Найм: Откройте существо; оно может снова атаковать.</text>
+      <set rarity="uncommon" num="288" picurl="https://berserk.ru/image/data/Берсерк/neutral-548-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Наемник</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Микаэль</name>
+      <text>Игроки не могут атаковать более чем одним существом в ход. Существа противника имеют Направленный удар по Микаэлю.</text>
+      <set rarity="ultrarare" num="289" picurl="https://berserk.ru/image/data/Берсерк/neutral-549-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>6</manacost>
+        <type>Существо - Ангел</type>
+        <pt>3/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Море по колено</name>
+      <text>Cущество получает +2 у удару и Бешенство.</text>
+      <set rarity="uncommon" num="290" picurl="https://berserk.ru/image/data/Берсерк/neutral-550-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Наемник-ветеран</name>
+      <text></text>
+      <set rarity="common" num="291" picurl="https://berserk.ru/image/data/Берсерк/neutral-551-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Наемник</type>
+        <pt>4/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Наместник Виг</name>
+      <text>В начале вашего хода назовите карту; до начала вашего следующего хода названная карта не может быть разыграна. 3 монеты: Противник показывает руку.</text>
+      <set rarity="ultrarare" num="292" picurl="https://berserk.ru/image/data/Берсерк/neutral-552-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost></manacost>
+        <type>Герой-воин</type>
+        <pt>29</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Облачница</name>
+      <text>Найм: Заплатите 2 жетона молитвы, иначе положите Облачницу в руку и получите 1 жетон молитвы.</text>
+      <set rarity="rare" num="293" picurl="https://berserk.ru/image/data/Берсерк/neutral-553-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Наемник</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>ы
+
+    <card>
+      <name>Орикс</name>
+      <text>Найм: Если у вас есть скрытое существо излечить персонажа на 3.</text>
+      <set rarity="common" num="294" picurl="https://berserk.ru/image/data/Берсерк/neutral-554-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Зверь</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Орк-ведун</name>
+      <text>Не может атаковать. Не может выступать защитником. В начале вашего хода посмотрите верхнюю карту колоды, вы можете положить эту карту под низ колоды.</text>
+      <set rarity="common" num="295" picurl="https://berserk.ru/image/data/Берсерк/neutral-555-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>1</manacost>
+        <type>Существо - Орк</type>
+        <pt>1/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Орк-ловчий</name>
+      <text>Орк-ловчий не может атаковать героя.</text>
+      <set rarity="common" num="296" picurl="https://berserk.ru/image/data/Берсерк/neutral-556-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Орк</type>
+        <pt>6/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Отец-экзекутор</name>
+      <text>Найм: Получите 1 жетон молитвы.</text>
+      <set rarity="common" num="297" picurl="https://berserk.ru/image/data/Берсерк/neutral-557-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Инквизитор</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Отшельник</name>
+      <text>Каждый раз, когда вы получаете жетон молитвы, ваше существо получает +1 к удару.</text>
+      <set rarity="common" num="298" picurl="https://berserk.ru/image/data/Берсерк/neutral-558-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Наемник</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Паладин Братства</name>
+      <text>3 монеты: Получите 1 жетон молитвы. 1 жетон молитвы: Паладин Братства получает +1 к удару. 1 жетон молитвы: Паладин Братства получает Рывок. 1 жетон молитвы: Положите Паладина Братства в руку. 1 жетон молитвы: Излечить Паладина Братства на 2.</text>
+      <set rarity="ultrarare" num="299" picurl="https://berserk.ru/image/data/Берсерк/neutral-559-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Братство</type>
+        <pt>5/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Паладин Сеггера</name>
+      <text>Паладин Сеггера имеет +1 к удару за каждый ваш жетон молитвы.</text>
+      <set rarity="rare" num="300" picurl="https://berserk.ru/image/data/Берсерк/neutral-560-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>6</manacost>
+        <type>Существо - Инквизитор</type>
+        <pt>2/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Паломник</name>
+      <text></text>
+      <set rarity="common" num="301" picurl="https://berserk.ru/image/data/Берсерк/neutral-561-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Койар</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Пегас</name>
+      <text>Найм: Пока Пегас в игре, выбранное существо не может атаковать или выступать защитником.</text>
+      <set rarity="rare" num="302" picurl="https://berserk.ru/image/data/Берсерк/neutral-562-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Зверь</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Первоэлемент</name>
+      <text>Первоэлемента нельзя заставить сразиться. Игроки не могут получать больше 1 монеты за ход.</text>
+      <set rarity="rare" num="303" picurl="https://berserk.ru/image/data/Берсерк/neutral-563-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Элементаль</type>
+        <pt>2/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Подсмотреть</name>
+      <text>Выберите одно из: - Противник раскрывает существо по своему выбору. - Возьмите карту.</text>
+      <set rarity="common" num="304" picurl="https://berserk.ru/image/data/Берсерк/neutral-564-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Преторианец</name>
+      <text>Ваши существа стоят на 1 монету дороже.</text>
+      <set rarity="uncommon" num="305" picurl="https://berserk.ru/image/data/Берсерк/neutral-565-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>5/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Приручить смерть</name>
+      <text>Замешайте карту с любого кладбища в колоду владельца. Возьмите карту.</text>
+      <set rarity="common" num="306" picurl="https://berserk.ru/image/data/Берсерк/neutral-566-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>1</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Рысь</name>
+      <text>Первый удар. Если вы ходили вторым, Рысь имеет Рывок.</text>
+      <set rarity="common" num="307" picurl="https://berserk.ru/image/data/Берсерк/neutral-567-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Зверь</type>
+        <pt>4/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Серая эльфийка</name>
+      <text>Герои-жрецы не могут действовать.</text>
+      <set rarity="rare" num="308" picurl="https://berserk.ru/image/data/Берсерк/neutral-568-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Эльф</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Содалис</name>
+      <text>Найм: Положите ваше раненое существо в руку владельца.</text>
+      <set rarity="common" num="309" picurl="https://berserk.ru/image/data/Берсерк/neutral-569-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Инквизитор</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Сокрушающие удары</name>
+      <text>Существо получает +3 к удару.</text>
+      <set rarity="uncommon" num="310" picurl="https://berserk.ru/image/data/Берсерк/neutral-570-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Спрайт</name>
+      <text>Найм: Заплатите Х монет, при этом уничтожьте событие или местность стоимостью Х.</text>
+      <set rarity="uncommon" num="311" picurl="https://berserk.ru/image/data/Берсерк/neutral-571-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Фея</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Страж Бренора</name>
+      <text>Игроки не могут раскрывать более одного существа в начале хода.</text>
+      <set rarity="rare" num="312" picurl="https://berserk.ru/image/data/Берсерк/neutral-572-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Инквизитор</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Тауматург</name>
+      <text>Найм: Противник показывает руку. Гибель: Назовите карту; противник показывает руку и сбрасывает карту с таким названием.</text>
+      <set rarity="rare" num="313" picurl="https://berserk.ru/image/data/Берсерк/neutral-573-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Инквизитор</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ульфсарк</name>
+      <text>Первый удар.</text>
+      <set rarity="common" num="314" picurl="https://berserk.ru/image/data/Берсерк/neutral-574-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Урайон</name>
+      <text>Каждый раз, когда противник разыгрывает заклинание, ранить его героя на 1.</text>
+      <set rarity="rare" num="315" picurl="https://berserk.ru/image/data/Берсерк/neutral-575-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Дракон</type>
+        <pt>2/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Хранители тумана</name>
+      <text>Каждый раз, когда Хранители тумана становятся целью заклинания, они получают +1 к удару и +1 жизнь.</text>
+      <set rarity="common" num="316" picurl="https://berserk.ru/image/data/Берсерк/neutral-576-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Порождение</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Хронист</name>
+      <text>Найм: Получите 1 жетон молитвы, за каждое другое ваше нейтральное существо.</text>
+      <set rarity="common" num="317" picurl="https://berserk.ru/image/data/Берсерк/neutral-577-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Наемник</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Чумной легионер</name>
+      <text>В начале вашего хода уничтожьте существо с наибольшей силой удара.</text>
+      <set rarity="ultrarare" num="318" picurl="https://berserk.ru/image/data/Берсерк/neutral-578-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Порождение</type>
+        <pt>1/8</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Шерамма</name>
+      <text>Ваш герой имеет: «1 монета и поворот: Получите 1 жетон молитвы».</text>
+      <set rarity="common" num="319" picurl="https://berserk.ru/image/data/Берсерк/neutral-579-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Слуа</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Шерид</name>
+      <text>1 жетон молитвы: Излечить Шерида на 1.</text>
+      <set rarity="common" num="320" picurl="https://berserk.ru/image/data/Берсерк/neutral-580-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Эльф</type>
+        <pt>2/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Экклезиарх</name>
+      <text>Когда вы разыгрываете заклинание, Экклезиарх не получает ран до начала вашего хода.</text>
+      <set rarity="rare" num="321" picurl="https://berserk.ru/image/data/Берсерк/neutral-581-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Инквизитор</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Эртания</name>
+      <text>Найм: Выстрел на 1; eсли вы ходили вторым, вместо этого выстрел на 3.</text>
+      <set rarity="rare" num="322" picurl="https://berserk.ru/image/data/Берсерк/neutral-582-copy.png">BG_5</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <!-- Мультистихийные карты 5 сета -->
+
+    <card>
+      <name>Анализ эфира</name>
+      <text>Покажите верхнюю карту вашей колоды; если это заклинание, вы можете разыграть его бесплатно; если это не заклинание – возьмите 3 карты.</text>
+      <set rarity="rare" num="323" picurl="https://berserk.ru/image/data/Берсерк/multi51-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы/Болота</colors>
+        <manacost>5</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Бледный тролль</name>
+      <text>Каждый раз, когда ваше существо без Регенерации было излечено, оно получает Регеренацию 1. 3 монеты и поворот: Излечить персонажа на 1.</text>
+      <set rarity="uncommon" num="324" picurl="https://berserk.ru/image/data/Берсерк/multi52-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса/Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Тролль</type>
+        <pt>1/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Волчий всадник</name>
+      <text>Первый удар. Рывок. Найм: Противник теряет 1 монету до начала вашего следующего хода.</text>
+      <set rarity="uncommon" num="325" picurl="https://berserk.ru/image/data/Берсерк/multi53-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи/Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Орк</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Горный великан</name>
+      <text>Найм: Ранить персонажа на Х, где Х - количество существ в игре.</text>
+      <set rarity="rare" num="326" picurl="https://berserk.ru/image/data/Берсерк/multi54-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи/Горы</colors>
+        <manacost>5</manacost>
+        <type>Существо - Великан</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Демон боли</name>
+      <text>Каждый раз, когда ваше заклинание наносит раны герою противника, излечите на столько же вашего героя.</text>
+      <set rarity="uncommon" num="327" picurl="https://berserk.ru/image/data/Берсерк/multi55-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи/Тьма</colors>
+        <manacost>4</manacost>
+        <type>Существо - Демон</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Дупликация жизни</name>
+      <text>Выберите существо на вашем кладбище; Поиск – 2 карты с таким же названием.</text>
+      <set rarity="ultrarare" num="328" picurl="https://berserk.ru/image/data/Берсерк/multi56-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса/Тьма</colors>
+        <manacost>4</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Дупликация мыслей</name>
+      <text>Выберите заклинание на вашем кладбище; Поиск – 2 карты с таким же названием.</text>
+      <set rarity="ultrarare" num="329" picurl="https://berserk.ru/image/data/Берсерк/multi57-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы/Тьма</colors>
+        <manacost>4</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Дух оруженосца</name>
+      <text>Когда игрок разыгрывает мультистихийную карту, положите Духа оруженосца с кладбища в руку.</text>
+      <set rarity="rare" num="330" picurl="https://berserk.ru/image/data/Берсерк/multi58-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы/Леса</colors>
+        <manacost>1</manacost>
+        <type>Существо - Наемник</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Жагна</name>
+      <text>В начале хода, если Жагна на кладбище, получите 1 до конца хода.</text>
+      <set rarity="uncommon" num="331" picurl="https://berserk.ru/image/data/Берсерк/multi59-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса/Тьма</colors>
+        <manacost>5</manacost>
+        <type>Существо - Зверь</type>
+        <pt>2/9</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ильфари</name>
+      <text>Рывок. Когда Ильфари атакует, другие ваши существа получают +Х к удару до конца хода, где Х – сила удара Ильфари.</text>
+      <set rarity="rare" num="332" picurl="https://berserk.ru/image/data/Берсерк/multi510-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи/Леса</colors>
+        <manacost>4</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Лич-библиотекарь</name>
+      <text>Замешайте 3 заклинания с вашего кладбища в колоду: Возродите Лича-библиотекаря.</text>
+      <set rarity="ultrarare" num="333" picurl="https://berserk.ru/image/data/Берсерк/multi511-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота/Тьма</colors>
+        <manacost>2</manacost>
+        <type>Существо - Нежить</type>
+        <pt>3/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ловкость рук</name>
+      <text>Противник теряет 1 монету, а вы получаете 1 монету до конца вашего следующего хода.</text>
+      <set rarity="uncommon" num="334" picurl="https://berserk.ru/image/data/Берсерк/multi512-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы/Леса</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Обольщение</name>
+      <text>Возьмите под контроль существо противника, откройте его, оно получает Рывок; в конце хода уничтожьте это существо.</text>
+      <set rarity="rare" num="335" picurl="https://berserk.ru/image/data/Берсерк/multi513-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи/Тьма</colors>
+        <manacost>5</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Омышение</name>
+      <text>Существо теряет все стихии и особенности, его удар сводится к 0, а жизни сводятся к 2.</text>
+      <set rarity="uncommon" num="336" picurl="https://berserk.ru/image/data/Берсерк/multi514-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи/Болота</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Оскверненный разум</name>
+      <text>Противник сбрасывает карту. Возьмите карту.</text>
+      <set rarity="uncommon" num="337" picurl="https://berserk.ru/image/data/Берсерк/multi515-copy.png">BG_5</set>
+      <prop>
+        <colors>Болота/Тьма</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Плавучий остров</name>
+      <text>Каждый раз, когда ваше существо наносит раны ударом герою противника, возьмите карту.</text>
+      <set rarity="rare" num="338" picurl="https://berserk.ru/image/data/Берсерк/multi516-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи/Болота</colors>
+        <manacost>4</manacost>
+        <type>Карта поддержки - Местность</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Пламя жизни</name>
+      <text>Ранить существо на 3, излечить существо на 3.</text>
+      <set rarity="uncommon" num="339" picurl="https://berserk.ru/image/data/Берсерк/multi517-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи/Леса</colors>
+        <manacost>2</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Понита</name>
+      <text>В вашей колоде могут быть только мультистихийные и нейтральные карты. 5 монет: Ранить героя на 1, ранить до одного существа на 1, излечить персонажа на 1, возьмите карту, игрок кладет верхнюю карту колоды на кладбище.</text>
+      <set rarity="ultrarare" num="340" picurl="https://berserk.ru/image/data/Берсерк/multi518-copy.png">BG_5</set>
+      <prop>
+        <colors>Степи/Горы/Леса/Болота/Тьма</colors>
+        <manacost></manacost>
+        <type>Герой-маг</type>
+        <pt>31</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Предательство оруженосца</name>
+      <text>Вызовите экипировку стоимостью 4 монеты или менее из колоды противника под вашим контролем.</text>
+      <set rarity="uncommon" num="341" picurl="https://berserk.ru/image/data/Берсерк/multi519-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы/Болота</colors>
+        <manacost>3</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Разбомбить</name>
+      <text>Выберите 2 раза одно из: - Уничтожить карту поддержки. - Игрок теряет 1 монету.</text>
+      <set rarity="uncommon" num="342" picurl="https://berserk.ru/image/data/Берсерк/multi520-copy.png">BG_5</set>
+      <prop>
+        <colors>Горы/Тьма</colors>
+        <manacost>5</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Цикл перерождения</name>
+      <text>До конца хода каждое существо получает «Гибель: Возьмите карту».</text>
+      <set rarity="rare" num="343" picurl="https://berserk.ru/image/data/Берсерк/multi521-copy.png">BG_5</set>
+      <prop>
+        <colors>Леса/Болота</colors>
+        <manacost>5</manacost>
+        <type>Заклинание</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

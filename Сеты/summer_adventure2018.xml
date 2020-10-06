@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+
+  <sets>
+    <set>
+      <name>BG_SA_18</name>
+      <longname>Berserk_heroes_summer_adventure_2018</longname>
+      <settype>Берсерк.Герои</settype>
+      <releasedate>2018-06-20</releasedate>
+    </set>
+  </sets>
+
+<cards>
+  <card>
+      <name>Сальха-мариб</name>
+      <text>3 монеты и поворот: Предотвратите следующее получение ран выбранным существом до конца хода противника. Когда герой противника получает раны от удара, откройте Сальха-мариба, он может действовать снова.</text>
+      <set rarity="ultrarare" num="1" picurl="https://berserk.ru/image/data/Берсерк/adventure_heroes_2_1.png">BG_SA_18</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost></manacost>
+        <type>Герой-разбойник</type>  
+        <pt>23</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+  </card>
+
+  <card>
+      <name>Циркут</name>
+      <text>Поворот: Каждый игрок получает жетон молитвы. Пока у вас больше , чем у каждого оппонента, ваше первое заклинание за ход стоит на 2 монеты дешевле. Заклинания противников, имеющих больше , чем у вас, стоят на 2 монеты дороже.</text>
+      <set rarity="ultrarare" num="2" picurl="https://berserk.ru/image/data/Берсерк/adventure_heroes_2_2.png">BG_SA_18</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost></manacost>
+        <type>Герой-жрец</type>  
+        <pt>25</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+  </card>
+
+  <card>
+      <name>Баголай</name>
+      <text>1 монета и поворот: Игрок получает 1 закрытую монету до конца своего следующего хода. 4 монеты и поворот: Игрок получает 2 закрытые монеты до конца своего следующего хода.</text>
+      <set rarity="ultrarare" num="3" picurl="https://berserk.ru/image/data/Берсерк/adventure_heroes_2_3.png">BG_SA_18</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost></manacost>
+        <type>Герой-маг</type>  
+        <pt>24</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+  </card>
+
+  <card>
+      <name>Чикуама</name>
+      <text>2 монеты и поворот: До начала вашего следующего хода существа противника получают Направленный удар по Чикуаме и -2 к удару.</text>
+      <set rarity="ultrarare" num="4" picurl="https://berserk.ru/image/data/Берсерк/adventure_heroes_2_4.png">BG_SA_18</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost></manacost>
+        <type>Герой-воин</type>  
+        <pt>28</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+  </card>
+
+  <card>
+      <name>Ками Сори</name>
+      <text>3 монеты и поворот: Скройте существо. 1 монета и поворот: Игрок раскрывает свое существо по своему выбору.</text>
+      <set rarity="ultrarare" num="5" picurl="https://berserk.ru/image/data/Берсерк/adventure_heroes_2_5.png">BG_SA_18</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost></manacost>
+        <type>Герой-разбойник</type>  
+        <pt>24</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+  </card>
+</cards>
+</cockatrice_carddatabase>

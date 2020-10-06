@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+
+<sets>
+    <set>
+      <name>BG_SA_17</name>
+      <longname>Berserk_heroes_summer_adventure_2017</longname>
+      <settype>Берсерк.Герои</settype>
+      <releasedate>2017-06-20</releasedate>
+    </set>
+</sets>
+  
+<cards>
+
+  <card>
+      <name>Джилла</name>
+      <text>В вашей колоде могут быть карты одной любой стихии. В начале вашего первого хода выберите одно из: - Поиск – существо. - Джилла становится героем-магом (вместо воина). Поиск – заклинание.</text>
+      <set rarity="ultrarare" num="1" picurl="https://berserk.ru/image/data/Берсерк/adventure_heroes-copy.png">BG_SA_17</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost></manacost>
+        <type>Герой-воин</type>  
+        <pt>25</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+  </card>
+
+  <card>
+      <name>Джилла Освобожденная</name>
+      <text>В начале вашего первого хода Поиск – заклинание. Каждый раз, когда герой противника получает раны от заклинания, закрыть и ранить на 1 существо этого противника.</text>
+      <set rarity="ultrarare" num="2" picurl="https://berserk.ru/image/data/Берсерк/adventure_heroes3-copy.png">BG_SA_17</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost></manacost>
+        <type>Герой-маг</type>  
+        <pt>25</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+  </card>
+
+  <card>
+      <name>Гунгор</name>
+      <text>Поворот: Выберите персонажа; до конца следующего хода противника целью атаки этого персонажа может быть выбран только Гунгор.</text>
+      <set rarity="ultrarare" num="3" picurl="https://berserk.ru/image/data/Берсерк/adventure_heroes5-copy.png">BG_SA_17</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost></manacost>
+        <type>Герой-воин</type>  
+        <pt>30</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+  </card>
+
+  <card>
+      <name>Вирта</name>
+      <text>Х монет: Излечить персонажа на Х. Х: Излечить Х персонажей на 1.</text>
+      <set rarity="ultrarare" num="4" picurl="https://berserk.ru/image/data/Берсерк/adventure_heroes7-copy.png">BG_SA_17</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost></manacost>
+        <type>Герой-маг</type>  
+        <pt>26</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+  </card>
+</cards>
+</cockatrice_carddatabase>

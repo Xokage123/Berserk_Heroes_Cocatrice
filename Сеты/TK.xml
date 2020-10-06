@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd">
+  <info>
+    <author>Cockatrice 2.7.5 (2020-08-23)</author>
+    <createdAt>2020-09-02T21:52:29Z</createdAt>
+    <sourceUrl>unknown</sourceUrl>
+    <sourceVersion>unknown</sourceVersion>
+  </info>
+  <sets>
+    <set>
+      <name>BG_7_tokens</name>
+      <longname>Bererk_Heros_7_set</longname>
+      <settype>Tokens</settype>
+      <releasedate>2017</releasedate>
+    </set>
+
+    <set>
+      <name>BG_9_tokens</name>
+      <longname>Bererk_Heros_9_set</longname>
+      <settype>Tokens</settype>
+      <releasedate>2018</releasedate>
+    </set>
+  </sets>
+
+  <cards>
+    <card>
+      <name>Security module</name>
+      <text></text>
+      <token>1</token>
+      <prop>
+        <colors>Нейтральный</colors>
+        <type>Token</type>
+        <pt>0/2</pt>
+      </prop>
+      <set picURL = "https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-7_cards-PRINT211-copy.png">BG_7_tokens</set>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Attack module</name>
+      <text></text>
+      <token>1</token>
+      <prop>
+        <colors>Нейтральный</colors>
+        <type>Token</type>
+        <pt>2/1</pt>
+      </prop>
+      <set picURL = "https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-7_cards-PRINT212-copy.png">BG_7_tokens</set>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Suppression module</name>
+      <text></text>
+      <token>1</token>
+      <prop>
+        <colors>Нейтральный</colors>
+        <type>Token</type>
+        <pt>1/1</pt>
+      </prop>
+      <set picURL = "https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-7_cards-PRINT213-copy.png">BG_7_tokens</set>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Mobility module</name>
+      <text></text>
+      <token>1</token>
+      <prop>
+        <colors>Нейтральный</colors>
+        <type>Token</type>
+        <pt>1/2</pt>
+      </prop>
+      <set picURL = "https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-7_cards-PRINT214-copy.png">BG_7_tokens</set>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Support module</name>
+      <text></text>
+      <token>1</token>
+      <prop>
+        <colors>Нейтральный</colors>
+        <type>Token</type>
+        <pt>0/2</pt>
+      </prop>
+      <set picURL = "https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-7_cards-PRINT215-copy.png">BG_7_tokens</set>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Coin</name>
+      <text></text>
+      <token>1</token>
+      <prop>
+        <colors>Нейтральный</colors>
+        <type>Coin</type>
+        <pt></pt>
+      </prop>
+      <set picURL = "https://hobbygames.ru/image/data/Берсерк/coin.png">BG_7_tokens</set>
+      <tablerow>2</tablerow>
+    </card>
+    
+    <card>
+      <name>Fair wind</name>
+      <text></text>
+      <token>1</token>
+      <prop>
+        <colors>Нейтральный</colors>
+        <type>Coin</type>
+        <pt></pt>
+      </prop>
+      <set picURL = "https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards1911.png">BG_9_tokens</set>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Black mark</name>
+      <text></text>
+      <token>1</token>
+      <prop>
+        <colors>Нейтральный</colors>
+        <type>Coin</type>
+        <pt></pt>
+      </prop>
+      <set picURL ="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards192_optimized.png">BG_9_tokens</set>
+      <tablerow>2</tablerow>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

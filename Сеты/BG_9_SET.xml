@@ -1,0 +1,2877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+
+  <sets>
+    <set>
+      <name>BG_9</name>
+      <longname>Berserk_heroes_9_set</longname>
+      <settype>Берсерк.Герои</settype>
+      <releasedate>2015-04-20</releasedate>
+    </set>
+  </sets>
+
+  <cards>
+
+    <!-- Степные карты 9 сета -->
+
+    <card>
+      <name>Абордаж</name>
+      <text>Ваше существо получает +2 к удару и Рывок до конца хода.</text>
+      <set rarity="common" num="1" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>1</manacost>
+        <type>Заклинание - Действие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Азнагул</name>
+      <text>Ваши карты стоят на 1 монету меньше за каждые 3 помещённых противнику Чёрные метки. 4 монеты и поворот: Поместите в колоду противника Чёрную Метку</text>
+      <set rarity="rare" num="175" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards175_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost></manacost>
+        <type>Герой-жрец</type>
+        <pt>26</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Альмадул</name>
+      <text>Найм: Возмите карту за каждые 4 помещённые противнику Чёрные метки.</text>
+      <set rarity="common" num="2" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards2_optimized1.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Орк</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бесславная погибель</name>
+      <text>Ранить персонажа на 3. Если существо погибло от этого заклинания, поместите в колоду противника 2 Черные метки.</text>
+      <set rarity="common" num="3" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards3_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Заклинание - Ритуал</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Воитель Аккении</name>
+      <text>Найм: Предотвратите следующие 3 раны, которые будут нанесены вашим существам до конца хода.</text>
+      <set rarity="common" num="4" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards4_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Десятник Тухарда</name>
+      <text>Найм: Вымогательство – закрыть 2 своих существа. Ваши существа без особенностей имеют +1 к атаке.</text>
+      <set rarity="uncommon" num="5" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards5_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>4/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Дозорный</name>
+      <text>Когда Дозорного атакуют, поместите в колоду противника Чёрную метку. Поворот: Выстрел на 1.</text>
+      <set rarity="common" num="6" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards6_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>1/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Змееглав</name>
+      <text>Орда. Рывок. Закройте 2 ваших существа: Поместите в колоду противника Черную метку.</text>
+      <set rarity="common" num="7" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards7_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>1</manacost>
+        <type>Существо - Орк</type>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кентавр Охотник</name>
+      <text>Найм: Вымогательство - Ранить своего персонажа на 3. В конце вашего хода поместите в колоду противника Черную метку.</text>
+      <set rarity="common" num="8" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards8_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Кентавр</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кешиар</name>
+      <text>Существа с вымогательстом стоят на 1 монету дешевле.</text>
+      <set rarity="rare" num="9" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards9_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Тоа-Дан</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Конный лучник</name>
+      <text>В конце вашего хода Вымогательство - показать Чёрную метку из своей руки; Если Вымогательство не было оплачено, Выстрел на 2</text>
+      <set rarity="uncommon" num="10" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards10_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>6</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>6/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кочевник</name>
+      <text>Найм: Вымогательство — Оглушить своё существо; Если вымогательство не было оплачено, Кочевник получает Рывок и +1 к удару.</text>
+      <set rarity="common" num="11" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards11_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Лыкхан</name>
+      <text>Когда наносит раны ударом по закрытому герою, оглушите этого героя, затем поместите Чёрную метку в колоду противника.</text>
+      <set rarity="uncommon" num="12" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards12_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>4</manacost>
+        <type>Существо - Орк</type>
+        <pt>5/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Неугасимая ярость</name>
+      <text>Показывайте карты с верха колоды, пока не покажете до пяти заклинаний. Разыграйте бесплатно эти заклинания в том порядке, в каком они были показаны. Замешайте остальные карты в колоду.</text>
+      <set rarity="rare" num="13" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards13_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>9</manacost>
+        <type>Заклинание - Ритуал</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Огневик</name>
+      <text>Когда вы сбрасываете третью карту за ход, возродите Огневика.</text>
+      <set rarity="ultrarare" num="14" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards14_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Существо - Элементаль</type>
+        <pt>4/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Орки Душегубы</name>
+      <text>Орда. Если вы берёте эту карту не первой в этот ход, вы можете его показать из вашей руки, и положить в игру.</text>
+      <set rarity="uncommon" num="15" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards15_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Существо - Орк</type>
+        <pt>3/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Орк-Рекрутер</name>
+      <text>Уничтожьте ваше существо без особенностей: Положите в игру из своей руки существо с той же или меньшей силой атаки.</text>
+      <set rarity="rare" num="16" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards16_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>5</manacost>
+        <type>Существо - Орк</type>
+        <pt>6/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Орк-всадник</name>
+      <text>Найм: Вымогательство - Ранить своё существо на 2. Ваши существа со способностями имеют Первый удар и Рывок.</text>
+      <set rarity="uncommon" num="17" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards17_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Орк</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Оружейный залп</name>
+      <text>Ваше существо производит Выстрел по существу на 6.</text>
+      <set rarity="common" num="18" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards18_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>4</manacost>
+        <type>Заклинание - Действие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Плечом к плечу</name>
+      <text>Ваше существо получает +1 к атаке и жизням до конца хода. Ваше другое существо без способностей получает + 2 к атаке и жизням до конца хода.</text>
+      <set rarity="common" num="19" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards19_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Действие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Прокажённый Том</name>
+      <text>Пока у противника есть 5 или более помещённых Чёрных меток, если ваша степная карта должна нанести урон, то она наносит на 2 раны больше.</text>
+      <set rarity="rare" num="20" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards20_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Карта поддержки - Амулет</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Пруврак</name>
+      <text>Найм: Вымогательство – закрыть 2 своих существа. Когда Пруврак аткаует, сбросьте свою руку, затем возмите 3 карты.</text>
+      <set rarity="rare" num="21" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards21_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>4</manacost>
+        <type>Существо - Орк</type>
+        <pt>5/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Разведчик Банды</name>
+      <text>Найм: Вымогательство – закрыть своё существо. Если вымогательство не было оплачено, сбросьте карту, затем возьмите карту.</text>
+      <set rarity="common" num="22" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards22_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>1</manacost>
+        <type>Существо - Орк</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ратоборец</name>
+      <text>Найм: Если ваше существо атаковало ударом в этом ходу, поместите в колоду противника две Черные метки.</text>
+      <set rarity="common" num="23" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards23_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>5</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>5/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Саламат</name>
+      <text>Когда вы сбрасываете две, или более карт, ваш противник сбрасывает карту. 2 монеты и поворот:Если у вас 0 карт в руке, возьмите карту".</text>
+      <set rarity="ultrarare" num="180" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards180_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost></manacost>
+        <type>Герой-маг</type>
+        <pt>26</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Священные доспехи</name>
+      <text>Когда ваше существо погибает, вы можете уничтожить Священные Доспехи, при этом возродите это существо.</text>
+      <set rarity="uncommon" num="24" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards24_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>3</manacost>
+        <type>Карта поддержки - Броня</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Свита Илле</name>
+      <text>Неуловимость от карт с особенностями. В начале хода существо получает Неуловимость от карт с Особенностями до конца хода.</text>
+      <set rarity="common" num="25" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards25_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>4</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>2/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Торговец Саламата</name>
+      <text>В начале хода сбросьте карту, затем возмите карту.</text>
+      <set rarity="common" num="26" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards26_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>4</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>5/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Турид</name>
+      <text>Ваш оппоненент не может не оплачивать вымогательство.Вымогательство ваших существ нужно оплачивать дважды.</text>
+      <set rarity="ultrarare" num="27" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards27_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>5</manacost>
+        <type>Существо - Орк</type>
+        <pt>5/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Тухард</name>
+      <text>Ваши существа без особенностей получают рывок. Каждый раз, когда противник не оплачивает Вымогательство, ранить его существо на 1.</text>
+      <set rarity="common" num="186" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards186_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost></manacost>
+        <type>Герой-воин</type>
+        <pt>25</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Умбор</name>
+      <text>Умбор имеет -2 к удару за каждое ваше существо, которое атаковало ударом в этот ход.</text>
+      <set rarity="common" num="28" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards28_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>6</manacost>
+        <type>Существо - Великан</type>
+        <pt>8/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Хешир</name>
+      <text>Уникальность. Первый удар. 3 монеты и поворот: Сбросьте Х карт, возьмите Х карт, где Х – число ваших существ, которые атаковали ударом в этом ходу.</text>
+      <set rarity="rare" num="29" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards2_optimized.png">BG_9</set>
+      <prop>
+        <colors>Степи</colors>
+        <manacost>2</manacost>
+        <type>Существо - Аккениец</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <!-- Горные карты 9 сета -->
+
+    <card>
+      <name>Андор</name>
+      <text>Найм: Ранить Х ваших существ на 1, при этом Поиск – существо стоимостью Х.</text>
+      <set rarity="rare" num="30" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards30_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Арлаф Сырая Печень</name>
+      <text>Найм: Вымогательство – потерять 1 монету. Арлаф Сырая Печень получает +3 к удару и жизням.</text>
+      <set rarity="uncommon" num="31" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards31_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>4</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Башар</name>
+      <text>Найм: Следующий Найм срабатает ещё раз (вы можете выбирать новые цели).</text>
+      <set rarity="common" num="32" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards32_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бейдевинд</name>
+      <text>Поместите Х Попутных ветров в вашу колоду, где Х – количество раненных существ под вашим контролем.</text>
+      <set rarity="rare" num="33" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards33_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Приказ</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Бергат</name>
+      <text>Найм: До конца хода существа с Неуловимостью получают Рывок.</text>
+      <set rarity="uncommon" num="34" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards34_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Берсерк Викара</name>
+      <text>Ваши существа с ранами имеют Опыт в атаке.</text>
+      <set rarity="common" num="35" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards35_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>6</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>6/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Варнак</name>
+      <text>Найм: Ранить до двух существ на 1.</text>
+      <set rarity="uncommon" num="36" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards36_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>4</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>4/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ватх</name>
+      <text>В начале хода, если на Ватхе есть раны, он получает Броню 3.</text>
+      <set rarity="common" num="37" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards37_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>4/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Викар</name>
+      <text>Каждый раз, когда у вашего Йордлинга срабатывает Найм, существо получает Неуловимость от выбранной стоимости до конца хода.</text>
+      <set rarity="common" num="187" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards187_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost></manacost>
+        <type>Герой-разбойник</type>
+        <pt>24</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Витязь Рагнара</name>
+      <text>Орда. Витязь Рагнара имеет +2 к удару, пока на нем есть раны.</text>
+      <set rarity="common" num="38" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards38_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>1</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Витязь Викара</name>
+      <text>Каждый раз когда Витязь Викара получает раны, он получает +1 к удару.</text>
+      <set rarity="common" num="39" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards39_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>1/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Исступление</name>
+      <text>Каждое ваше существо с ранами получает +3 к удару. до конца хода.</text>
+      <set rarity="common" num="40" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards40_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>6</manacost>
+        <type>Заклинание - Действие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Кистень</name>
+      <text>Ваш герой имеет: «2 монеты и поворот: нанесите Х повреждений существу, где Х – количество ран на ваших существах.».</text>
+      <set rarity="rare" num="41" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards41_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>4</manacost>
+        <type>Карта поддержки - Оружие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Крейд-Моор</name>
+      <text>Существа стоят на 2 монеты дороже.</text>
+      <set rarity="ultrarare" num="42" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards42_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Карта поддержки - Местность</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Ледяное Касание</name>
+      <text>Ранить до двух существ на 1. Возьмите карту.</text>
+      <set rarity="common" num="43" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards43_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Волшебство</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Миккель</name>
+      <text>Пока Миккель ранен, ваши раненые существа имеют +2 к удару и Броню 1.</text>
+      <set rarity="rare" num="44" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards44_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>5</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>5/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Морской дозор</name>
+      <text>Верните ваше раненное существо в руку: Поиск – Попутный ветер.</text>
+      <set rarity="rare" num="45" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards45_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>4</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>4/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Нордлинги</name>
+      <text>Найм: Посмотрите 3 верхних карты вашей колоды, положите всех Нордлингов, показанных таким образом, в вашу руку, остальные карты замешайте в колоду.</text>
+      <set rarity="common" num="46" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards46_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>2/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Охрана вождя</name>
+      <text>Ваш герой получает Броню 5 и Защиту от заклинаний до начала вашего следующего хода.</text>
+      <set rarity="common" num="47" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards47_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>1</manacost>
+        <type>Заклинание - Приказ</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Призыв Бурана</name>
+      <text>Раньте всех существ на 3.</text>
+      <set rarity="rare" num="48" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards48_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>4</manacost>
+        <type>Заклинание - Приказ</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Призыв к насилию</name>
+      <text>Ранить на 2 каждое существо без Найма.</text>
+      <set rarity="uncommon" num="49" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards49_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Приказ</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Рагнар</name>
+      <text>2 монеты и поворот: Подготовьте существо, получавшее раны в этом ходу.</text>
+      <set rarity="rare" num="176" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards176_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost></manacost>
+        <type>Герой-воин</type>
+        <pt>24</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Разгул бродяг</name>
+      <text>Распределите 4 раны среди существ по вашему выбору.</text>
+      <set rarity="uncommon" num="50" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards50_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Заклинание - Действие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Ритуальная Казнь</name>
+      <text>Уничтожьте существо с ранами. Возьмите карту.</text>
+      <set rarity="common" num="51" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards51_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Заклинание - Приказ</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Снорлинг</name>
+      <text>Найм: Получает +Х к атаке, где Х – количество ран на ваших существах.</text>
+      <set rarity="common" num="52" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards52_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>2</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>1/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Страж Викара</name>
+      <text>Когда Страж Викара получает раны, выбранное существо получает Броню 2.</text>
+      <set rarity="common" num="53" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards53_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>2/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Трэль</name>
+      <text>Орда. Найм: Вы можете показать йордлинга из вашей руки, при этом следующее существо до конца хода стоит на 1 монету дешевле.</text>
+      <set rarity="common" num="54" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards54_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>1</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Улерик</name>
+      <text>Уникальность. Найм: До конца хода ваши йордлинги стоят на 1 монету дешевле, за каждый другой Найм, который сработал в этом ходу.</text>
+      <set rarity="ultrarare" num="55" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards55_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>4</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>3/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Хольд</name>
+      <text>Каждый раз, когда Хольд получает Х ран, ранить другое существо на Х.</text>
+      <set rarity="uncommon" num="56" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards56_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>7</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>4/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Хускарл</name>
+      <text>Найм: Существа с ранами получают Первый удар.</text>
+      <set rarity="uncommon" num="57" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards57_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>3</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>4/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Эаррен</name>
+      <text>Когда Эаррен получает раны, пеместите Попутный ветер в вашу колоду. Сбросте попутный ветер: Ваше существо не может быть целью атак до начала вашего хода.</text>
+      <set rarity="ultrarare" num="181" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards181_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost></manacost>
+        <type>Герой-воин</type>
+        <pt>26</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Ярл</name>
+      <text>Неуловимость от пиратов.</text>
+      <set rarity="common" num="58" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards58_optimized.png">BG_9</set>
+      <prop>
+        <colors>Горы</colors>
+        <manacost>6</manacost>
+        <type>Существо - Йордлинг</type>
+        <pt>6/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <!-- Лесные карты 9 сета -->
+
+    <card>
+      <name>Адепт жизни</name>
+      <text>Не может атаковать.</text>
+      <set rarity="common" num="59" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards59_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>4/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Алая тетива</name>
+      <text>Найм: Вымогательство – закрыть 1 монету. В конце вашего хода Выстрел на 2. Когда убивает существо, можете вернуть Алую Тетиву в руку.</text>
+      <set rarity="uncommon" num="60" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards60_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Эльф</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Атаман Лихолесья</name>
+      <text>Найм: Выберете 2 раза одно из: – Рывок. – Поиск – любая карта. – В конце хода верните Атамана Лихолесья в руку, – Выстрел на 3.</text>
+      <set rarity="ultrarare" num="61" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards61_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>7</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>5/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Брауни</name>
+      <text>Найм: Вымогательство – поместить Чёрную Метку в свою колоду. Брауни имеет +1 к удару и жизням за каждую помещённую противнику Чёрную метку.</text>
+      <set rarity="common" num="62" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards62_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Волна очищения</name>
+      <text>Все существа теряют эффекты и особенности. Возьмите карту.</text>
+      <set rarity="uncommon" num="63" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards63_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Заклинание - Волшебство</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Гиуэль, Сбежавший</name>
+      <text>2 монеты и поворот: Поместите в колоду противника Черную метку. 2 монеты и поворот: Противник показывает руку; Если в ней есть Черная метка, Ваши существа имеют Неуловимость от открытых существ до конца хода.</text>
+      <set rarity="ultrarare" num="182" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards182_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost></manacost>
+        <type>Герой-разбойник</type>
+        <pt>25</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Дева чащи</name>
+      <text>Опыт в атаке. Найм: Вымогательство – закрыть 2 монеты.</text>
+      <set rarity="common" num="64" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards64_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Забвение</name>
+      <text>Существо теряет особенности. Возьмите карту.</text>
+      <set rarity="common" num="65" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards65_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Действие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Засада разбойников</name>
+      <text>Положите до четырёх существ с Рывком из вашей руки в игру, их найм не срабатывает. В конце хода верните их в вашу руку.</text>
+      <set rarity="rare" num="66" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards66_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>6</manacost>
+        <type>Заклинание - Действие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Затаившийся отряд</name>
+      <text>Найм: Вымогательство – 2 монеты. При атаке подготовьте Затаившийся отряд.</text>
+      <set rarity="common" num="67" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards67_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>6</manacost>
+        <type>Существо - Эльф</type>
+        <pt>4/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Клури</name>
+      <text>Каждый раз когда противник платит за Вымогательство ваших существ, получите монету до конца вашего следующего хода. 2 монеты: Верните ваше существо без особенностей в руку владельца.</text>
+      <set rarity="rare" num="177" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards177_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost></manacost>
+        <type>Герой-маг</type>
+        <pt>25</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Кэйри</name>
+      <text>Каждый раз, когда вы получаете монету, Кэйри получает +2 к удару до конца хода.</text>
+      <set rarity="common" num="68" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards68_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Страж леса</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Котелок</name>
+      <text>Когда противник оплачивает Вымогательство, положите эффект «богатства» на Котелок. Поворот: получите монету до конца хода за каждый эффект «богатства» на Котелке.</text>
+      <set rarity="rare" num="69" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards69_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Карта поддержки - Амулет</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Кривоногий гонец</name>
+      <text>Найм: Поместите Чёрную метку в колоду противника.</text>
+      <set rarity="common" num="70" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards70_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Существо - Гоблин</type>
+        <pt>4/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Лесной партизан</name>
+      <text>Поворот: Выстрел на Х, где Х - количество помещённых противнику Чёрных меток.</text>
+      <set rarity="uncommon" num="71" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards71_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Эльф</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Маутирохо</name>
+      <text>Найм: Начальные удар и жизни ваших существ становятся равны удару и жизням Маутирохо.</text>
+      <set rarity="ultrarare" num="72" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards72_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>10</manacost>
+        <type>Существо - Энт</type>
+        <pt>7/11</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Наллен</name>
+      <text>В начале вашего хода, если в прошлом ходу не было атакующих существ, возьмите 2 карты.</text>
+      <set rarity="rare" num="73" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards73_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Карта поддержки - Местность</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Паракорн</name>
+      <text>Найм: Вымогательство -  закрыть монету. 2 монеты и поворот: Паракорн сражается с существом противника.</text>
+      <set rarity="uncommon" num="74" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards74_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>4</manacost>
+        <type>Существо - Наемник</type>
+        <pt>4/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Разбойничий атаман</name>
+      <text>Рывок. При гибели существа противника от атаки Разбойничьего атамана вы можете положить Разбойничьего атамана в руку владельца.</text>
+      <set rarity="common" num="75" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards75_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Наемник</type>
+        <pt>3/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Самооборона</name>
+      <text>Удар существа становится равен 0. Возьмите карту.</text>
+      <set rarity="common" num="76" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards76_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Ритуал</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Скаш</name>
+      <text>Рывок. Когда вы третий раз атакуете существом с Рывком в этот ход, вы можете положить Скаша из руки на поле боя. В конце хода верните Скаша в вашу руку.</text>
+      <set rarity="uncommon" num="77" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards77_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>5</manacost>
+        <type>Существо - Эльф</type>
+        <pt>4/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Стеречь лес</name>
+      <text>Существа, с ударом меньшим, чем количество помещённых Чёрных меток не могут атаковать в следующем ходу. Возмите карту.</text>
+      <set rarity="uncommon" num="78" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards78_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Ритуал</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Стрясти долги</name>
+      <text>Получите 1 монету. Поместите Чёрную метку в колоду противника.</text>
+      <set rarity="uncommon" num="79" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards79_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Заклинание - Действие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Суэл</name>
+      <text>Когда ваш противник не оплачивает Вымогательство, вы можете положить существо с Рывком из руки в игру, его Найм не срабатывает.</text>
+      <set rarity="rare" num="80" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards80_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Эльф</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Террвин</name>
+      <text>Вы ходите вторым. Рывок и направленный удар не работают.</text>
+      <set rarity="common" num="188" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards188_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost></manacost>
+        <type>Герой-жрец</type>
+        <pt>27</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Успокоение леса</name>
+      <text>Удар всех существ становится равен 0.</text>
+      <set rarity="rare" num="81" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards81_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>5</manacost>
+        <type>Заклинание - Ритуал</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Фехтовальщица</name>
+      <text>Рывок. В конце вашего хода, если 2 и более существ вошли в игру в этот ход, верните Фехтовальщицу в вашу руку.</text>
+      <set rarity="common" num="82" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards82_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Эльф</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Эльф-наёмник</name>
+      <text>Орда. Найм:Вымогательство – показать 2 существа из своей руки. Гибель: Положите Эльфа-наёмника в руку владельца.</text>
+      <set rarity="common" num="83" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards83_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>1</manacost>
+        <type>Существо - Эльф</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Эльф-рейдер</name>
+      <text>Найм: Вымогательство – закрыть 1 монету. Гибель: Возьмите карту.</text>
+      <set rarity="common" num="84" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards84_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>3</manacost>
+        <type>Существо - Эльф</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Эльф-чародей</name>
+      <text>Рывок. Найм: Подготовьте существо с Рывком. В конце хода верните Эльфа-чародея в руку.</text>
+      <set rarity="rare" num="85" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards85_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>5</manacost>
+        <type>Существо - Эльф</type>
+        <pt>5/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Эльфийская налётчица</name>
+      <text>Рывок. Найм: Вымогательство – закрыть 1 монету. В конце хода, вы можете вернуть Эльфийскую налётчицу в вашу руку.</text>
+      <set rarity="common" num="86" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards86_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>2</manacost>
+        <type>Существо - Эльф</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Эштанги</name>
+      <text>Найм: Получает +2 к удару, если у вас есть существо без особенностей.</text>
+      <set rarity="common" num="87" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards87_optimized.png">BG_9</set>
+      <prop>
+        <colors>Леса</colors>
+        <manacost>5</manacost>
+        <type>Существо - Эльф</type>
+        <pt>5/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <!-- Болотные карты 9 сета -->
+
+    <card>
+      <name>Акванит-надзиратель</name>
+      <text>Найм: Вымогательство – 3 монеты. Гибель: Возьмите под контроль существо.</text>
+      <set rarity="uncommon" num="88" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards88_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Акванит</type>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ананке</name>
+      <text>Каждый раз, когда существо с ранами атакует, Отравите его на 1. Каждый раз когда существо умирает от отравления, возьмите карту.</text>
+      <set rarity="common" num="189" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards189_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost></manacost>
+        <type>Герой-маг</type>
+        <pt>28</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Арват</name>
+      <text>Когда покидает игру – получите контроль над существом до конца хода (оно не может атаковать, если у него нет Рывка).</text>
+      <set rarity="common" num="89" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards89_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Акванит</type>
+        <pt>1/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Астролябия</name>
+      <text>Когда существо покидает игру – поместите Попутный ветер в вашу колоду. Каждый раз, когда вы разыгрываете Попутный ветер, возьмите карту.</text>
+      <set rarity="rare" num="90" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards90_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Карта поддержки - Амулет</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Бансар</name>
+      <text>Когда покидает игру – положите в руку владельца существо с меньшей силой удара.</text>
+      <set rarity="common" num="91" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards91_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>3/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вайрен</name>
+      <text>Каждый раз, когда ваш герой был излечен, Вайрен получает +2 к удару до конца хода.</text>
+      <set rarity="common" num="92" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards92_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Взор Архааля</name>
+      <text>Когда покидает игру – возмите карту.</text>
+      <set rarity="common" num="93" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards93_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Речная дева</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Воин Топей</name>
+      <text>Орда. Гибель: Поместите Попутный ветер в вашу колоду.</text>
+      <set rarity="common" num="94" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards94_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>1</manacost>
+        <type>Существо - Акванит</type>
+        <pt>1/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Врата Дхаа</name>
+      <text>3 монеты: Отравить существо на Х, где Х – количество взятых вами карт в этот ход.</text>
+      <set rarity="rare" num="95" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards95_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Карта поддержки - Местность</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Гхурт-скиталец</name>
+      <text>Найм: Закройте существо противника; если в вашей руке 6 или более карт, вы можете положить его в руку владельца.</text>
+      <set rarity="uncommon" num="96" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards96_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Жардин</name>
+      <text>Найм: Поиск любое количество карт Попутный ветер.</text>
+      <set rarity="ultrarare" num="97" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards97_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>5</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>4/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Йокуру</name>
+      <text>Найм: Противник получает контроль над Йокуру. В начале вашего хода отравить всех ваших существ на 2.</text>
+      <set rarity="rare" num="98" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards98_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Речная дева</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Каратель Архааля</name>
+      <text>Найм: Отравить существо на Х – где Х - количество взятых вами карт в этот ход.</text>
+      <set rarity="common" num="99" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards99_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>6</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>3/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кимулис</name>
+      <text>Найм: Посмотрите 3 верхние карты вашей колоды, вы можете положить их на кладбище, затем возьмите 3 карты.Противник получает контроль над Кимулисом.</text>
+      <set rarity="uncommon" num="100" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards100_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Морской Змей</name>
+      <text>Когда покидает игру – получите дополнительный ход.</text>
+      <set rarity="ultrarare" num="101" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards101_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>9</manacost>
+        <type>Существо - Зверь</type>
+        <pt>6/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Морской страж</name>
+      <text>Если вы должны поместить Попутный ветер в вашу колоду, вместо этого положите его на верх колоды.</text>
+      <set rarity="rare" num="102" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards102_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Речная дева</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Начать заново</name>
+      <text>Уничтожьте Начать заново: Замешайте каждую карту с кладбища в колоду владельца.</text>
+      <set rarity="rare" num="103" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards103_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Событие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Огр Гвардеец</name>
+      <text>Регенерация Х, где Х – количество взятых вами карт в этот ход.</text>
+      <set rarity="common" num="104" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards104_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>5</manacost>
+        <type>Существо - Огр</type>
+        <pt>3/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Орк-шпион</name>
+      <text>Когда покидает игру – выбранный противник показывает руку, вы можете положить в игру под своим контролем существо, показанное таким способом.</text>
+      <set rarity="common" num="105" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards105_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>6</manacost>
+        <type>Существо - Орк</type>
+        <pt>2/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Открыть истину</name>
+      <text>Верните существо в руку владельца. Поместите Попутный ветер в вашу колоду 4-ой картой сверху.</text>
+      <set rarity="uncommon" num="106" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards106_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Волшебство</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Плетение снов</name>
+      <text>Возьмите карту. До конца хода ваши заклинания стоят на 1 монету дешевле.</text>
+      <set rarity="common" num="107" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards107_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Заклинание - Волшебство</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Поиск кладов</name>
+      <text>Возьмите 4 карты.</text>
+      <set rarity="common" num="108" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards108_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>6</manacost>
+        <type>Заклинание - Волшебство</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Покушение</name>
+      <text>Отравить существо на Х, где Х – сила удара этого существа.</text>
+      <set rarity="common" num="109" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards109_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Заклинание - Приказ</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Предательство</name>
+      <text>Отдайте под контроль противника выбранное ваше открытое существо; возьмите под контроль выбранное существо противника.</text>
+      <set rarity="uncommon" num="110" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards1101.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Действие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Слово Архааля</name>
+      <text>Когда существо получает отравление – поместите Попутный ветер в вашу колоду.</text>
+      <set rarity="rare" num="111" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards111_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>3</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Спинолом</name>
+      <text>Пока в вашей руке 4 или более карт, Спинолом имеет +1 к удару и жизням.</text>
+      <set rarity="common" num="112" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards112_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>4/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Узнать Путь</name>
+      <text>Поместите 2 Попутных ветра в вашу колоду.</text>
+      <set rarity="common" num="113" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards113_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Действие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Унгар-ополченец</name>
+      <text>Когда покидает игру – полностью излечите существо.</text>
+      <set rarity="common" num="114" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards114_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>2</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Унук</name>
+      <text>Когда покидает игру – отравить всех существ на 1.</text>
+      <set rarity="uncommon" num="115" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards115_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Существо - Архаалит</type>
+        <pt>1/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Усыпление</name>
+      <text>Положите существо на верх колоды владельца. Вы можете сбросить карту заклинания и положить еще одно существо на верх колоды владельца.</text>
+      <set rarity="uncommon" num="116" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards116_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost>4</manacost>
+        <type>Заклинание - Волшебство</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Эвтэрпа</name>
+      <text>Когда вы берете вторую карту за ход, излечите Эвтэрпу на 2. 2 монеты и поворот: Поместите в вашу колоду Попутный ветер.</text>
+      <set rarity="rare" num="178" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards178_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost></manacost>
+        <type>Герой-разбойник</type>
+        <pt>26</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Эрьяна</name>
+      <text>2 монеты, Верните Ваше существо в руку вледельца: Выберете одно из: -Поиск - Попутный Ветер. -Отравите существо на 1. -До начала вашего хода Поиск и Вызов не работают.</text>
+      <set rarity="ultrarare" num="183" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards183_optimized.png">BG_9</set>
+      <prop>
+        <colors>Болота</colors>
+        <manacost></manacost>
+        <type>Герой-жрец</type>
+        <pt>24</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <!-- Темные карты 9 сета -->
+
+    <card>
+      <name>Авил</name>
+      <text>Найм: Вы можете ранить Авила на Х (Х не может быть больше здоровья этого существа), при этом излечите вашего героя на Х.</text>
+      <set rarity="uncommon" num="117" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards117_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Ковен</type>
+        <pt>2/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Агатервол</name>
+      <text>В начале вашего хода Вымогательство – cбросить Чёрную Метку, если Вымогательство не было оплачено, верните карту с кладбища в руку владельца.</text>
+      <set rarity="common" num="118" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards118_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>5</manacost>
+        <type>Существо - Нежить</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Аластор</name>
+      <text>Найм: Поместите Чёрную метку на верх колоды противника.</text>
+      <set rarity="uncommon" num="119" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards119_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Нежить</type>
+        <pt>1/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Аннигилировать</name>
+      <text>Уничтожьте существо, или карту поддержки.Это заклинание стоит на 1 монету дешевле за каждую рану, полученную вашим героем в этом ходу.</text>
+      <set rarity="common" num="120" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards120_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>6</manacost>
+        <type>Заклинание - Приказ</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Асмодеус</name>
+      <text>Сбросьте Чёрную Метку: Выбранный противник показывает руку и сбрасывает одну карту на ваш выбор.</text>
+      <set rarity="common" num="121" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards121_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Демон</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Астарот</name>
+      <text>В начале вашего хода Вымогательство - сбросить 2 карты. Если Вымогательство не было оплачено, поместите в колоду вашего противника Чёрную Метку.</text>
+      <set rarity="common" num="122" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards122_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>6</manacost>
+        <type>Существо - Демон</type>
+        <pt>5/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бирисс</name>
+      <text>Найм:Излечите вашего героя на Х, где Х - количество помещённых противнику Чёрных меток.</text>
+      <set rarity="common" num="123" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards123_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>5</manacost>
+        <type>Существо - Ковен</type>
+        <pt>4/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Валофар</name>
+      <text>Найм:Вымогательство - Ранить своего героя на 4. Первое ваше разыгрываемое существо стоит на 2 монеты дешевле.</text>
+      <set rarity="rare" num="124" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards124_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>1</manacost>
+        <type>Существо - Демон</type>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вампиризм</name>
+      <text>Ранить персонажа на 3, излечить вашего героя на 3. Когда вы сбрасываете эту карту, ранить персонажа на 2 излечить вашего героя на 2.</text>
+      <set rarity="uncommon" num="125" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards125_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Заклинание - Волшебство</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Воин склепа</name>
+      <text>Орда. Гибель: Поместите черную метку в колоду противника.</text>
+      <set rarity="common" num="126" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards126_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>1</manacost>
+        <type>Существо - Нежить</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Выводок Слуа</name>
+      <text>Когда ваш герой излечивается на Х, ранить существо на Х, где Х - количество излеченных ран.</text>
+      <set rarity="common" num="127" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards127_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Ковен</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Высшая Кара</name>
+      <text>Уничтожьте всех существ, в начале следующего вашего хода закройте 2 ваших монеты.</text>
+      <set rarity="rare" num="128" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards128_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>6</manacost>
+        <type>Заклинание - Ритуал</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Гаркаин</name>
+      <text>В конце вашего хода, если вы получили 5 или более ран в этот ход, возродите Гаркаина.</text>
+      <set rarity="common" num="129" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards129_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Существо - Нежить</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Демон льдов</name>
+      <text>Найм: Положите карточку с кладбища любого игрока на верх его колоды.</text>
+      <set rarity="uncommon" num="130" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards130_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>4</manacost>
+        <type>Существо - Демон</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кальдена</name>
+      <text>Поворот: Противник сбрасывает карту; вы можете активировать эту особенность только, если вы получали раны в этот ход.</text>
+      <set rarity="common" num="131" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards131_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Ковен</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кровавый Латник</name>
+      <text>Неуловимость от существ с меньшей стоимостью. Найм: Кровавый латник получает +1 к атаке и к жизням за каждые 2 раны на вашем герое.</text>
+      <set rarity="rare" num="132" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards132_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>4</manacost>
+        <type>Существо - Нежить</type>
+        <pt>1/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кромсатель</name>
+      <text>Найм: Вымогательство - уничтожить своё существо. Если Вымогательство не было оплачено, ваши существа получают Рывок до конца хода.</text>
+      <set rarity="rare" num="133" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards133_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Ковен</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кумсар</name>
+      <text>Стоит на 1 монету дешевле за каждую рану, полученную вашим героем в этом ходу.</text>
+      <set rarity="common" num="134" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards134_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>7</manacost>
+        <type>Существо - Нежить</type>
+        <pt>6/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Летеон</name>
+      <text>Уничтожьте своё существо: Поиск -Демон.</text>
+      <set rarity="rare" num="135" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards135_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>5</manacost>
+        <type>Существо - Демон</type>
+        <pt>5/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Любой ценой</name>
+      <text>Ранить каждого вашего персоонажа на Х, возмите Х карт.</text>
+      <set rarity="uncommon" num="136" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards136_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>Х</manacost>
+        <type>Заклинание - Действие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Малфас</name>
+      <text>Найм:Поиск в любой колоде любое количество помещённых карт, и положите их в запас; ранить всех других существ на 1 за каждую найденную таким образом карту.</text>
+      <set rarity="ultrarare" num="137" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards137_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>6</manacost>
+        <type>Существо - Демон</type>
+        <pt>6/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Марерит</name>
+      <text>Найм: Поместите черную метку в вашу колоду.</text>
+      <set rarity="uncommon" num="138" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards138_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Существо - Слуа</type>
+        <pt>5/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Маэнас</name>
+      <text>Замешайте Чёрную метку из вашей руки в колоду: Возьмите карту. 1 монета и поворот: Поместите Черную метку в колоду каждого игрока. 2 монеты и поворот: Каждый игрок сбрасывает карту. </text>
+      <set rarity="rare" num="179" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards179_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost></manacost>
+        <type>Герой-разбойник</type>
+        <pt>25</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Мёртвый Рыцарь</name>
+      <text>Сбросьте карту: Поместите Черную метку в колоду противника.</text>
+      <set rarity="uncommon" num="139" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards139_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>4</manacost>
+        <type>Существо - Нежить</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Нечистое зелье</name>
+      <text>Если вы получали раны в этот ход, излечите вашего героя на 5, возьмите карту.</text>
+      <set rarity="common" num="140" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards140_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Зелье</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Латник Сумрака</name>
+      <text>Гибель: Каждый игрок сбрасывает карту.</text>
+      <set rarity="common" num="141" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards141_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Существо - Нежить</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Помощь демонов</name>
+      <text>Уничтожьте существо. Излечите вашего героя на 3. Вы можете разыгрывать эту карту с вашего кладбища.</text>
+      <set rarity="ultrarare" num="142" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards142_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>6</manacost>
+        <type>Заклинание - Ритуал</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Помощь Уггуда</name>
+      <text>Возродите существо, стоимостью Х монет и менее, где Х количество помещённых противнику Чёрных меток.</text>
+      <set rarity="common" num="143" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards143_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>4</manacost>
+        <type>Заклинание - Ритуал</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Проклятая труба</name>
+      <text>В конце хода, если вы получали раны в этот ход, вы можете посмотреть 2 верхних карты колоды противника, вы можете положить их обратно в любом порядке.</text>
+      <set rarity="rare" num="144" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards144_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>2</manacost>
+        <type>Карта поддержки - Амулет</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Убить невинного</name>
+      <text>Уничтожьте существо, поместите Чёрную метку в вашу колоду.</text>
+      <set rarity="common" num="145" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards145_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost>3</manacost>
+        <type>Заклинание - Ритуал</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Тэндала</name>
+      <text>Когда существо стоимостью 2 или менее наносит раны герою противника, Поместите в вашу колоду Попутный ветер третьей картой сверху. </text>
+      <set rarity="ultrarare" num="184" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards184_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost></manacost>
+        <type>Герой-разбойник</type>
+        <pt>24</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Фоб, вечный</name>
+      <text>Ваши существа имеют "Гибель: посмотрите верхнюю карту колоды противника; можете положить ее на кладбище противника".</text>
+      <set rarity="common" num="190" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards190_optimized.png">BG_9</set>
+      <prop>
+        <colors>Тьма</colors>
+        <manacost></manacost>
+        <type>Герой-жрец</type>
+        <pt>27</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <!-- Нейтральные карты 9 сета -->
+
+    <card>
+      <name>Блюститель кодекса</name>
+      <text>Стоит на 1 монету меньше за каждое ваше закрытое существо.</text>
+      <set rarity="common" num="146" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards146_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Пират</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Боцман</name>
+      <text>Найм: Если на столе меньше 2 закрытых существ, сбросьте карту.</text>
+      <set rarity="common" num="147" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards147_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>1</manacost>
+        <type>Существо - Пират</type>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бриг «Эллион»</name>
+      <text>Оглушите ваше открытое существо: Выстрел на 2. Сбросьте карту: ПодготовьтеБриг «Эллион».</text>
+      <set rarity="rare" num="148" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards148_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Карта поддержки - Событие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Буканьер</name>
+      <text>Найм: Выстрел на Х, где Х – число Буканьеров в игре.</text>
+      <set rarity="common" num="149" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards1494.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Пират</type>
+        <pt>2/1</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Бывалый пират</name>
+      <text>Найм: Выстрел на Х в существо, где Х – количество закрытых существ в игре.</text>
+      <set rarity="uncommon" num="150" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards150_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Пират</type>
+        <pt>4/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Вилерм</name>
+      <text>Когда Вилерм становится закрытым – Выстрел на 1.</text>
+      <set rarity="common" num="151" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards151_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Пират</type>
+        <pt>2/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Возрождённый корсар</name>
+      <text>Закройте другое ваше существо: Возрождённый корсар получает +2 к удару и к жизням до конца хода.</text>
+      <set rarity="common" num="152" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards152_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Пират</type>
+        <pt>1/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Гагрид</name>
+      <text>Рывок. Найм: Вымогательство – 3 монеты.</text>
+      <set rarity="uncommon" num="153" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards153_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>7</manacost>
+        <type>Существо - Пират</type>
+        <pt>6/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Джентельмен удачи</name>
+      <text>Существа противника получают «Найм: Вымогательство –  закрыть 1 монету».</text>
+      <set rarity="ultrarare" num="154" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards154_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Пират</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Дредноут</name>
+      <text>Найм: Оглушите персонажа. В ващ ход, пока стоимость Дредноута 10 монет или более, ваши существа имеют все способности Дредноута.</text>
+      <set rarity="uncommon" num="155" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards155_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Карта поддержки - Событие/Механизм</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Инсургент</name>
+      <text>Когда противник берёт две и более карты (за раз), он показывает руку и сбрасывает одну карту на ваш выбор.</text>
+      <set rarity="rare" num="156" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards156_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Пират</type>
+        <pt>5/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Кайна</name>
+      <text>Сбросьте Чёрную метку: Возьмите 2 карты (эту особенность может активировать каждый игрок).</text>
+      <set rarity="rare" num="157" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards157_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Пират</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Капитан Гамбри</name>
+      <text>Поворот, замешайте Капитана Гамбри в вашу колоду: Замешайте существо в колоду противника.</text>
+      <set rarity="rare" num="158" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards158_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Пират</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Карррсар</name>
+      <text>Неуловимость от карт стоимостью более 2 . 3 монеты и поворот, уничтожьте Карррсара: Возьмите карту.</text>
+      <set rarity="uncommon" num="159" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards159_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>1</manacost>
+        <type>Существо - Пират/Зверь</type>
+        <pt>1/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Картограф</name>
+      <text>Найм: Поиск – местность.</text>
+      <set rarity="rare" num="160" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards160_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Существо - Пират</type>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Касание смерти</name>
+      <text>Поместите Чёрную метку в колоду противника. Возьмите карту.</text>
+      <set rarity="common" num="161" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards161_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Ритуал</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Корсар Эллиона</name>
+      <text>Найм: Противник показывает руку и сбрасывает одну карту на ваш выбор.</text>
+      <set rarity="uncommon" num="162" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards162_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Пират</type>
+        <pt>4/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Маат</name>
+      <text>Каждый раз, когда Маат получает раны, поместите в колоду противника Чёрную метку.</text>
+      <set rarity="common" num="163" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards163_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Существо - Пират</type>
+        <pt>3/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Мародёрство</name>
+      <text>Уничтожьте карту поддержки.</text>
+      <set rarity="common" num="164" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards164_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Заклинание - Приказ</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Морские псы</name>
+      <text>Уничтожте Морских псов: Подготовьте существо.</text>
+      <set rarity="common" num="165" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards165_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Пират</type>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Морские разбойники</name>
+      <text>Найм:Поместите 2 Чёрные метки в колоду противника.</text>
+      <set rarity="common" num="166" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards166_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>6</manacost>
+        <type>Существо - Пират</type>
+        <pt>7/6</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Наблюдатель</name>
+      <text>1 монета и поророт: Закройте существо.</text>
+      <set rarity="common" num="167" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards167_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Пират</type>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Ракеро Регио</name>
+      <text>Найм: Откройте до двух персонажей.</text>
+      <set rarity="uncommon" num="168" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards168_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>3</manacost>
+        <type>Существо - Пират</type>
+        <pt>3/4</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Собирающий Дань</name>
+      <text>В начале хода противника - Вымогательство закрыть 4 монеты. Если Вымогательство не было оплачено, закройте существо.</text>
+      <set rarity="common" num="169" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards169_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>8</manacost>
+        <type>Существо - Пират/Орк</type>
+        <pt>10/7</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Сорвиголова</name>
+      <text>Орда. +1 к удару за каждых других Сорвиголов.</text>
+      <set rarity="common" num="170" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards1702.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>1</manacost>
+        <type>Существо - Пират</type>
+        <pt>0/3</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Старпом</name>
+      <text>Закрытые существа не открываются в начале хода, пока Старпом в игре.</text>
+      <set rarity="rare" num="171" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards171_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>6</manacost>
+        <type>Существо - Пират</type>
+        <pt>2/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>Тюремная камера</name>
+      <text>Найм: Скройте существо, это существо не может раскрыться, пока Тюремная камера в игре.</text>
+      <set rarity="uncommon" num="172" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards172_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>4</manacost>
+        <type>Карта поддержки - Событие</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Урдо</name>
+      <text>Поворот: закройте Х ваших существ: Поиск - Пирата со стоимостью Х монет. Х монет: Замешайте Х пиратов из вашего кладбища в вашу колоду.</text>
+      <set rarity="ultrarare" num="185" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards185_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost></manacost>
+        <type>Герой-воин</type>
+        <pt>24</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>Шанс</name>
+      <text>Поиск: 2 Попутных ветера.</text>
+      <set rarity="common" num="173" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards173_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>2</manacost>
+        <type>Заклинание - Волшебство</type>
+        <pt></pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>Эрл Рыжий</name>
+      <text>Найм и Гибель не работают.</text>
+      <set rarity="ultrarare" num="174" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-9_cards174_optimized.png">BG_9</set>
+      <prop>
+        <colors>Нейтральная</colors>
+        <manacost>5</manacost>
+        <type>Существо - Пират</type>
+        <pt>7/5</pt>
+        <format-standard>legal</format-standard>
+        <format-eternal>legal</format-eternal>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
