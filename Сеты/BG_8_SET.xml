@@ -183,20 +183,6 @@
 		<tablerow>2</tablerow>		
 	</card>
 	<card>
-		<name>Мардук</name>
-		<text> 2 монеты, закрыть: Усовершенствуйте существо. Существа не-механизмы имеют Уязвимость (получают на 1 рану больше от любого источника). </text>
-		<set rarity="common" num="208" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards208-copy.png'>BG_8</set>
-		<prop>
-			<colors>Степи</colors>
-			<manacost></manacost>
-			<type>Герой - Жрец</type>
-			<pt>24</pt>
-			<format-standard>legal</format-standard>
-			<format-eternal>legal</format-eternal>
-		</prop>
-		<tablerow>1</tablerow>		
-	</card>
-	<card>
 		<name>Махокрыл</name>
 		<text> Найм: Выстрел на 1 в существо противника по его выбору. </text>
 		<set rarity="common" num="13" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards13-copy.png'>BG_8</set>
@@ -266,6 +252,7 @@
 		</prop>
 		<tablerow>3</tablerow>		
 	</card>
+
 	<card>
 		<name>Огнеметчик</name>
 		<text> Найм: Ранить каждое другое существо на 1. </text>
@@ -280,6 +267,7 @@
 		</prop>
 		<tablerow>2</tablerow>		
 	</card>
+
 	<card>
 		<name>Огненный шар</name>
 		<text> Выберите одно из: - Ранить всех существ на 1. - Ранить персонажа на 4. </text>
@@ -294,6 +282,7 @@
 		</prop>
 		<tablerow>3</tablerow>		
 	</card>
+
 	<card>
 		<name>Оптический прицел</name>
 		<text> Модуль. Направленный удар по существам с уязвимостью. </text>
@@ -308,6 +297,7 @@
 		</prop>
 		<tablerow>2</tablerow>		
 	</card>
+
 	<card>
 		<name>Орк-ветеран</name>
 		<text> Если Орк-ветеран должен получить раны и не является механизмом, вместо этого усовершенствуйте его. </text>
@@ -322,6 +312,7 @@
 		</prop>
 		<tablerow>2</tablerow>		
 	</card>
+
 	<card>
 		<name>Ответ Дзара</name>
 		<text> Выберите одно из: - Ранить персонажа на 3. - Ранить механизм на 5. </text>
@@ -336,6 +327,7 @@
 		</prop>
 		<tablerow>3</tablerow>		
 	</card>
+
 	<card>
 		<name>Отчаянный выстрел</name>
 		<text> Ранить персонажа на 3. Если в вашей руке нет карт, Отчаянный выстрел наносит на 2 раны больше. </text>
@@ -350,6 +342,7 @@
 		</prop>
 		<tablerow>3</tablerow>		
 	</card>
+
 	<card>
 		<name>Пески времени</name>
 		<text> Сбросьте все карты (эта карта уже находится на кладбище, когда разыгрывается). В начале вашего следующего хода возьмите столько же карт, сколько вы сбросили, и еще одну. </text>
@@ -364,6 +357,7 @@
 		</prop>
 		<tablerow>3</tablerow>		
 	</card>
+
 	<card>
 		<name>Поиск слабости</name>
 		<text> Существо получает Уязвимость до конца хода. Возьмите карту. </text>
@@ -378,6 +372,7 @@
 		</prop>
 		<tablerow>3</tablerow>		
 	</card>
+
 	<card>
 		<name>Странствующий орк</name>
 		<text> Сбросьте карту: Усовершенствуйте Странствующего орка, при этом он получает +2 к удару. </text>
@@ -392,20 +387,7 @@
 		</prop>
 		<tablerow>2</tablerow>		
 	</card>
-	<card>
-		<name>Тогрим</name>
-		<text> 3 монеты, закрыть: Выстрел на 2 в персонажа противника по его выбору. При гибели вашего Курдаша Тогрим получает +1 к выстрелам (один раз за игру). </text>
-		<set rarity="ultrarare" num="214" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards214-copy.png'>BG_8</set>
-		<prop>
-			<colors>Степи</colors>
-			<manacost></manacost>
-			<type>Герой - Воин</type>
-			<pt>28</pt>
-			<format-standard>legal</format-standard>
-			<format-eternal>legal</format-eternal>
-		</prop>
-		<tablerow>1</tablerow>		
-	</card>
+
 	<card>
 		<name>Указ командора</name>
 		<text> Подготовьте существо стоимостью (1) или менее. Возьмите карту. </text>
@@ -419,20 +401,6 @@
 			<format-eternal>legal</format-eternal>
 		</prop>
 		<tablerow>3</tablerow>		
-	</card>
-	<card>
-		<name>Фарро</name>
-		<text> 1 монета, закрыть: Ваше следующий Огненный шар наносит на 1 рану больше; вы можете замешать Огненный шар из кладбища в колоду. Каждый раз когда вы разыгрываете заклинание, подготовьте Фарро. </text>
-		<set rarity="common" num="216" picURL='https://berserk.ru/image/data/Берсерк/iha6l0YB9k8.jpg'>BG_8</set>
-		<prop>
-			<colors>Степи</colors>
-			<manacost></manacost>
-			<type>Герой - Маг</type>
-			<pt>24</pt>
-			<format-standard>legal</format-standard>
-			<format-eternal>legal</format-eternal>
-		</prop>
-		<tablerow>1</tablerow>		
 	</card>
 
 	<card>
@@ -606,20 +574,6 @@
 			<format-eternal>legal</format-eternal>
 		</prop>
 		<tablerow>2</tablerow>		
-	</card>
-	<card>
-		<name>Индра</name>
-		<text> Когда вы разыгрываете третье заклинание за ход, возьмите карту. 3 монеты, закрыть: Поиск - заклинание стоимостью 1. </text>
-		<set rarity="common" num="207" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards207-copy.png'>BG_8</set>
-		<prop>
-			<colors>Горы</colors>
-			<manacost></manacost>
-			<type>Герой - Маг</type>
-			<pt>23</pt>
-			<format-standard>legal</format-standard>
-			<format-eternal>legal</format-eternal>
-		</prop>
-		<tablerow>1</tablerow>		
 	</card>
 	<card>
 		<name>Испытатель пароброни</name>
@@ -845,24 +799,11 @@
 		</prop>
 		<tablerow>3</tablerow>		
 	</card>
-	<card>
-		<name>Туррилл Ржавая Борода</name>
-		<text> Броня Х, где Х - количество ваших карт поддержки. 3 монеты, закрыть: Ранить существо на Х, где Х - количество ваших карт поддержки. </text>
-		<set rarity="Ультраредкая" num="215" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards215-copy.png'>BG_8</set>
-		<prop>
-			<colors>Горы</colors>
-			<manacost></manacost>
-			<type>Герой - Воин</type>
-			<pt>28</pt>
-			<format-standard>legal</format-standard>
-			<format-eternal>legal</format-eternal>
-		</prop>
-		<tablerow>1</tablerow>		
-	</card>
+
 	<card>
 		<name>Фафнир</name>
 		<text> Игроки не получают монет. В начале вашего хода потеряйте монету, при этом ранить существо на 3. Когда у вас становится 0 монет – уничтожьте Фафнира. </text>
-		<set rarity="Ультраредкая" num="56" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards56-copy.png'>BG_8</set>
+		<set rarity="ultrarare" num="56" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards56-copy.png'>BG_8</set>
 		<prop>
 			<colors>Горы</colors>
 			<manacost>5</manacost>
@@ -935,20 +876,6 @@
 		<tablerow>3</tablerow>		
 	</card>
 	<card>
-		<name>Вейде</name>
-		<text> Ваши существа с ударом 6 или больше имеют Направленный удар по существам и Опыт в атаке. 2 монеты, закрыть: Существо получает +2 к удару до конца хода противника. </text>
-		<set rarity="common" num="204" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards204-copy.png'>BG_8</set>
-		<prop>
-			<colors>Леса</colors>
-			<manacost></manacost>
-			<type>Герой - Воин</type>
-			<pt>22</pt>
-			<format-standard>legal</format-standard>
-			<format-eternal>legal</format-eternal>
-		</prop>
-		<tablerow>1</tablerow>		
-	</card>
-	<card>
 		<name>Вэлла</name>
 		<text> Найм:Излечить персонажа на 2. </text>
 		<set rarity="common" num="61" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards61-copy.png'>BG_8</set>
@@ -962,9 +889,10 @@
 		</prop>
 		<tablerow>2</tablerow>		
 	</card>
+
 	<card>
 		<name>Гнев леса</name>
-		<text> Каждое ваше существо с ударом 6 или более сражается с существом противника по вашему выбору (вы можете выбрать разные цели для разных существ). </text>
+		<text>Каждое ваше существо с ударом 6 или более сражается с существом противника по вашему выбору.</text>
 		<set rarity="rare" num="62" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards62-copy.png'>BG_8</set>
 		<prop>
 			<colors>Леса</colors>
@@ -976,6 +904,7 @@
 		</prop>
 		<tablerow>3</tablerow>		
 	</card>
+
 	<card>
 		<name>Гомбр</name>
 		<text>  </text>
@@ -990,9 +919,10 @@
 		</prop>
 		<tablerow>2</tablerow>		
 	</card>
+
 	<card>
 		<name>Дендроморф</name>
-		<text> Найм: Закройте Дендроморфа. При атаке оглушите Дендроморфа.  </text>
+		<text>Найм: Закройте Дендроморфа. При атаке оглушите Дендроморфа.</text>
 		<set rarity="uncommon" num="64" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards64-copy.png'>BG_8</set>
 		<prop>
 			<colors>Леса</colors>
@@ -1004,9 +934,10 @@
 		</prop>
 		<tablerow>2</tablerow>		
 	</card>
+
 	<card>
 		<name>Дозорный Приграничья</name>
-		<text> Поворот : Выстрел на 1 монету. 3 монеты: Усовершенствуйте Дозорного Приграничья, при этом он получает +1 к выстрелам.  </text>
+		<text>Поворот : Выстрел на 1 монету. 3 монеты: Усовершенствуйте Дозорного Приграничья, при этом он получает +1 к выстрелам.</text>
 		<set rarity="common" num="65" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards65-copy.png'>BG_8</set>
 		<prop>
 			<colors>Леса</colors>
@@ -1018,9 +949,10 @@
 		</prop>
 		<tablerow>2</tablerow>		
 	</card>
+
 	<card>
 		<name>Железный коготь</name>
-		<text> Каждый раз, когда ваш герой действует (активирует способность с закрытием), Железный коготь получает +2 к удару.  </text>
+		<text>Каждый раз, когда ваш герой действует, Железный коготь получает +2 к удару.</text>
 		<set rarity="uncommon" num="66" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards66-copy.png'>BG_8</set>
 		<prop>
 			<colors>Леса</colors>
@@ -1032,9 +964,10 @@
 		</prop>
 		<tablerow>2</tablerow>		
 	</card>
+
 	<card>
 		<name>Защитница Чащевины</name>
-		<text> 5 монет: Усовершенствуйте Защитницу Чащевины, при этом ее удар становится равен 6.  </text>
+		<text>5 монет: Усовершенствуйте Защитницу Чащевины, при этом ее удар становится равен 6.</text>
 		<set rarity="common" num="67" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards67-copy.png'>BG_8</set>
 		<prop>
 			<colors>Леса</colors>
@@ -1125,12 +1058,222 @@
   <card>
 		<name>Мифрильный скакун</name>
 		<text>Модуль. Найм: Подготовьте это существо.</text>
-		<set rarity="common" num="72" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards72-copy.png'>BG_8</set>
+		<set rarity="uncommon" num="73" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards73-copy.png'>BG_8</set>
 		<prop>
 			<colors>Леса</colors>
-			<manacost>8</manacost>
+			<manacost>3</manacost>
+			<type>Существо - Механизм</type>
+			<pt>2/2</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>На страже лесов</name>
+		<text>Уничтожьте ваше существо: Получите 1 монету. 10 монет: Вызовите существо.</text>
+		<set rarity="ultrarare" num="74" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards74-copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>4</manacost>
+			<type>Карта поддержки - Событие</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Настройка гармонии</name>
+		<text>Выберите одно из: - Усовершенствуйте существо. - Излечите механизм на 3.</text>
+		<set rarity="common" num="75" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards75-copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>1</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Озверение</name>
+		<text>Существо теряет особенности и получает +1 к удару.</text>
+		<set rarity="common" num="76" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards76-copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>1</manacost>
+			<type>Заклинание - Волшебство</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Ответ Кронга</name>
+		<text>Выберите одно из: - Ваше существо сражается с существом противника. - Ваше существо сражается с механизмом противника, затем полностью излечите это ваше существо. (если оно выжило) </text>
+		<set rarity="uncommon" num="77" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards77-copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>1</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Охотница Эвенрейна</name>
+		<text>Направленный удар по существам.</text>
+		<set rarity="common" num="78" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards78copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>4</manacost>
+			<type>Существо - Эльф</type>
+			<pt>4/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Пардус</name>
+		<text>Когда Пардус атакует третий раз за ход, возьмите три карты. 5 монет: Подготовьте Пардуса.</text>
+		<set rarity="uncommon" num="79" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards79copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>1</manacost>
+			<type>Существо - Зверь</type>
+			<pt>1/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Пери</name>
+		<text>Найм: Существо получает +2 к удару до конца хода.</text>
+		<set rarity="common" num="80" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards80copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>1</manacost>
 			<type>Существо - Фея</type>
-			<pt>7/7</pt>
+			<pt>1/2</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Подземная пикси</name>
+		<text>Каждый раз при гибели вашего существа полностью излечите Подземную пикси и она получает +1 к удару. Пока удар Подземной пикси 6 или больше, она имеет "При атаке подготовьте Подземную пикси".</text>
+		<set rarity="rare" num="81" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards81copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>4</manacost>
+			<type>Существо - Фея</type>
+			<pt>4/5</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Помощник ремонтницы</name>
+		<text>Модуль. Найм:Излечить это существо на 2.</text>
+		<set rarity="common" num="82" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards82copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>3</manacost>
+			<type>Существо - Механизм</type>
+			<pt>2/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Симфония фей</name>
+		<text>Излечить персонажа на 2. Если это существо с ударом 6 или более, излечить его на 4 вместо этого.</text>
+		<set rarity="common" num="83" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards83copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>1</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Страж заката</name>
+		<text>1 монета: Усовершенствуйте Стража заката, при этом подготовьте его.</text>
+		<set rarity="uncommon" num="84" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards84copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>2</manacost>
+			<type>Существо - Эльф</type>
+			<pt>2/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Сумеречный единорог</name>
+		<text>Когда Сумеречный единорог был усовершенствован, излечите вашего героя на 6.</text>
+		<set rarity="common" num="85" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards85copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>6</manacost>
+			<type>Существо - Дитя Кронга</type>
+			<pt>6/6</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Темный друид</name>
+		<text>Гибель: Вызовите существо меньшей стоимости. Оно получает "Гибель: Вызовите существо меньшей стоимости".</text>
+		<set rarity="ultrarare" num="86" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards86copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>4</manacost>
+			<type>Существо - Страж леса</type>
+			<pt>4/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Фелинар</name>
+		<text>Каждый раз, когда ваше существо было подготовлено, оно получает +2 к удару до конца хода. Когда существо было подготовлено второй раз за ход, оно получает направленный удар до конца хода. 6 монет и поворот: Подготовьте другого вашего персонажа.</text>
+		<set rarity="rare" num="87" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards87copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost>2</manacost>
+			<type>Существо - Страж леса</type>
+			<pt>1/4</pt>
 			<format-standard>legal</format-standard>
 			<format-eternal>legal</format-eternal>
 		</prop>
@@ -1138,9 +1281,266 @@
 	</card>
 
   <!-- Болотные карты 8 сета -->
+
+  <card>
+		<name>Аспид</name>
+		<text>Регенерация 2. Стоит на 1 монету дешевле за каждое отравленное существо в игре.</text>
+		<set rarity="uncommon" num="88" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards88copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>7</manacost>
+			<type>Существо - Зверь</type>
+			<pt>5/9</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Болотный душегуб</name>
+		<text>Болотный душегуб стоит на 1 монету дешевле, если у противника нет открытых монет.</text>
+		<set rarity="common" num="89" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards89copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>4</manacost>
+			<type>Существо - Механизм</type>
+			<pt>4/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Ведьма черных лоз</name>
+		<text>1 монета: Усовершенствуйте Ведьму черных лоз, при этом возьмите карту.</text>
+		<set rarity="common" num="90" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards90copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>4</manacost>
+			<type>Существо - Механизм</type>
+			<pt>4/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
   <!-- Темные карты 8 сета -->
   <!-- Нейтральные карты 8 сета -->
-  <!-- Степные карты 8 сета -->
+  <!-- Карты героев 8 сета -->
+
+  <card>
+		<name>Алгамонд</name>
+		<text>Если на Алгамонде нет ран и он должен излечиться на Х, вместо этого он получает Х дополнительных жизней. В начале вашего хода, если у Алгамонда 40 или больше жизней (текущих), ранить героя противника на 10.</text>
+		<set rarity="common" num="203" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards203-copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost></manacost>
+			<type>Герой-воин</type>
+			<pt>30</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Вейде</name>
+		<text>Ваши существа с ударом 6 или больше имеют Направленный удар по существам и Опыт в атаке. 2 монеты и поворот: Существо получает +2 к удару до конца хода противника.</text>
+		<set rarity="common" num="204" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards204-copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost></manacost>
+			<type>Герой-воин</type>
+			<pt>22</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Два голема</name>
+		<text>Поворот: Если на Двух големах 10 или более ран, излечить их на 10.</text>
+		<set rarity="ultrarare" num="205" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards205-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost></manacost>
+			<type>Герой-голем</type>
+			<pt>20</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Деджедай</name>
+		<text>В вашей колоде могут быть механизмы любых стихий. 3 монеты и поворот: Создайте слуайный модуль.</text>
+		<set rarity="ultrarare" num="206" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards206-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost></manacost>
+			<type>Герой-воин</type>
+			<pt>27</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Индра</name>
+		<text>Когда вы разыгрываете третье заклинание за ход, возьмите карту. 3 монеты и поворот: Поиск - заклинание стоимостью 1. </text>
+		<set rarity="common" num="207" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards207-copy.png'>BG_8</set>
+		<prop>
+			<colors>Горы</colors>
+			<manacost></manacost>
+			<type>Герой - Маг</type>
+			<pt>23</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Мардук</name>
+		<text>2 монеты и поворот: Усовершенствуйте существо. Существа не-механизмы имеют Уязвимость.</text>
+		<set rarity="common" num="208" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards208-copy.png'>BG_8</set>
+		<prop>
+			<colors>Степи</colors>
+			<manacost></manacost>
+			<type>Герой-жрец</type>
+			<pt>24</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Мордекай</name>
+		<text>Пока у вас ровно 4 существа, каждое из них имеет +2 к удару, Броню 1, Направленный удар по существам и Защиту от заклинаний.</text>
+		<set rarity="ultrarare" num="209" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards209-copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost></manacost>
+			<type>Герой-разбойник</type>
+			<pt>26</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Мор-Таурон</name>
+		<text>Когда вы берете вторую карту за ход вы можете закрыть существо противника.</text>
+		<set rarity="common" num="210" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards210-copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost></manacost>
+			<type>Герой-разбойник</type>
+			<pt>25</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Регуэль, отвергнутая</name>
+		<text>В вашей колоде могут быть любые ритуалы. 2 монеты и поворот: Усовершенствуйте существо. 6 монет и поворот: Ранить героя противника на Х и излечить вашего героя на Х, где Х - количество механизмов в игре.</text>
+		<set rarity="ultrarare" num="211" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards211-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost></manacost>
+			<type>Герой-жрец</type>
+			<pt>28</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Севейна</name>
+		<text>2 монеты и поворот: Усовершенствуйте существо. 4 монеты и поворот: Каждый герой получает «В начале вашего хода ранить каждое ваше существо не-механизм на 1». Эта особенность получает +2 монеты к стоимости.</text>
+		<set rarity="ultrarare" num="212" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards212-copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost></manacost>
+			<type>Герой-жрец</type>
+			<pt>24</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Тефия</name>
+		<text>3 монеты и поворот: Подготовьте существо. Если оно было подготовлено второй раз за ход, до конца хода оно получает Опыт в атаке и Броню 3.</text>
+		<set rarity="ultrarare" num="213" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards213-copy.png'>BG_8</set>
+		<prop>
+			<colors>Леса</colors>
+			<manacost></manacost>
+			<type>Герой-разбойник</type>
+			<pt>25</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Тогрим</name>
+		<text>3 монеты и поворот: Выстрел на 2 в персонажа противника по его выбору. При гибели вашего Курдаша Тогрим получает +1 к выстрелам (один раз за игру).</text>
+		<set rarity="ultrarare" num="214" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards214-copy.png'>BG_8</set>
+		<prop>
+			<colors>Степи</colors>
+			<manacost></manacost>
+			<type>Герой-воин</type>
+			<pt>28</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Туррилл Ржавая Борода</name>
+		<text>Броня Х, где Х - количество ваших карт поддержки. 3 монеты и поворот: Ранить существо на Х, где Х - количество ваших карт поддержки.</text>
+		<set rarity="ultrarare" num="215" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards215-copy.png'>BG_8</set>
+		<prop>
+			<colors>Горы</colors>
+			<manacost></manacost>
+			<type>Герой-воин</type>
+			<pt>28</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Фарро</name>
+		<text>1 ����онета и поворот: Ваше следующий Огненный шар наносит на 1 рану больше; вы можете замешать Огненный шар из кладбища в колоду. Каждый раз когда вы разыгрываете заклинание, подготовьте Фарро.</text>
+		<set rarity="common" num="216" picURL='https://berserk.ru/image/data/Берсерк/iha6l0YB9k8.jpg'>BG_8</set>
+		<prop>
+			<colors>Степи</colors>
+			<manacost></manacost>
+			<type>Герой-маг</type>
+			<pt>24</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+  
   <!-- Мультистихийные карты 8 сета -->
 
   <card>
