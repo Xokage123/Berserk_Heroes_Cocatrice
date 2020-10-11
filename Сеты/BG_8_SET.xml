@@ -1327,6 +1327,156 @@
 		<tablerow>2</tablerow>		
 	</card>
 
+  <card>
+		<name>Ветхун</name>
+		<text>Регенерация Х, где Х - удар Ветхуна. 2 монеты: Усовершенствуйте Ветхуна, при этом он получает +1 к удару.</text>
+		<set rarity="uncommon" num="91" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards91copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>4</manacost>
+			<type>Существо - Тролль</type>
+			<pt>1/7</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Ворожба</name>
+		<text>Возьмите карту. Вы не можете разыгрывать заклинания в этот ход.</text>
+		<set rarity="uncommon" num="92" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards92copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>0</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Гоблин-ополченец</name>
+		<text>Если вы взяли две или более карт за ход, Гоблин-ополченец стоит 0 монет.</text>
+		<set rarity="common" num="93" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards93copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>2</manacost>
+			<type>Существо - Подземник</type>
+			<pt>2/2</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Дочь омута</name>
+		<text>1 монета: Усовершенствуйте Дочь омута, при этом она получает +4 к жизням и Отравление 1.</text>
+		<set rarity="common" num="94" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards94copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>2</manacost>
+			<type>Существо - Речная дева</type>
+			<pt>2/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Ехидна</name>
+		<text>Когда противник разыгрывает существо, вы можете уничтожить Ехидну, при этом отравить это существо на 3.</text>
+		<set rarity="rare" num="95" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards95copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>2</manacost>
+			<type>Существо - Зверь</type>
+			<pt>2/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Живая стена</name>
+		<text>Гибель: Отравите на 1 каждое существо противника, которое атаковало в этом ходу.</text>
+		<set rarity="common" num="96" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards96copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>0</manacost>
+			<type>Существо - Порождение</type>
+			<pt>0/1</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Извергатель тины</name>
+		<text>Модуль. Найм: Положите в руку существо противника с ударом меньше, чем у этого существа.</text>
+		<set rarity="rare" num="97" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards97copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>4</manacost>
+			<type>Существо - Механизм</type>
+			<pt>3/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Исхарская ненасыть</name>
+		<text>Найм: Исхарская ненасыть получает +2 к удару и жизням за каждую карту, взятую вами в этот ход.</text>
+		<set rarity="rare" num="98" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards98copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>4</manacost>
+			<type>Существо - Порождение</type>
+			<pt>2/2</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Кельвинд</name>
+		<text>Найм: Положите в руку владельца закрытое существо противника и/или свое закрытое существо.</text>
+		<set rarity="common" num="99" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards99copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>3</manacost>
+			<type>Существо - Архаалит</type>
+			<pt>1/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Кубок Архааля</name>
+		<text>Каждый раз, когда существо противника погибает от Отравления, ранить героя этого противника на 1.</text>
+		<set rarity="uncommon" num="100" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards100copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>1</manacost>
+			<type>Карта поддержки - Амулет</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
   <!-- Темные карты 8 сета -->
   <!-- Нейтральные карты 8 сета -->
   <!-- Карты героев 8 сета -->
@@ -1602,7 +1752,6 @@
 		</prop>
 		<tablerow>2</tablerow>		
 	</card>
-  <!-- Карты героев 8 сета -->
 
-  </cards>
-</cockatrice_carddatabase>
+   </cards>
+  </cockatrice_carddatabase>
