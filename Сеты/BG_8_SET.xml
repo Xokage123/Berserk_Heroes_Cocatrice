@@ -1718,6 +1718,157 @@
 	</card>
 
   <!-- Темные карты 8 сета -->
+
+  <card>
+		<name>Алчущий аристократ</name>
+		<text>Когда ваш герой был излечен, Алчущий аристократ получает +2 к удару до конца хода.</text>
+		<set rarity="common" num="117" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards117copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>4</manacost>
+			<type>Существо - Слуа</type>
+			<pt>4/5</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Баллиоз</name>
+		<text>5 монет: Усовершенствуйте Баллеоза, при этом можете уничтожить существо. Удар Баллеоза становится равным удару уничтоженного существа.</text>
+		<set rarity="rare" num="118" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards118copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>2</manacost>
+			<type>Существо - Демон</type>
+			<pt>1/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Вестник мора</name>
+		<text>Каждое другое существо имеет "Гибель: Возродите это существо с одной жизнью, при этом ранить вашего героя на значение удара этого существа".</text>
+		<set rarity="rare" num="119" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards119copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>7</manacost>
+			<type>Существо - Ангел</type>
+			<pt>6/9</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Воитель Сумрака</name>
+		<text>Гибель: Если Воитель Сумрака не механизм, возродите и усовершенствуйте его. При этом он получает +1 к удару.</text>
+		<set rarity="uncommon" num="120" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards120copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>2</manacost>
+			<type>Существо - Нежить</type>
+			<pt>2/1</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Гемомант</name>
+		<text>Когда ваш герой был излечен на Х, излечите Гемоманта на Х.</text>
+		<set rarity="common" num="121" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards121copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>3</manacost>
+			<type>Существо - Слуа</type>
+			<pt>3/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Герольд обречения</name>
+		<text>Когда Герольд обречения был усовершенствован, вы можете положить существо с вашего кладбища в руку.</text>
+		<set rarity="common" num="122" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards122copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>5</manacost>
+			<type>Существо - Демон</type>
+			<pt>5/5</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Демон жатвы</name>
+		<text>В начале вашего хода ранить вашего героя на 3.</text>
+		<set rarity="common" num="123" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards123copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>7</manacost>
+			<type>Существо - Демон</type>
+			<pt>9/9</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Демон злобы</name>
+		<text>Пока у вас ровно 4 существа, ваши существа имеют "При атаке подготовьте это существо".</text>
+		<set rarity="ultrarare" num="124" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards124copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>4</manacost>
+			<type>Существо - Демон</type>
+			<pt>5/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Длань хаоса</name>
+		<text>Модуль. Гибель: Излечить вашего героя на Х, где Х - удар этого существа.</text>
+		<set rarity="common" num="125" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards125copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>4</manacost>
+			<type>Существо - Механизм</type>
+			<pt>4/2</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Истребление</name>
+		<text>Уничтожьте существо. Вы можете уничтожить еще одно существо того же класса.</text>
+		<set rarity="uncommon" num="126" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards126copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>6</manacost>
+			<type>Заклинание - Действие</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
   <!-- Нейтральные карты 8 сета -->
   <!-- Карты героев 8 сета -->
 
