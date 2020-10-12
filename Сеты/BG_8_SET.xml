@@ -1477,6 +1477,246 @@
 		<tablerow>1</tablerow>		
 	</card>
 
+  <card>
+		<name>Мерцающий охотник</name>
+		<text>Найм: Противник показывает руку, назовите карту; карты с таким названием стоят на 2 монеты дороже, пока Мерцающий охотник в игре.</text>
+		<set rarity="rare" num="101" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards101copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>3</manacost>
+			<type>Существо - Архаалит</type>
+			<pt>3/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Мшистый симбиот</name>
+		<text>Модуль.</text>
+		<set rarity="common" num="102" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards102copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>4</manacost>
+			<type>Существо - Механизм</type>
+			<pt>2/6</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Настройка адаптации</name>
+		<text>Выберите одно из: - Усовершенствуйте существо. - Механизм получает Регенерацию 1.</text>
+		<set rarity="common" num="103" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards102copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>1</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Новые горизонты</name>
+		<text>Возьмите карту за каждый ваш механизм.</text>
+		<set rarity="common" num="104" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards104copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>3</manacost>
+			<type>Заклинание - Действие</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Окаменевший исполин</name>
+		<text>Не может атаковать. Не может выступать защитником. Когда вы берете вторую карту за ход, Окаменевший исполин теряет особенности до начала вашего следующего хода.</text>
+		<set rarity="uncommon" num="105" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards105copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>1</manacost>
+			<type>Существо - Артефакт</type>
+			<pt>3/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Ответ Уорлога</name>
+		<text>Выберите одно из: - Положите существо в руку владельца. - Положите механизм в руку владельца и возьмите карту.</text>
+		<set rarity="uncommon" num="106" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards106copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>2</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Отряд карателей</name>
+		<text>3 монеты: Возьмите две карты, затем сбросьте две карты.</text>
+		<set rarity="common" num="107" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards107copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>6</manacost>
+			<type>Существо - Архаалит</type>
+			<pt>6/6</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Ползучая хворь</name>
+		<text>Отравить существо на Х, где Х - количество карт в вашей руке.</text>
+		<set rarity="common" num="108" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards108copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>4</manacost>
+			<type>Заклинание - Волшебство</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Поступь Архааля</name>
+		<text>Когда противник разыгрывает вторую карту за ход, оглушите Поступь Архааля.</text>
+		<set rarity="uncommon" num="109" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards109copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>3</manacost>
+			<type>Существо - Архаалит</type>
+			<pt>5/5</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Принять и отпустить</name>
+		<text>Возьмите две карты. Сбросьте две карты.</text>
+		<set rarity="common" num="110" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards110copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>1</manacost>
+			<type>Заклинание - Действие</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Сариэль</name>
+		<text>Уникальность. В начале вашего хода, если Сариэль не является механизмом, усовершенствуйте ее, при этом положите каждое другое существо в руку владельца.</text>
+		<set rarity="ultrarare" num="111" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards111copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>4</manacost>
+			<type>Существо - Ангел</type>
+			<pt>2/7</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Трясинный егерь</name>
+		<text>Найм: Первая карта каждого противника стоит на 1 монету дороже в его следующий ход.</text>
+		<set rarity="common" num="112" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards112copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>3</manacost>
+			<type>Существо - Подземник</type>
+			<pt>3/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Трясины Исхара</name>
+		<text>Все карты стоят на 1 монету дороже.</text>
+		<set rarity="rare" num="113" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards113copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>2</manacost>
+			<type>Карта поддержки - Местность</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Удушающий токсин</name>
+		<text>В начале своего следующего хода противник выбирает для каждого своего существа заплатить 1 монету или уничтожить это существо; если ни одно существо не погибнет таким образом, верните Удушающий токсин с кладбища в руку.</text>
+		<set rarity="rare" num="114" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards114copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>3</manacost>
+			<type>Заклинание - Волшебство</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Умбаган</name>
+		<text>Когда Умбаган был усовершенствован, возьмите две карты.</text>
+		<set rarity="common" num="115" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards115copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>8</manacost>
+			<type>Существо - Зверь</type>
+			<pt>8/8</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Шкура тролля</name>
+		<text>Если ваш герой должен получить три или более ран от атаки ударом, вместо этого сбросьте карту, или уничтожьте Шкуру тролля.</text>
+		<set rarity="ultrarare" num="116" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards116copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота</colors>
+			<manacost>2</manacost>
+			<type>Карта поддержки - Броня</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
   <!-- Темные карты 8 сета -->
   <!-- Нейтральные карты 8 сета -->
   <!-- Карты героев 8 сета -->
@@ -1678,7 +1918,7 @@
 
   <card>
 		<name>Фарро</name>
-		<text>1 ����онета и поворот: Ваше следующий Огненный шар наносит на 1 рану больше; вы можете замешать Огненный шар из кладбища в колоду. Каждый раз когда вы разыгрываете заклинание, подготовьте Фарро.</text>
+		<text>1 монета и поворот: Ваше следующий Огненный шар наносит на 1 рану больше; вы можете замешать Огненный шар из кладбища в колоду. Каждый раз когда вы разыгрываете заклинание, подготовьте Фарро.</text>
 		<set rarity="common" num="216" picURL='https://berserk.ru/image/data/Берсерк/iha6l0YB9k8.jpg'>BG_8</set>
 		<prop>
 			<colors>Степи</colors>
@@ -1695,7 +1935,7 @@
 
   <card>
 		<name>Госпожа Барракуда</name>
-		<text> Каждый раз когда другое существо погибает, создайте Защитный модуль,Модуль поддержки или Модуль подавления и присоедините его к Госпоже Барракуде. </text>
+		<text>Каждый раз когда другое существо погибает, создайте Защитный модуль,Модуль поддержки или Модуль подавления и присоедините его к Госпоже Барракуде.</text>
 		<set rarity="rare" num="198" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards198-copy.png'>BG_8</set>
 		<prop>
 			<colors>Леса/Болота</colors>
@@ -1710,7 +1950,7 @@
 
   <card>
 		<name>Нити судьбы</name>
-		<text> Покажите верхнюю карту вашей колоды; вы можете разыграть ее на 4 монеты дешевле, иначе возьмите ее в руку. </text>
+		<text>Покажите верхнюю карту вашей колоды; вы можете разыграть ее на 4 монеты дешевле, иначе возьмите ее в руку.</text>
 		<set rarity="rare" num="199" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards199-copy.png'>BG_8</set>
 		<prop>
 			<colors>Леса/Горы</colors>
@@ -1725,7 +1965,7 @@
 
   <card>
 		<name>Постижение недр</name>
-		<text> Поиск - карта стоимостью 1 монета. </text>
+		<text>Поиск - карта стоимостью 1 монета.</text>
 		<set rarity="rare" num="200" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards200-copy.png'>BG_8</set>
 		<prop>
 			<colors>Степи/Горы</colors>
@@ -1740,7 +1980,7 @@
 
   <card>
 		<name>Техник искажений</name>
-		<text> Если противник должен совершить выбор для вашей карты (кроме назначения защитника), вы выбираете вместо него. </text>
+		<text>Если противник должен совершить выбор для вашей карты (кроме назначения защитника), вы выбираете вместо него.</text>
 		<set rarity="rare" num="201" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards201-copy.png'>BG_8</set>
 		<prop>
 			<colors>Степи/Тьма</colors>
@@ -1753,5 +1993,19 @@
 		<tablerow>2</tablerow>		
 	</card>
 
-   </cards>
-  </cockatrice_carddatabase>
+  <card>
+		<name>Чумной тролль</name>
+		<text>Регенерация 2. Каждый раз когда Чумной тролль был излечен на Х, ранить героя противника на Х.</text>
+		<set rarity="rare" num="202" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards202-copy.png'>BG_8</set>
+		<prop>
+			<colors>Болота/Тьма</colors>
+			<manacost>4</manacost>
+			<type>Существо - Тролль</type>
+			<pt>1/7</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+</cards>
+</cockatrice_carddatabase>
