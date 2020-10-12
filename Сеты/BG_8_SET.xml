@@ -1869,6 +1869,261 @@
 		<tablerow>3</tablerow>		
 	</card>
 
+  <card>
+		<name>Истязательница</name>
+		<text>2 монеты, уничтожьте ваше существо: Полностью излечите Истязательницу.</text>
+		<set rarity="common" num="127" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards127copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>6</manacost>
+			<type>Существо - Слуа</type>
+			<pt>6/6</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Клисс</name>
+		<text>Найм: Если у вас нет других существ, ранить героя противника на 1 и излечить вашего героя на 1.</text>
+		<set rarity="common" num="128" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards128copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>1</manacost>
+			<type>Существо - Ковен</type>
+			<pt>2/1</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Кража свитка</name>
+		<text>Противник показывает руку и сбрасывает заклинание на ваш выбор.</text>
+		<set rarity="common" num="129" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards129copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>2</manacost>
+			<type>Заклинание - Действие</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Кровавая дань</name>
+		<text>Уничтожьте ваше существо, при этом излечите вашего героя на силу удара этого существа. Возьмите карту.</text>
+		<set rarity="common" num="130" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards130copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>2</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Крылатая фурия</name>
+		<text>Найм: Если на вашем герое нет ран, Крылатая Фурия получает +1 к удару и Рывок до конца хода, иначе излечить вашего героя на 3.</text>
+		<set rarity="uncommon" num="131" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards131copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>4</manacost>
+			<type>Существо - Слуа</type>
+			<pt>5/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Могильный зов</name>
+		<text>Если у вас меньше пяти существ, возродите существо.</text>
+		<set rarity="common" num="132" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards132copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>5</manacost>
+			<type>Заклинание - Волшебство</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Наследник Керсам</name>
+		<text>Найм: Если вы контролируете ровно одно другое существо, Наследник Керсам получает "Ваши существа имеют Рывок" до конца хода.</text>
+		<set rarity="uncommon" num="133" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards133copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>2</manacost>
+			<type>Существо - Слуа</type>
+			<pt>3/2</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Настройка видимости</name>
+		<text>Выберите одно из: - Усовершенствуйте существо. - Скройте механизм.</text>
+		<set rarity="common" num="134" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards134copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>1</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Неофит-инженер</name>
+		<text>1 монета: Усовершенствуйте Неофита-инженера, при этом ранить героя противника на 1 и излечить вашего героя на 1.</text>
+		<set rarity="common" num="135" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards135copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>2</manacost>
+			<type>Существо - Слуа</type>
+			<pt>3/2</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Неупокоенный дух</name>
+		<text>Пока на вашем герое нет ран, Неупокоенный дух имеет Опыт в атаке.</text>
+		<set rarity="common" num="136" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards136copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>3</manacost>
+			<type>Существо - Дух</type>
+			<pt>4/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Осквернение души</name>
+		<text>Ранить героя противника на 8. Излечить вашего героя на 8.</text>
+		<set rarity="rare" num="137" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards137copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>10</manacost>
+			<type>Заклинание - Волшебство</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Ответ Уггуда</name>
+		<text>Назовите карту. Противник показывает руку и сбрасывает все карты с таким названием. Если он сбросил механизм, он сбрасывает еще одну карту.</text>
+		<set rarity="uncommon" num="138" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards138copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>2</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Ритуал вознесения</name>
+		<text>Уничтожьте всех существ. В начале вашего следующего хода каждый игрок возрождает всех существ, уничтоженных Ритуалом вознесения.</text>
+		<set rarity="rare" num="139" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards139copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>6</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Роковой час</name>
+		<text>Каждый игрок сбрасывает все карты из руки.</text>
+		<set rarity="uncommon" num="140" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards140copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>5</manacost>
+			<type>Заклинание - Волшебство</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Стальной жук</name>
+		<text>Найм: Каждый игрок сбрасывает карту.</text>
+		<set rarity="common" num="141" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards141copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>2</manacost>
+			<type>Существо - Механизм</type>
+			<pt>2/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Стальной паук</name>
+		<text>Модуль. 2 монеты: Выберите ваш механизм, при этом возродите Стального паука и прикрепите его к выбранному механизму.</text>
+		<set rarity="uncommon" num="142" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards142copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>1</manacost>
+			<type>Существо - Механизм</type>
+			<pt>1/1</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Сумеречный жнец</name>
+		<text>Найм: Если у вас ровно два других существа, противник уничтожает свое существо по своему выбору.</text>
+		<set rarity="rare" num="143" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards143copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>3</manacost>
+			<type>Существо - Нежить</type>
+			<pt>4/2</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
   <!-- Нейтральные карты 8 сета -->
   <!-- Карты героев 8 сета -->
 
