@@ -2124,6 +2124,36 @@
 		<tablerow>2</tablerow>		
 	</card>
 
+  <card>
+		<name>Творец кошмаров</name>
+		<text>Модуль. Гибель: Противник сбрасывает Х карт, где Х - удар этого существа.</text>
+		<set rarity="rare" num="144" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards144copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>3</manacost>
+			<type>Существо - Механизм</type>
+			<pt>1/1</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Черный доспех</name>
+		<text>Вы не можете брать карты. Ваш герой не получает ран. Когда у противника кончились карты в колоде, уничтожьте Черный доспех.</text>
+		<set rarity="ultrarare" num="145" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards145copy.png'>BG_8</set>
+		<prop>
+			<colors>Тьма</colors>
+			<manacost>4</manacost>
+			<type>Карта поддержки - Броня</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
   <!-- Нейтральные карты 8 сета -->
   <!-- Карты героев 8 сета -->
 
