@@ -2426,6 +2426,516 @@
 		<tablerow>2</tablerow>		
 	</card>
 
+  <card>
+		<name>Курьер Братства</name>
+		<text>2 монеты: Замешайте карту с любого кладбища в колоду владельца.</text>
+		<set rarity="common" num="164" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards164-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>6</manacost>
+			<type>Существо - Братство</type>
+			<pt>4/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Латунный дракон</name>
+		<text>Модуль.</text>
+		<set rarity="common" num="165" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards165-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>10</manacost>
+			<type>Существо - Механизм</type>
+			<pt>10/10</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Манипулятор</name>
+		<text>Найм: Вы можете усовершенствовать другое ваше существо, при этом прикрепить к нему Манипулятор.</text>
+		<set rarity="uncommon" num="166" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards166-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>1</manacost>
+			<type>Существо - Механизм</type>
+			<pt>1/1</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Небесный мародер</name>
+		<text>Найм: Уничтожьте все карты поддержки. Каждый раз при гибели карты поддержки, создайте модуль по вашему выбору и присоедините к Небесному мародеру.</text>
+		<set rarity="rare" num="167" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards167-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>4</manacost>
+			<type>Существо - Механизм</type>
+			<pt>1/1</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Неразбериха</name>
+		<text>Начиная с вас каждый игрок может взять под контроль существо противника, ранее не выбранное для Неразберихи. Продолжайте пока кто-то из игроков не выберет остановиться.</text>
+		<set rarity="ultrarare" num="168" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards168-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>8</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Обезвредить</name>
+		<text>Выберите существо, число его жизней становится равно 1. Если ваш герой нейтральный, возьмите карту.</text>
+		<set rarity="common" num="169" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards169-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>2</manacost>
+			<type>Заклинание - Действие</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Опалить</name>
+		<text>Ранить героя противника на 2. Если ваш герой нейтральный, ранить его на 3 вместо этого.</text>
+		<set rarity="common" num="170" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards170-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>1</manacost>
+			<type>Заклинание - Действие</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Пламя возрождения</name>
+		<text>Каждый игрок сбрасывает руку, затем берет столько карт, сколько он сбросил.</text>
+		<set rarity="common" num="171" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards171-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>3</manacost>
+			<type>Заклинание - Волшебство</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Праведный запрет</name>
+		<text>Назовите карту. Карты с таким названием не могут быть разыграны до начала вашего следующего хода. Возьмите карту.</text>
+		<set rarity="common" num="172" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards172-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>2</manacost>
+			<type>Заклинание - Приказ</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Провести зачистку!</name>
+		<text>Уничтожьте до двух карт поддержки. Создайте два модуля по вашему выбору.</text>
+		<set rarity="common" num="173" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards173-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>6</manacost>
+			<type>Заклинание - Приказ</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Псарь Братства</name>
+		<text>6 монет и поворот: Создайте три модуля по вашему выбору.</text>
+		<set rarity="uncommon" num="174" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards174-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>9</manacost>
+			<type>Существо - Братство</type>
+			<pt>6/6</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Пулеметная команда</name>
+		<text>2 монеты: УсовершенствуйтеПулеметную команду, при этом она получает +4 к удару и жизням.</text>
+		<set rarity="common" num="175" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards175-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>6</manacost>
+			<type>Существо - Братство</type>
+			<pt>4/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Расплав</name>
+		<text>Возьмите карту за каждый механизм. Каждое существо теряет свой класс.</text>
+		<set rarity="rare" num="176" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards176-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>3</manacost>
+			<type>Заклинание - Действие</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Рейтар</name>
+		<text>Найм: Получает +2 к удару, если ваш герой нейтральный.</text>
+		<set rarity="common" num="177" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards177-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>3</manacost>
+			<type>Существо - Инквизитор</type>
+			<pt>3/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Рунная пика</name>
+		<text>Сбросьте карту: Подготовьте вашего героя.</text>
+		<set rarity="rare" num="178" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards178-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>2</manacost>
+			<type>Карта поддержки - Оружие</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Савран</name>
+		<text>Найм: Если у вас есть карта поддержки, излечите вашего героя на 4.</text>
+		<set rarity="common" num="179" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards179-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>3</manacost>
+			<type>Существо - Наемник</type>
+			<pt>3/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Серебряный голем</name>
+		<text>Гибель: Создайте три модуля по вашему выбору. Если ваш герой - голем, создайте еще один модуль.</text>
+		<set rarity="common" num="180" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards180-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>7</manacost>
+			<type>Существо - Механизм</type>
+			<pt>3/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Лорд войны</name>
+		<text>Найм: Ваши нейтральные существа получают +2 к удару до конца хода.</text>
+		<set rarity="common" num="181" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards181-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>4</manacost>
+			<type>Существо - Наемник</type>
+			<pt>3/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Заклинатель реликвий</name>
+		<text>4 монеты и поворот: Создайте два модуля по вашему выбору.</text>
+		<set rarity="rare" num="182" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards182-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>5</manacost>
+			<type>Существо - Наемник</type>
+			<pt>6/6</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Стоять насмерть!</name>
+		<text>Ранить существо на 3. Если у вас есть механизм, излечить вашего героя на 2.</text>
+		<set rarity="common" num="183" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards183-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>2</manacost>
+			<type>Заклинание - Приказ</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Стрелок Братства</name>
+		<text>2 монеты: Создайте модуль по вашему выбору.</text>
+		<set rarity="common" num="184" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards184-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>3</manacost>
+			<type>Существо - Братство</type>
+			<pt>2/2</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Сумрачный гений</name>
+		<text>Выберите одно или несколько: - Усовершенствуйте существо. - Создайте модуль по вашему выбору. - Уничтожьте карту поддержки.</text>
+		<set rarity="uncommon" num="185" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards185-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>4</manacost>
+			<type>Заклинание - Ритуал</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Темный епископ</name>
+		<text>Гибель: Ранить героя противника на 2, излечить вашего героя на 2.</text>
+		<set rarity="common" num="186" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards186-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>4</manacost>
+			<type>Существо - Слуа</type>
+			<pt>4/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Теури</name>
+		<text>Найм:Ранить Теури на 6, излечить героя на 6.</text>
+		<set rarity="common" num="187" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards187-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>6</manacost>
+			<type>Существо - Страж леса</type>
+			<pt>5/11</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Техносфера</name>
+		<text>Механизмы стоят на 2 монеты дороже. Существа не могут быть усовершенствованы.</text>
+		<set rarity="rare" num="188" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards188-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>2</manacost>
+			<type>Карта поддержки - Амулет</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Трансморф</name>
+		<text>Модуль. Это существо обладает всеми классами существ.</text>
+		<set rarity="rare" num="189" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards189-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>3</manacost>
+			<type>Существо - Механизм</type>
+			<pt>3/3</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Тростниковый идол</name>
+		<text>Тростниковый идол должен быть выбран целью первой атаки в ход противника.</text>
+		<set rarity="uncommon" num="190" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards190-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>4</manacost>
+			<type>Существо - Артефакт</type>
+			<pt>0/10</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Укротитель машин</name>
+		<text>Ваши механизмы имеют: "Гибель: Излечить вашего героя на Х, где Х - сила удара этого существа".</text>
+		<set rarity="uncommon" num="191" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards191-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>3</manacost>
+			<type>Существо - Слуа</type>
+			<pt>3/4</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Умиротворение</name>
+		<text>Все существа возвращаются под контроль их владельцев. Возьмите карту. </text>
+		<set rarity="uncommon" num="192" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards192-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>2</manacost>
+			<type>Заклинание - Волшебство</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>3</tablerow>		
+	</card>
+
+  <card>
+		<name>Устройство слежения</name>
+		<text>Модуль. При атаке противник показывает руку.</text>
+		<set rarity="common" num="193" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards193-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>2</manacost>
+			<type>Существо - Механизм</type>
+			<pt>2/2</pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Цена прогресса</name>
+		<text>В начале вашего хода уничтожьте существо не-механизм, иначе уничтожьте Цену прогресса.</text>
+		<set rarity="ultrarare" num="194" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards194-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>4</manacost>
+			<type>Карта поддержки - Событие</type>
+			<pt></pt>
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>1</tablerow>		
+	</card>
+
+  <card>
+		<name>Штурмовое орудие</name>
+		<text>Модуль. Найм: Получает +Х к удару и жизням, где Х - наибольший удар среди ваших механизмов.</text>
+		<set rarity="rare" num="195" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards195-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>3</manacost>
+			<type>Существо - Механизм</type>
+			<pt>0/0</pt>  
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Энгорм</name>
+		<text>Поворот: Излечите вашего героя на 1. Если ваш герой - голем, излечите его на 3 вместо этого.</text>
+		<set rarity="common" num="196" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards196-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>3</manacost>
+			<type>Существо - Линунг</type>
+			<pt>2/4</pt>  
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
+  <card>
+		<name>Эстри</name>
+		<text>Найм: Если у вашего героя меньше 10 жизней, у него становится 10 жизней. Каждый раз, когда ваш герой получает раны, если ваш герой - голем, у него становится 10 жизней.</text>
+		<set rarity="uncommon" num="197" picURL='https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-8_cards197-copy.png'>BG_8</set>
+		<prop>
+			<colors>Нейтральная</colors>
+			<manacost>5</manacost>
+			<type>Существо - Демон</type>
+			<pt>5/5</pt>  
+			<format-standard>legal</format-standard>
+			<format-eternal>legal</format-eternal>
+		</prop>
+		<tablerow>2</tablerow>		
+	</card>
+
   <!-- Карты героев 8 сета -->
 
   <card>
