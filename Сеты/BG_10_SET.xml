@@ -396,7 +396,7 @@
     <card>
       <name>Воймир</name>
       <text>Найм: Вымогательство - закрыть . Поворот: Получить 1 монету.</text>
-      <set rarity="uncommon" num="64" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARD64.png">BG_10</set>
+      <set rarity="uncommon" num="64" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS64.png">BG_10</set>
       <prop>
         <colors>Леса</colors>
         <manacost>1</manacost>
@@ -411,7 +411,7 @@
     <card>
       <name>Дереза</name>
       <text>Если Дереза должна получить раны, вместо этого вы можете снять с неё эффект усиления.</text>
-      <set rarity="common" num="65" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARD65.png">BG_10</set>
+      <set rarity="common" num="65" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS65.png">BG_10</set>
       <prop>
         <colors>Леса</colors>
         <manacost>4</manacost>
@@ -426,7 +426,7 @@
     <card>
       <name>Изумрудный Стрелок</name>
       <text>Снять Х эффектов усиления с ваших существ: Поиск - существо стоимостью Х.</text>
-      <set rarity="uncommon" num="69" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARD69.png">BG_10</set>
+      <set rarity="uncommon" num="69" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS69.png">BG_10</set>
       <prop>
         <colors>Леса</colors>
         <manacost>2</manacost>
@@ -441,7 +441,7 @@
     <card>
       <name>Ленивый Наездник</name>
       <text>В начале вашего хода, вы можете показать Ленивого Наездника из вашей руки, при этом излечить героя на 1.</text>
-      <set rarity="common" num="71" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARD71.png">BG_10</set>
+      <set rarity="common" num="71" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS71.png">BG_10</set>
       <prop>
         <colors>Леса</colors>
         <manacost>5</manacost>
@@ -456,7 +456,7 @@
     <card>
       <name>Сила земли</name>
       <text>Излечите персонажа с ранами на 3; если персонаж был полностью излечен, возьмите 2 карты.</text>
-      <set rarity="common" num="77" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARD77.png">BG_10</set>
+      <set rarity="common" num="77" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS77.png">BG_10</set>
       <prop>
         <colors>Леса</colors>
         <manacost>2</manacost>
@@ -473,7 +473,7 @@
     <card>
       <name>Ахаса</name>
       <text>Ахаса имеет +3 к силе удара в ход противника.</text>
-      <set rarity="common" num="82" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARD82.png">BG_10</set>
+      <set rarity="common" num="82" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS82.png">BG_10</set>
       <prop>
         <colors>Болота</colors>
         <manacost>6</manacost>
@@ -488,7 +488,7 @@
     <card>
       <name>Безмолвный дух</name>
       <text>Когда вы перемешиваете вашу колоду, существо получает Отравление 2.</text>
-      <set rarity="common" num="83" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARD83.png">BG_10</set>
+      <set rarity="common" num="83" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS83.png">BG_10</set>
       <prop>
         <colors>Болота</colors>
         <manacost>2</manacost>
@@ -503,7 +503,7 @@
     <card>
       <name>Воин Подземья</name>
       <text>Если противник выбирает целью заклинания вашу карту, вы можете замешать Воина Подземья в вашу колоду, при этом отмените это заклинание.</text>
-      <set rarity="common" num="85" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARD85.png">BG_10</set>
+      <set rarity="common" num="85" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS85.png">BG_10</set>
       <prop>
         <colors>Болота</colors>
         <manacost>3</manacost>
@@ -518,7 +518,7 @@
     <card>
       <name>Гаррид</name>
       <text>Когда вы перемешиваете вашу колоду, ваши существа стоимостью 5 и более стоят на 1 монету дешевле до конца хода.</text>
-      <set rarity="common" num="86" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARD86.png">BG_10</set>
+      <set rarity="common" num="86" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS86.png">BG_10</set>
       <prop>
         <colors>Болота</colors>
         <manacost>3</manacost>
@@ -533,7 +533,7 @@
     <card>
       <name>Гоблин-заклинатель</name>
       <text>Каждый раз, когда игрок преремешивает свою колоду, выбранный игрок кладёт 2 верхние карты своей колоды на кладбище.</text>
-      <set rarity="common" num="87" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARD87.png">BG_10</set>
+      <set rarity="common" num="87" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS87.png">BG_10</set>
       <prop>
         <colors>Болота</colors>
         <manacost>3</manacost>
@@ -548,7 +548,7 @@
     <card>
       <name>Гроссер</name>
       <text>Каждый раз, когда вы перемешиваете вашу колоду, удар ваших существ становится равен их начальным жизням до конца ход.</text>
-      <set rarity="uncommon" num="89" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARD89.png">BG_10</set>
+      <set rarity="uncommon" num="89" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS89.png">BG_10</set>
       <prop>
         <colors>Болота</colors>
         <manacost>5</manacost>
