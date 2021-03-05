@@ -1696,7 +1696,7 @@
 
   <!-- Темные карты 7 сета -->
 
-  <card>
+<card>
 <name>Адепт культа крови</name>
 <text>Найм: Возьмите две карты. Каждый раз когда вы берете карты, ранить вашего героя на 1 за каждую взятую карту. (Существа с ударом 0 могут атаковать)</text>
 <set rarity="uncommon" num="113" picurl="https://berserk.ru/image/data/Берсерк/Berserk_Heroes_set-7_cards-PRINT113-copy.png">BG_7</set>
