@@ -215,7 +215,7 @@
 		<card>
 			<name>Меченосец</name>
 			<text>Пока у вас в руке меньше карт, чем у противника, ваши существа не получают ран от заклинаний.</text>
-			<set rarity="uncommon" num="12" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS12.png">BG_10</set>
+			<set rarity="uncommon" num="12" picurl="https://berserk.ru/image/data/Берсерк/_12.png">BG_10</set>
 			<prop>
 				<colors>Степи</colors>
 				<manacost>3</manacost>
@@ -233,7 +233,7 @@
 		<card>
 			<name>Мутант Пустоши</name>
 			<text>Ярость.</text>
-			<set rarity="common" num="13" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS13.png">BG_10</set>
+			<set rarity="common" num="13" picurl="https://berserk.ru/image/data/Берсерк/_13.png">BG_10</set>
 			<prop>
 				<colors>Степи</colors>
 				<manacost>7</manacost>
@@ -377,7 +377,7 @@
 		<card>
 			<name>Приготовиться к бою</name>
 			<text>До конца хода предотвратите следующие 2 раны по каждому из ваших существ.</text>
-			<set rarity="common" num="21" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS21.png">BG_10</set>
+			<set rarity="common" num="21" picurl="https://berserk.ru/image/data/Берсерк/_21.png">BG_10</set>
 			<prop>
 				<colors>Степи</colors>
 				<manacost>3</manacost>
@@ -431,7 +431,7 @@
 		<card>
 			<name>Снага</name>
 			<text>Каждый раз, когда существо с эффектом усиления умирает, положите эффект усиления на Снагу.</text>
-			<set rarity="common" num="24" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS24.png">BG_10</set>
+			<set rarity="common" num="24" picurl="https://berserk.ru/image/data/Берсерк/_24.png">BG_10</set>
 			<prop>
 				<colors>Степи</colors>
 				<manacost>1</manacost>
@@ -485,7 +485,7 @@
 		<card>
 			<name>Это был кто-то из своих</name>
 			<text>Возьмите под контроль существо противника до конца хода, откройте его, оно получает Рывок. Получите 2 монеты до конца хода.</text>
-			<set rarity="uncommon" num="27" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS27.png">BG_10</set>
+			<set rarity="uncommon" num="27" picurl="https://berserk.ru/image/data/Берсерк/_27.png">BG_10</set>
 			<prop>
 				<colors>Степи</colors>
 				<manacost>5</manacost>
@@ -577,7 +577,7 @@
 		<card>
 			<name>Воительница вершин</name>
 			<text>Защита от заклинаний. Ваш герой имеет Защиту от заклинаний.</text>
-			<set rarity="common" num="32" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS32.png">BG_10</set>
+			<set rarity="common" num="32" picurl="https://berserk.ru/image/data/Берсерк/_32.png">BG_10</set>
 			<prop>
 				<colors>Горы</colors>
 				<manacost>1</manacost>
@@ -811,7 +811,7 @@
 		<card>
 			<name>Поиск цели</name>
 			<text>Ранить существо на 3. Пооместите Попутныйветер в вашу колоду.</text>
-			<set rarity="common" num="45" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS45.png">BG_10</set>
+			<set rarity="common" num="45" picurl="https://berserk.ru/image/data/Берсерк/_45.png">BG_10</set>
 			<prop>
 				<colors>Горы</colors>
 				<manacost>2</manacost>
@@ -829,7 +829,7 @@
 		<card>
 			<name>Призыв молнии</name>
 			<text>Ранить существо на Х. Вы можете сбросить Попутный ветер, при этом повторите это заклинание.</text>
-			<set rarity="common" num="46" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS46.png">BG_10</set>
+			<set rarity="common" num="46" picurl="https://berserk.ru/image/data/Берсерк/_46.png">BG_10</set>
 			<prop>
 				<colors>Горы</colors>
 				<manacost>Х</manacost>
@@ -883,7 +883,7 @@
 		<card>
 			<name>Слагание баллад</name>
 			<text>Поместите Попутный ветер в вашу колоду. Возьмите карту за каждый помещенный вами Попутный ветер.</text>
-			<set rarity="uncommon" num="49" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS49.png">BG_10</set>
+			<set rarity="uncommon" num="49" picurl="https://berserk.ru/image/data/Берсерк/_49.png">BG_10</set>
 			<prop>
 				<colors>Горы</colors>
 				<manacost>3</manacost>
@@ -919,7 +919,7 @@
 		<card>
 			<name>Снург</name>
 			<text>Орда. Найм: Вы можете разыграть следующую карту так, будто у неё есть Ярость.</text>
-			<set rarity="rare" num="51" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS51.png">BG_10</set>
+			<set rarity="rare" num="51" picurl="https://berserk.ru/image/data/Берсерк/_51.png">BG_10</set>
 			<prop>
 				<colors>Горы</colors>
 				<manacost>2</manacost>
@@ -937,7 +937,7 @@
 		<card>
 			<name>Федме</name>
 			<text>Найм: Поместите Попутный ветер в вашу руку.</text>
-			<set rarity="uncommon" num="52" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS52.png">BG_10</set>
+			<set rarity="uncommon" num="52" picurl="https://berserk.ru/image/data/Берсерк/_52.png">BG_10</set>
 			<prop>
 				<colors>Горы</colors>
 				<manacost>3</manacost>
@@ -1137,7 +1137,7 @@
 		<card>
 			<name>Витязь Пиримини</name>
 			<text>Найм: Выберете одно из: - Положите на другое существо 2 эффекта усиления; - Возьмите карту; - Существо теряет особенности.</text>
-			<set rarity="rare" num="63" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS63.png">BG_10</set>
+			<set rarity="rare" num="63" picurl="https://berserk.ru/image/data/Берсерк/_63.png">BG_10</set>
 			<prop>
 				<colors>Леса</colors>
 				<manacost>5</manacost>
@@ -1191,7 +1191,7 @@
 		<card>
 			<name>Дозорный Лихолесья</name>
 			<text>Найм: Вымогательство - закрыть 2 монеты. В конце вашего хода поместите 2 чёрные метки в колоду противника.</text>
-			<set rarity="uncommon" num="66" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS66.png">BG_10</set>
+			<set rarity="uncommon" num="66" picurl="https://berserk.ru/image/data/Берсерк/_66.png">BG_10</set>
 			<prop>
 				<colors>Леса</colors>
 				<manacost>3</manacost>
@@ -1317,7 +1317,7 @@
 		<card>
 			<name>Найти Сильнейшего</name>
 			<text>Снимите Х эффектов усиления с ваших существ, при этом вызовите существо стоимостью Х или менее.</text>
-			<set rarity="common" num="73" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS73.png">BG_10</set>
+			<set rarity="common" num="73" picurl="https://berserk.ru/image/data/Берсерк/_73.png">BG_10</set>
 			<prop>
 				<colors>Леса</colors>
 				<manacost>3</manacost>
@@ -1335,7 +1335,7 @@
 		<card>
 			<name>Накормить стаю</name>
 			<text>Положите на каждое ваше существо эффект усиления.</text>
-			<set rarity="common" num="74" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS74.png">BG_10</set>
+			<set rarity="common" num="74" picurl="https://berserk.ru/image/data/Берсерк/_74.png">BG_10</set>
 			<prop>
 				<colors>Леса</colors>
 				<manacost>2</manacost>
@@ -1823,7 +1823,7 @@
 		<card>
 			<name>Предсказание успеха</name>
 			<text>1 монета: Посмотрите 3 верхние карты вашей колоды, положите их обратно в любом порядке; вы можете перемешать колоду.</text>
-			<set rarity="uncommon" num="101" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS101.png">BG_10</set>
+			<set rarity="uncommon" num="101" picurl="https://berserk.ru/image/data/Берсерк/_101.png">BG_10</set>
 			<prop>
 				<colors>Болота</colors>
 				<manacost>2</manacost>
@@ -1841,7 +1841,7 @@
 		<card>
 			<name>Работа на опережение</name>
 			<text>Противник показывает руку. Поместите попутный ветер на верх вашей колоды.</text>
-			<set rarity="common" num="102" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS102.png">BG_10</set>
+			<set rarity="common" num="102" picurl="https://berserk.ru/image/data/Берсерк/_102.png">BG_10</set>
 			<prop>
 				<colors>Болота</colors>
 				<manacost>2</manacost>
@@ -1859,7 +1859,7 @@
 		<card>
 			<name>Ррых</name>
 			<text>2 монеты: Замешайте Ррыха в колоду владельца.</text>
-			<set rarity="common" num="103" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS103.png">BG_10</set>
+			<set rarity="common" num="103" picurl="https://berserk.ru/image/data/Берсерк/_103.png">BG_10</set>
 			<prop>
 				<colors>Болота</colors>
 				<manacost>4</manacost>
@@ -1877,7 +1877,7 @@
 		<card>
 			<name>Сломать планы</name>
 			<text>Противник показывает руку и замешивает в свою колоду существо из руки на ваш выбор. Вы можете сбросить Попутный ветер, при этом повторите это заклинание.</text>
-			<set rarity="rare" num="104" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS104.png">BG_10</set>
+			<set rarity="rare" num="104" picurl="https://berserk.ru/image/data/Берсерк/_104.png">BG_10</set>
 			<prop>
 				<colors>Болота</colors>
 				<manacost>2</manacost>
@@ -1895,7 +1895,7 @@
 		<card>
 			<name>Создать возможность</name>
 			<text>Поместите 3 Попутных ветра в вашу колоду. Вы можете сбросить Попутный ветер, при этом повторите это заклинание.</text>
-			<set rarity="uncommon" num="105" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS105.png">BG_10</set>
+			<set rarity="uncommon" num="105" picurl="https://berserk.ru/image/data/Берсерк/_105.png">BG_10</set>
 			<prop>
 				<colors>Болота</colors>
 				<manacost>3</manacost>
@@ -1913,7 +1913,7 @@
 		<card>
 			<name>Старший Крыс</name>
 			<text>В конце каждого хода, если в вашей руке нет карт, поместите Попутный ветер на верх вашей колоды.</text>
-			<set rarity="common" num="106" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS106.png">BG_10</set>
+			<set rarity="common" num="106" picurl="https://berserk.ru/image/data/Берсерк/_106.png">BG_10</set>
 			<prop>
 				<colors>Болота</colors>
 				<manacost>6</manacost>
@@ -1931,7 +1931,7 @@
 		<card>
 			<name>Успокоить</name>
 			<text>Персонаж не может действовать до начала вашего следующего хода. Возьмите карту.</text>
-			<set rarity="common" num="107" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS107.png">BG_10</set>
+			<set rarity="common" num="107" picurl="https://berserk.ru/image/data/Берсерк/_107.png">BG_10</set>
 			<prop>
 				<colors>Болота</colors>
 				<manacost>3</manacost>
@@ -1987,7 +1987,7 @@
 		<card>
 			<name>Анкаб</name>
 			<text>Когда противник перемешивает колоду, поместите Чёрную метку в его руку.</text>
-			<set rarity="common" num="110" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS110.png">BG_10</set>
+			<set rarity="common" num="110" picurl="https://berserk.ru/image/data/Берсерк/_110.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>3</manacost>
@@ -2023,7 +2023,7 @@
 		<card>
 			<name>Антегор</name>
 			<text>Вы не можете оплачивать карты монетами. Ваш герой не может действовать.</text>
-			<set rarity="uncommon" num="112" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS112.png">BG_10</set>
+			<set rarity="uncommon" num="112" picurl="https://berserk.ru/image/data/Берсерк/_112.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>8</manacost>
@@ -2149,7 +2149,7 @@
 		<card>
 			<name>Демон отчаяния</name>
 			<text>Если вы должны возродить существо, вместо этого вы можете возродите Демона отчаяния.</text>
-			<set rarity="common" num="119" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS119.png">BG_10</set>
+			<set rarity="common" num="119" picurl="https://berserk.ru/image/data/Берсерк/_1137.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>4</manacost>
@@ -2167,7 +2167,7 @@
 		<card>
 			<name>Демоническая Стража</name>
 			<text>Когда Демоническая стража получает раны, уничтожьте выбранную карту, не являющуюся героем.</text>
-			<set rarity="common" num="120" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS120.png">BG_10</set>
+			<set rarity="common" num="120" picurl="https://berserk.ru/image/data/Берсерк/_1138.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>3</manacost>
@@ -2203,7 +2203,7 @@
 		<card>
 			<name>Жуткая Расправа</name>
 			<text>Уничтожьте существо. Поместите 2 Чёрные метки в колоду противника.</text>
-			<set rarity="common" num="122" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS122.png">BG_10</set>
+			<set rarity="common" num="122" picurl="https://berserk.ru/image/data/Берсерк/_11310.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>5</manacost>
@@ -2221,7 +2221,7 @@
 		<card>
 			<name>Зверь Хаоса</name>
 			<text>Когда противник перемешивает свою колоду, вы можете уничтожьте существо.</text>
-			<set rarity="uncommon" num="123" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS123.png">BG_10</set>
+			<set rarity="uncommon" num="123" picurl="https://berserk.ru/image/data/Берсерк/_11311.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>4</manacost>
@@ -2239,7 +2239,7 @@
 		<card>
 			<name>Имаго</name>
 			<text>Каждый раз, когда вы излечиваете Имаго, противник сбрасывает Х карт, где Х - количество излеченных ран.</text>
-			<set rarity="rare" num="124" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS124.png">BG_10</set>
+			<set rarity="rare" num="124" picurl="https://berserk.ru/image/data/Берсерк/_11312.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>2</manacost>
@@ -2275,7 +2275,7 @@
 		<card>
 			<name>Костяной отряд</name>
 			<text>Гибель: Вы можете ранить вашего героя на Х, при этом положить в игру из вашей руки существо стоимостью Х или менее.(Х не может быть больше 10)</text>
-			<set rarity="uncommon" num="126" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS126.png">BG_10</set>
+			<set rarity="uncommon" num="126" picurl="https://berserk.ru/image/data/Берсерк/_11314.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>4</manacost>
@@ -2293,7 +2293,7 @@
 		<card>
 			<name>Котолак</name>
 			<text>Вместо оплаты стоимости Котолака вы можете снять 4 раны с героя противника.</text>
-			<set rarity="common" num="127" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS127.png">BG_10</set>
+			<set rarity="common" num="127" picurl="https://berserk.ru/image/data/Берсерк/_11315.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>3</manacost>
@@ -2311,7 +2311,7 @@
 		<card>
 			<name>Кровавая броня</name>
 			<text>Каждый раз, когда погибает ваше существо, излечите вашего героя на 3.</text>
-			<set rarity="rare" num="128" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS128.png">BG_10</set>
+			<set rarity="rare" num="128" picurl="https://berserk.ru/image/data/Берсерк/_11316.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>3</manacost>
@@ -2347,7 +2347,7 @@
 		<card>
 			<name>Мрачный распад</name>
 			<text>Противник сбрасывает 2 карты. Поместите 2 Чёрные метки в колоду противника.</text>
-			<set rarity="common" num="130" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS130.png">BG_10</set>
+			<set rarity="common" num="130" picurl="https://berserk.ru/image/data/Берсерк/_11318.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>4</manacost>
@@ -2383,7 +2383,7 @@
 		<card>
 			<name>Продать душу</name>
 			<text>Излечите героя на 8. Положите 3 верхние карты своей колоды на кладбище.</text>
-			<set rarity="common" num="132" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS132.png">BG_10</set>
+			<set rarity="common" num="132" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS1321.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>2</manacost>
@@ -2419,7 +2419,7 @@
 		<card>
 			<name>Угроза Рассудку</name>
 			<text>Противник показывает руку и сбрасывает карту на ваш выбор. Ранить вашего героя на Х, где Х - стоимость сброшенной карты.</text>
-			<set rarity="uncommon" num="134" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS134.png">BG_10</set>
+			<set rarity="uncommon" num="134" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS1341.png">BG_10</set>
 			<prop>
 				<colors>Тьма</colors>
 				<manacost>2</manacost>
@@ -2457,7 +2457,7 @@
 	<card>
 	<name>Берсеркер</name>
 	<text>Найм: Каждый игрок уничтожает свое существо за каждую стихию среди существ в игре.</text>
-	<set rarity="common"num="136" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS136.png">BG_10/set>
+	<set rarity="common" num="136" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS136.png">BG_10</set>
 	<prop>
 	 <colors>Нейтральная</colors>
 	 <manacost>7</manacost>
@@ -2468,8 +2468,8 @@
 				<format-general>legal</format-general>
 				<format-draft>legal</format-draft>
 				<format-sealed>legal</format-sealed>
-			</prop>
-			<tablerow>2</tablerow>
+	</prop>
+	<tablerow>2</tablerow>
 </card>
 <card>
 	<name>Боевой судья</name>
@@ -2565,7 +2565,7 @@
 				<colors>Нейтральная</colors>
 				<manacost>3</manacost>
 				<type>Заклинание - </type>
-	<pt></pt>
+				<pt></pt>
 				<format-standard>legal</format-standard>
 				<format-eternal>legal</format-eternal>
 				<format-general>legal</format-general>
@@ -2855,7 +2855,7 @@ rаждый раз, когда вы разыгрываете карту таки
 		<card>
 			<name>Валькирия</name>
 			<text>Когда существо входит в игру, положите эффектусиления на Валькирию.</text>
-			<set rarity="rare" num="159" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS159.png">BG_10</set>
+			<set rarity="rare" num="159" picurl="https://berserk.ru/image/data/Берсерк/_11347.png">BG_10</set>
 			<prop>
 				<colors>Степи/Леса</colors>
 				<manacost>3</manacost>
@@ -2891,7 +2891,7 @@ rаждый раз, когда вы разыгрываете карту таки
 		<card>
 			<name>Гадание по звёздам</name>
 			<text>Излечите вашего героя на 1 за каждый помещенный вам Попутный ветер.</text>
-			<set rarity="rare" num="161" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS161.png">BG_10</set>
+			<set rarity="rare" num="161" picurl="https://berserk.ru/image/data/Берсерк/_11349.png">BG_10</set>
 			<prop>
 				<colors>Горы/Болота</colors>
 				<manacost>10</manacost>
@@ -2999,7 +2999,7 @@ rаждый раз, когда вы разыгрываете карту таки
 		<card>
 			<name>Лимастра</name>
 			<text>Найм: Положите на существо с меньшей силой удара 4 эффекта усиления.</text>
-			<set rarity="ultrarare" num="167" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS167.png">BG_10</set>
+			<set rarity="ultrarare" num="167" picurl="https://berserk.ru/image/data/Берсерк/Limastra_300.png">BG_10</set>
 			<prop>
 				<colors>Степи/Леса</colors>
 				<manacost>3</manacost>
@@ -3125,7 +3125,7 @@ rаждый раз, когда вы разыгрываете карту таки
 		<card>
 			<name>Погружение в будущее</name>
 			<text>Получите дополнительный ход. Вы можете сбросить 2 Попутных ветра, при этом повторите это заклинание.</text>
-			<set rarity="ultrarare" num="174" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS174.png">BG_10</set>
+			<set rarity="ultrarare" num="174" picurl="https://berserk.ru/image/data/Берсерк/_11362.png">BG_10</set>
 			<prop>
 				<colors>Горы/Болота</colors>
 				<manacost>10</manacost>
@@ -3179,7 +3179,7 @@ rаждый раз, когда вы разыгрываете карту таки
 		<card>
 			<name>Промыть мозги</name>
 			<text>Найм: Возьмите существо под контроль. В конце вашего хода положите эффект смерти на это существо. Когда на сущесвто кладётся 3 эффект смерти, уничтожьте это существо.</text>
-			<set rarity="rare" num="177" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS177.png">BG_10</set>
+			<set rarity="rare" num="177" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS177%20(1)%20(1)%20(1)%20(1).png">BG_10</set>
 			<prop>
 				<colors>Болота/Тьма</colors>
 				<manacost>4</manacost>
@@ -3251,7 +3251,7 @@ rаждый раз, когда вы разыгрываете карту таки
 		<card>
 			<name>Скелет-воин</name>
 			<text>Стоит на 1 монету дешевле за каждую помещённую любому игроку карту. Гибель: Выберите одно из: - Поместите Попутный ветер в вашу колоду ; - Поместите Чёрную метку в колоду противника.</text>
-			<set rarity="uncommon" num="181" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS181.png">BG_10</set>
+			<set rarity="uncommon" num="181" picurl="https://berserk.ru/image/data/Берсерк/_11369.png">BG_10</set>
 			<prop>
 				<colors>Болота/Тьма</colors>
 				<manacost>12</manacost>
@@ -3269,7 +3269,7 @@ rаждый раз, когда вы разыгрываете карту таки
 		<card>
 			<name>Тергвил</name>
 			<text>Каждый раз, когда Тергвил получает раны - выстрел на 1.</text>
-			<set rarity="common" num="182" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS182.png">BG_10</set>
+			<set rarity="common" num="182" picurl="https://berserk.ru/image/data/Берсерк/_11370.png">BG_10</set>
 			<prop>
 				<colors>Степи/Горы</colors>
 				<manacost>2</manacost>
@@ -3287,7 +3287,7 @@ rаждый раз, когда вы разыгрываете карту таки
 		<card>
 			<name>Торвальд</name>
 			<text>Вы можете смотреть верхнюю карту вашей колоды. Вы можете разыгрывать Попутные ветра с верха вашей колоды.</text>
-			<set rarity="common" num="183" picurl="https://berserk.ru/image/data/Берсерк/BH10_CARDS183.png">BG_10</set>
+			<set rarity="common" num="183" picurl="https://berserk.ru/image/data/Берсерк/_11371.png">BG_10</set>
 			<prop>
 				<colors>Горы/Болота</colors>
 				<manacost>3</manacost>
